@@ -32,7 +32,7 @@
   .cchip .cname{ font-family:var(--mono); font-weight:600; font-size:14px; }
   .cchip .cmeta{ font-family:var(--mono); font-size:10px; color:var(--amber-bright); margin-top:4px; }
   #grid{ padding:18px 20px 20px; display:grid; grid-template-columns:1fr; gap:14px; }
-  @media(min-width:720px){ #grid{grid-template-columns:1fr 1fr;} #movesGrid{grid-template-columns:1fr 1fr;} }
+  @media(min-width:720px){ #grid{grid-template-columns:1fr 1fr;} }
   .card{ background:var(--paper); color:var(--ink); border-radius:5px; overflow:hidden; border:1px solid #1B222C; }
   .card-head{ padding:14px 16px 10px; border-bottom:1px dashed var(--rule); display:flex; justify-content:space-between; align-items:flex-start; gap:10px; }
   .fund-name{ font-family:var(--serif); font-weight:600; font-size:18px; line-height:1.15; }
@@ -45,7 +45,7 @@
   .hname{ flex:1; font-weight:500; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
   .hval{ font-family:var(--mono); font-size:12.5px; color:var(--green); font-weight:600; flex-shrink:0; }
   .hpct{ font-family:var(--mono); font-size:10.5px; color:var(--slate); flex-shrink:0; width:38px; text-align:right; }
-  #overlapWrap, #movesWrap{ padding:18px 20px 40px; display:none; }
+  #overlapWrap{ padding:18px 20px 40px; display:none; }
   .ocard{ background:var(--paper); color:var(--ink); border-radius:5px; border:1px solid #1B222C; margin-bottom:12px; overflow:hidden; }
   .ohead{ padding:12px 16px; display:flex; justify-content:space-between; align-items:center; border-bottom:1px dashed var(--rule); }
   .oname{ font-family:var(--serif); font-weight:600; font-size:17px; }
@@ -55,19 +55,6 @@
   .ofrow{ display:flex; justify-content:space-between; padding:5px 0; font-size:13px; border-bottom:1px solid var(--paper-dim); }
   .ofrow:last-child{border-bottom:none;}
   .ofval{ font-family:var(--mono); color:var(--green); font-weight:600; font-size:12.5px; }
-  .disclaimer{ background:#1E1810; border:1px solid #3A3025; border-radius:5px; padding:14px 16px; margin-bottom:16px; font-size:12.5px; color:#C9A876; line-height:1.5; }
-  #movesGrid{ display:grid; grid-template-columns:1fr; gap:14px; }
-  .mcard{ background:var(--paper); color:var(--ink); border-radius:5px; border:1px solid #1B222C; overflow:hidden; }
-  .msection{ padding:10px 16px; border-bottom:1px solid var(--paper-dim); }
-  .msection:last-child{border-bottom:none;}
-  .mlabel{ font-family:var(--mono); font-size:10px; letter-spacing:0.08em; text-transform:uppercase; color:var(--slate); margin-bottom:6px; font-weight:600; }
-  .mlabel.buy{color:var(--green);} .mlabel.sell{color:var(--red);}
-  .mrow{ display:flex; justify-content:space-between; font-size:13px; padding:3px 0; }
-  .mtick{ font-family:var(--mono); font-weight:600; }
-  .mdelta{ font-family:var(--mono); font-size:12px; }
-  .mdelta.pos{color:var(--green);} .mdelta.neg{color:var(--red);}
-  .mtags{ display:flex; flex-wrap:wrap; gap:6px; }
-  .mtag{ font-family:var(--mono); font-size:11px; background:var(--paper-dim); padding:2px 7px; border-radius:2px; }
   .errbox{ padding:20px 16px; font-size:13px; color:var(--slate); }
   .loading{ padding:40px 20px; text-align:center; color:#8E97A3; font-family:var(--mono); font-size:13px; }
   footer{ padding:20px; text-align:center; font-family:var(--mono); font-size:10.5px; color:#4C5560; border-top:1px solid #2A323C; }
@@ -83,7 +70,6 @@
   <div class="asof" id="asofBanner">📌 Loading data…</div>
   <div class="tabs">
     <button class="tab active" id="tabHoldings" onclick="showTab('holdings')">Fund Holdings</button>
-    <button class="tab" id="tabMoves" onclick="showTab('moves')">Recent Moves</button>
     <button class="tab" id="tabOverlap" onclick="showTab('overlap')">Shared Positions</button>
   </div>
   <input id="searchBox" type="text" placeholder="Filter funds…">
@@ -95,13 +81,6 @@
 </div>
 
 <div id="grid"><div class="loading">Loading holdings…</div></div>
-
-<div id="movesWrap">
-  <div class="disclaimer">
-    <strong>What this can and can't show:</strong> SEC 13F filings report share counts quarterly — they never disclose the price or exact date of a trade. "Added"/"Reduced" is the dollar change in a position versus the prior filing (a proxy for conviction, not a trade price). "Exited" means the position was fully gone as of this filing.
-  </div>
-  <div id="movesGrid"></div>
-</div>
 
 <div id="overlapWrap"></div>
 
@@ -123,7 +102,6 @@ function fmtMoney(v){
 
 const grid = document.getElementById('grid');
 const overlapWrap = document.getElementById('overlapWrap');
-const movesGrid = document.getElementById('movesGrid');
 
 function renderCards(){
   const ok = FUNDS_DATA.filter(f => !f.error);
@@ -153,34 +131,6 @@ function renderCards(){
         <div class="card-head"><div class="fund-name">${f.name}</div><div class="stamp">unavailable</div></div>
         <div class="errbox">Couldn't load this fund's filing (${f.error}). It'll retry on the next scheduled update.</div>
       </div>`).join('');
-}
-
-function renderMoves(){
-  const withMoves = FUNDS_DATA.filter(f => !f.error && f.moves);
-  if (!withMoves.length){
-    movesGrid.innerHTML = '<p style="color:#8E97A3">No quarter-over-quarter comparison yet — this appears after the tracker has captured two consecutive filings for a fund.</p>';
-    return;
-  }
-  movesGrid.innerHTML = withMoves.map(f => `
-    <div class="mcard" data-label="${f.name.toLowerCase()}">
-      <div class="card-head"><div class="fund-name">${f.name}</div><div class="stamp">vs prior quarter</div></div>
-      <div class="msection">
-        <div class="mlabel buy">Added to (by $ value)</div>
-        ${f.moves.added.slice(0,8).map(m => `<div class="mrow"><span class="mtick">${m.name}</span><span class="mdelta pos">+${fmtMoney(m.delta)}</span></div>`).join('') || '<span style="color:#999">None</span>'}
-      </div>
-      <div class="msection">
-        <div class="mlabel sell">Reduced (by $ value)</div>
-        ${f.moves.reduced.slice(0,8).map(m => `<div class="mrow"><span class="mtick">${m.name}</span><span class="mdelta neg">${fmtMoney(m.delta)}</span></div>`).join('') || '<span style="color:#999">None</span>'}
-      </div>
-      <div class="msection">
-        <div class="mlabel buy">New positions started</div>
-        <div class="mtags">${f.moves.newPos.slice(0,12).map(t => `<span class="mtag">${t}</span>`).join('') || '<span style="color:#999">None</span>'}</div>
-      </div>
-      <div class="msection">
-        <div class="mlabel sell">Fully exited</div>
-        <div class="mtags">${f.moves.exited.slice(0,12).map(t => `<span class="mtag">${t}</span>`).join('') || '<span style="color:#999">None</span>'}</div>
-      </div>
-    </div>`).join('');
 }
 
 function renderConsensus(){
@@ -219,13 +169,11 @@ function renderOverlap(tally){
 
 function showTab(tab){
   document.getElementById('tabHoldings').classList.toggle('active', tab==='holdings');
-  document.getElementById('tabMoves').classList.toggle('active', tab==='moves');
   document.getElementById('tabOverlap').classList.toggle('active', tab==='overlap');
   document.getElementById('consensusWrap').style.display = tab==='holdings' ? 'block' : 'none';
   grid.style.display = tab==='holdings' ? 'grid' : 'none';
-  document.getElementById('movesWrap').style.display = tab==='moves' ? 'block' : 'none';
   overlapWrap.style.display = tab==='overlap' ? 'block' : 'none';
-  document.getElementById('searchBox').style.display = (tab==='holdings'||tab==='moves') ? 'block' : 'none';
+  document.getElementById('searchBox').style.display = tab==='holdings' ? 'block' : 'none';
 }
 
 document.getElementById('searchBox').addEventListener('input', (e) => {
@@ -249,7 +197,6 @@ async function init(){
     return;
   }
   renderCards();
-  renderMoves();
   const tally = renderConsensus();
   renderOverlap(tally);
   showTab('holdings');
