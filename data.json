@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-08-05T00:00:00Z",
+  "funds": [
+    {
+      "key": "1350694",
+      "name": "Bridgewater Associates, LP",
+      "cik": "1350694",
+      "period": "2026-03-31",
+      "filed": "2026-05-14",
+      "totalValue": 22000000000,
+      "moves": null,
+      "error": null,
+      "holdings": [
+        { "name": "SPDR S&P 500 ETF Trust", "value": 2800000000, "shares": 4400000, "weight": 12.7 },
+        { "name": "iShares Core S&P 500 ETF", "value": 1800000000, "shares": 2700000, "weight": 7.8 },
+        { "name": "Amazon.com", "value": 914000000, "shares": 4400000, "weight": 4.1 },
+        { "name": "NVIDIA", "value": 819000000, "shares": 4700000, "weight": 3.7 },
+        { "name": "Alphabet Cl A", "value": 575000000, "shares": 2000000, "weight": 2.6 },
+        { "name": "Broadcom", "value": 568000000, "shares": 1800000, "weight": 2.5 },
+        { "name": "Micron Technology", "value": 499000000, "shares": 1500000, "weight": 2.2 },
+        { "name": "Microsoft", "value": 402000000, "shares": 1100000, "weight": 1.8 },
+        { "name": "GE Vernova", "value": 380000000, "shares": 435000, "weight": 1.7 },
+        { "name": "Taiwan Semiconductor", "value": 364000000, "shares": 1100000, "weight": 1.6 }
+      ]
+    },
+    {
+      "key": "1067983",
+      "name": "Berkshire Hathaway Inc",
+      "cik": "1067983",
+      "period": "2026-03-31",
+      "filed": "2026-05-15",
+      "totalValue": 263000000000,
+      "moves": null,
+      "error": null,
+      "holdings": [
+        { "name": "Apple", "value": 58000000000, "shares": 228000000, "weight": 22.0 },
+        { "name": "American Express", "value": 46000000000, "shares": 152000000, "weight": 17.4 },
+        { "name": "Coca-Cola", "value": 30000000000, "shares": 400000000, "weight": 11.6 },
+        { "name": "Bank of America", "value": 25000000000, "shares": 514000000, "weight": 9.5 },
+        { "name": "Chevron", "value": 18000000000, "shares": 84000000, "weight": 6.6 },
+        { "name": "Occidental Petroleum", "value": 17000000000, "shares": 265000000, "weight": 6.5 },
+        { "name": "Alphabet Cl A", "value": 16000000000, "shares": 54000000, "weight": 5.9 },
+        { "name": "Chubb", "value": 11000000000, "shares": 34000000, "weight": 4.2 },
+        { "name": "Moody's", "value": 11000000000, "shares": 25000000, "weight": 4.1 },
+        { "name": "Kraft Heinz", "value": 7300000000, "shares": 326000000, "weight": 2.8 }
+      ]
+    },
+    {
+      "key": "1423053",
+      "name": "Citadel Advisors LLC",
+      "cik": "1423053",
+      "period": "2026-03-31",
+      "filed": "2026-05-15",
+      "totalValue": 618000000000,
+      "moves": null,
+      "error": null,
+      "holdings": [
+        { "name": "SPDR S&P 500 ETF (call)", "value": 42000000000, "shares": 65000000, "weight": 6.8 },
+        { "name": "Invesco QQQ Trust (call)", "value": 32000000000, "shares": 55000000, "weight": 5.1 },
+        { "name": "NVIDIA (call)", "value": 24000000000, "shares": 137000000, "weight": 3.9 },
+        { "name": "Tesla (call)", "value": 24000000000, "shares": 64000000, "weight": 3.8 },
+        { "name": "SPDR Gold Trust (call)", "value": 15000000000, "shares": 34000000, "weight": 2.4 },
+        { "name": "Apple (call)", "value": 14000000000, "shares": 55000000, "weight": 2.3 },
+        { "name": "Meta Platforms (call)", "value": 14000000000, "shares": 24000000, "weight": 2.2 },
+        { "name": "Microsoft (call)", "value": 12000000000, "shares": 32000000, "weight": 1.9 },
+        { "name": "Amazon (call)", "value": 11000000000, "shares": 52000000, "weight": 1.7 },
+        { "name": "Micron Technology (call)", "value": 11000000000, "shares": 32000000, "weight": 1.7 }
+      ]
+    },
+    {
+      "key": "1273087",
+      "name": "Millennium Management LLC",
+      "cik": "1273087",
+      "period": "2026-03-31",
+      "filed": "2026-05-14",
+      "totalValue": 240000000000,
+      "moves": null,
+      "error": null,
+      "holdings": [
+        { "name": "AstraZeneca (put, new)", "value": 21000000000, "shares": 1400000, "weight": 8.0 },
+        { "name": "iShares Russell 2000 ETF", "value": 13000000000, "shares": 53000000, "weight": 5.1 },
+        { "name": "iShares Core S&P 500 ETF", "value": 8500000000, "shares": 13000000, "weight": 3.3 },
+        { "name": "NVIDIA", "value": 7300000000, "shares": 42000000, "weight": 2.8 },
+        { "name": "Invesco QQQ Trust", "value": 6100000000, "shares": 11000000, "weight": 2.4 },
+        { "name": "Apple (put)", "value": 4700000000, "shares": 19000000, "weight": 1.8 },
+        { "name": "Microsoft", "value": 4600000000, "shares": 13000000, "weight": 1.8 },
+        { "name": "Meta Platforms", "value": 4100000000, "shares": 7100000, "weight": 1.6 },
+        { "name": "Amazon (call)", "value": 3800000000, "shares": 18000000, "weight": 1.5 },
+        { "name": "SPDR S&P 500 ETF", "value": 3200000000, "shares": 4900000, "weight": 1.2 }
+      ]
+    }
+  ]
+}
