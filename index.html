@@ -97,14 +97,7 @@
 
 <div id="overlapWrap"></div>
 
-<div id="researchWrap">
-  <div class="rsection-title">Investor Letters &amp; Public Commentary</div>
-  <div id="lettersList"></div>
-
-  <div class="rsection-title" style="margin-top:24px;">Search Every Holding</div>
-  <p style="color:#8E97A3; font-size:12.5px; margin:0 0 14px;">Tap 🔍 to open a pre-filled search for that fund's rationale on a specific position. 13F filings never explain a trade — this just gets you to whatever public commentary exists faster.</p>
-  <div id="researchGrid"></div>
-</div>
+<div id="researchWrap"></div>
 
 <footer>
   Data: SEC EDGAR 13F-HR filings, fetched automatically by a scheduled job. Filings lag actual trades by up to 45 days and cover US long equity positions only.<br>
@@ -137,8 +130,16 @@ function searchUrl(fundName, holdingName){
 
 const grid = document.getElementById('grid');
 const overlapWrap = document.getElementById('overlapWrap');
-const researchGrid = document.getElementById('researchGrid');
-const lettersList = document.getElementById('lettersList');
+let researchGrid = null;
+let lettersList = null;
+const researchWrapTemplate = `
+  <div class="rsection-title">Investor Letters &amp; Public Commentary</div>
+  <div id="lettersList"></div>
+
+  <div class="rsection-title" style="margin-top:24px;">Search Every Holding</div>
+  <p style="color:#8E97A3; font-size:12.5px; margin:0 0 14px;">Tap 🔍 to open a pre-filled search for that fund's rationale on a specific position. 13F filings never explain a trade — this just gets you to whatever public commentary exists faster.</p>
+  <div id="researchGrid"></div>
+`;
 
 function renderCards(){
   const ok = FUNDS_DATA.filter(f => !f.error);
@@ -229,6 +230,8 @@ function renderResearch(){
     </div>`).join('');
 }
 
+let overlapBuilt = false, researchBuilt = false, cachedTally = null;
+
 function showTab(tab){
   document.getElementById('tabHoldings').classList.toggle('active', tab==='holdings');
   document.getElementById('tabOverlap').classList.toggle('active', tab==='overlap');
@@ -238,6 +241,21 @@ function showTab(tab){
   overlapWrap.style.display = tab==='overlap' ? 'block' : 'none';
   document.getElementById('researchWrap').style.display = tab==='research' ? 'block' : 'none';
   document.getElementById('searchBox').style.display = (tab==='holdings'||tab==='research') ? 'block' : 'none';
+
+  if (tab==='overlap' && !overlapBuilt){
+    overlapWrap.innerHTML = '<div class="loading">Building…</div>';
+    setTimeout(() => { renderOverlap(cachedTally); overlapBuilt = true; }, 10);
+  }
+  if (tab==='research' && !researchBuilt){
+    document.getElementById('researchWrap').innerHTML = '<div class="loading">Building…</div>';
+    setTimeout(() => {
+      document.getElementById('researchWrap').innerHTML = researchWrapTemplate;
+      lettersList = document.getElementById('lettersList');
+      researchGrid = document.getElementById('researchGrid');
+      renderResearch();
+      researchBuilt = true;
+    }, 10);
+  }
 }
 
 document.getElementById('searchBox').addEventListener('input', (e) => {
@@ -254,16 +272,14 @@ async function init(){
     FUNDS_DATA = data.funds || [];
     const generated = new Date(data.generatedAt);
     document.getElementById('asofBanner').textContent =
-      '📌 Data last fetched ' + generated.toLocaleString(undefined, {dateStyle:'medium', timeStyle:'short'});
+      '📌 Data last fetched ' + generated.toLocaleString(undefined, {dateStyle:'medium', timeStyle:'short'}) + ' · ' + FUNDS_DATA.length + ' funds tracked';
   }catch(err){
     document.getElementById('asofBanner').textContent = '⚠️ Could not load data.json';
     grid.innerHTML = '<div class="loading">Could not load data.json. Has the update workflow run yet?</div>';
     return;
   }
   renderCards();
-  const tally = renderConsensus();
-  renderOverlap(tally);
-  renderResearch();
+  cachedTally = renderConsensus();
   showTab('holdings');
 }
 
