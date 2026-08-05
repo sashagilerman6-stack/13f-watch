@@ -32,7 +32,7 @@
   .cchip .cname{ font-family:var(--mono); font-weight:600; font-size:14px; }
   .cchip .cmeta{ font-family:var(--mono); font-size:10px; color:var(--amber-bright); margin-top:4px; }
   #grid{ padding:18px 20px 20px; display:grid; grid-template-columns:1fr; gap:14px; }
-  @media(min-width:720px){ #grid{grid-template-columns:1fr 1fr;} }
+  @media(min-width:720px){ #grid{grid-template-columns:1fr 1fr;} #researchGrid{grid-template-columns:1fr 1fr;} }
   .card{ background:var(--paper); color:var(--ink); border-radius:5px; overflow:hidden; border:1px solid #1B222C; }
   .card-head{ padding:14px 16px 10px; border-bottom:1px dashed var(--rule); display:flex; justify-content:space-between; align-items:flex-start; gap:10px; }
   .fund-name{ font-family:var(--serif); font-weight:600; font-size:18px; line-height:1.15; }
@@ -45,7 +45,7 @@
   .hname{ flex:1; font-weight:500; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
   .hval{ font-family:var(--mono); font-size:12.5px; color:var(--green); font-weight:600; flex-shrink:0; }
   .hpct{ font-family:var(--mono); font-size:10.5px; color:var(--slate); flex-shrink:0; width:38px; text-align:right; }
-  #overlapWrap{ padding:18px 20px 40px; display:none; }
+  #overlapWrap, #researchWrap{ padding:18px 20px 40px; display:none; }
   .ocard{ background:var(--paper); color:var(--ink); border-radius:5px; border:1px solid #1B222C; margin-bottom:12px; overflow:hidden; }
   .ohead{ padding:12px 16px; display:flex; justify-content:space-between; align-items:center; border-bottom:1px dashed var(--rule); }
   .oname{ font-family:var(--serif); font-weight:600; font-size:17px; }
@@ -59,6 +59,18 @@
   .loading{ padding:40px 20px; text-align:center; color:#8E97A3; font-family:var(--mono); font-size:13px; }
   footer{ padding:20px; text-align:center; font-family:var(--mono); font-size:10.5px; color:#4C5560; border-top:1px solid #2A323C; }
   footer a{ color:var(--amber-bright); }
+
+  #researchGrid{ display:grid; grid-template-columns:1fr; gap:14px; margin-top:16px; }
+  .rsection-title{ font-family:var(--mono); font-size:11px; letter-spacing:0.1em; text-transform:uppercase; color:#8E97A3; margin:0 0 10px; font-weight:600; }
+  .rletter{ background:var(--paper); color:var(--ink); border-radius:5px; border:1px solid #1B222C; padding:14px 16px; margin-bottom:10px; display:flex; justify-content:space-between; align-items:center; gap:10px; }
+  .rletter .fund-name{ font-size:15px; }
+  .rletter-link{ font-family:var(--mono); font-size:11.5px; background:var(--amber); color:#1B140A; padding:6px 10px; border-radius:3px; font-weight:600; white-space:nowrap; text-decoration:none; }
+  .rletter-none{ font-family:var(--mono); font-size:11px; color:var(--slate); }
+  .rcard{ background:var(--paper); color:var(--ink); border-radius:5px; border:1px solid #1B222C; overflow:hidden; }
+  .rrow{ display:flex; justify-content:space-between; align-items:center; padding:8px 16px; border-bottom:1px solid var(--paper-dim); font-size:13px; }
+  .rrow:last-child{border-bottom:none;}
+  .rname{ flex:1; font-weight:500; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .rsearch{ font-family:var(--mono); font-size:15px; text-decoration:none; padding:2px 8px; }
 </style>
 </head>
 <body>
@@ -71,6 +83,7 @@
   <div class="tabs">
     <button class="tab active" id="tabHoldings" onclick="showTab('holdings')">Fund Holdings</button>
     <button class="tab" id="tabOverlap" onclick="showTab('overlap')">Shared Positions</button>
+    <button class="tab" id="tabResearch" onclick="showTab('research')">Research</button>
   </div>
   <input id="searchBox" type="text" placeholder="Filter funds…">
 </header>
@@ -84,6 +97,15 @@
 
 <div id="overlapWrap"></div>
 
+<div id="researchWrap">
+  <div class="rsection-title">Investor Letters &amp; Public Commentary</div>
+  <div id="lettersList"></div>
+
+  <div class="rsection-title" style="margin-top:24px;">Search Every Holding</div>
+  <p style="color:#8E97A3; font-size:12.5px; margin:0 0 14px;">Tap 🔍 to open a pre-filled search for that fund's rationale on a specific position. 13F filings never explain a trade — this just gets you to whatever public commentary exists faster.</p>
+  <div id="researchGrid"></div>
+</div>
+
 <footer>
   Data: SEC EDGAR 13F-HR filings, fetched automatically by a scheduled job. Filings lag actual trades by up to 45 days and cover US long equity positions only.<br>
   Not investment advice. Fund list is set in <code>fetch_13f.py</code>.
@@ -91,6 +113,14 @@
 
 <script>
 let FUNDS_DATA = [];
+
+// Which funds publish public investor letters, and where.
+// Bridgewater, Citadel, and Millennium do not publish public investor letters or
+// position-level rationale -- they're intentionally left as "none" rather than
+// pointing somewhere misleading.
+const LETTERS = {
+  "1067983": "https://www.berkshirehathaway.com/letters/letters.html",
+};
 
 function fmtMoney(v){
   const a = Math.abs(v);
@@ -100,8 +130,15 @@ function fmtMoney(v){
   return (v<0?'-':'') + '$' + a.toFixed(0);
 }
 
+function searchUrl(fundName, holdingName){
+  const q = `"${fundName}" "${holdingName}" investor letter OR thesis OR rationale`;
+  return "https://www.google.com/search?q=" + encodeURIComponent(q);
+}
+
 const grid = document.getElementById('grid');
 const overlapWrap = document.getElementById('overlapWrap');
+const researchGrid = document.getElementById('researchGrid');
+const lettersList = document.getElementById('lettersList');
 
 function renderCards(){
   const ok = FUNDS_DATA.filter(f => !f.error);
@@ -167,13 +204,40 @@ function renderOverlap(tally){
     </div>`).join('');
 }
 
+function renderResearch(){
+  const ok = FUNDS_DATA.filter(f => !f.error);
+
+  lettersList.innerHTML = ok.map(f => {
+    const url = LETTERS[f.cik];
+    return `
+      <div class="rletter">
+        <div class="fund-name">${f.name}</div>
+        ${url
+          ? `<a class="rletter-link" href="${url}" target="_blank" rel="noopener">View Letters →</a>`
+          : `<span class="rletter-none">No public letters</span>`}
+      </div>`;
+  }).join('');
+
+  researchGrid.innerHTML = ok.map(f => `
+    <div class="rcard" data-label="${f.name.toLowerCase()}">
+      <div class="card-head"><div class="fund-name">${f.name}</div></div>
+      ${f.holdings.map(h => `
+        <div class="rrow">
+          <div class="rname">${h.name}</div>
+          <a class="rsearch" href="${searchUrl(f.name, h.name)}" target="_blank" rel="noopener">🔍</a>
+        </div>`).join('')}
+    </div>`).join('');
+}
+
 function showTab(tab){
   document.getElementById('tabHoldings').classList.toggle('active', tab==='holdings');
   document.getElementById('tabOverlap').classList.toggle('active', tab==='overlap');
+  document.getElementById('tabResearch').classList.toggle('active', tab==='research');
   document.getElementById('consensusWrap').style.display = tab==='holdings' ? 'block' : 'none';
   grid.style.display = tab==='holdings' ? 'grid' : 'none';
   overlapWrap.style.display = tab==='overlap' ? 'block' : 'none';
-  document.getElementById('searchBox').style.display = tab==='holdings' ? 'block' : 'none';
+  document.getElementById('researchWrap').style.display = tab==='research' ? 'block' : 'none';
+  document.getElementById('searchBox').style.display = (tab==='holdings'||tab==='research') ? 'block' : 'none';
 }
 
 document.getElementById('searchBox').addEventListener('input', (e) => {
@@ -199,6 +263,7 @@ async function init(){
   renderCards();
   const tally = renderConsensus();
   renderOverlap(tally);
+  renderResearch();
   showTab('holdings');
 }
 
