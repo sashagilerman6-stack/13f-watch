@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:32:56.834201+00:00",
+  "generatedAt": "2026-08-16T13:35:56.552870+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -70,50 +70,7 @@
           "weight": 1.28
         }
       ],
-      "moves": {
-        "added": [
-          {
-            "name": "STATE STR SPDR S&amp;P 500 ETF T",
-            "delta": 1134402052000.0
-          },
-          {
-            "name": "ISHARES TR",
-            "delta": 503551710000.0
-          },
-          {
-            "name": "ISHARES INC",
-            "delta": 86576874000.0
-          }
-        ],
-        "reduced": [
-          {
-            "name": "AMAZON COM INC",
-            "delta": -431283698000.0
-          },
-          {
-            "name": "ALPHABET INC",
-            "delta": -186740933000.0
-          },
-          {
-            "name": "BROADCOM INC",
-            "delta": -70223051000.0
-          },
-          {
-            "name": "NVIDIA CORPORATION",
-            "delta": -44872765000.0
-          }
-        ],
-        "newPos": [
-          "LAM RESEARCH CORP",
-          "VANGUARD INDEX FDS",
-          "ADVANCED MICRO DEVICES INC"
-        ],
-        "exited": [
-          "MICRON TECHNOLOGY INC",
-          "MICROSOFT CORP",
-          "GE VERNOVA INC"
-        ]
-      },
+      "moves": null,
       "error": null
     },
     {
@@ -185,52 +142,7 @@
           "weight": 2.57
         }
       ],
-      "moves": {
-        "added": [
-          {
-            "name": "ALPHABET INC",
-            "delta": 21135561695000.0
-          },
-          {
-            "name": "APPLE INC",
-            "delta": 8107036430000.0
-          },
-          {
-            "name": "AMERICAN EXPRESS CO",
-            "delta": 5423114739000.0
-          },
-          {
-            "name": "COCA COLA CO",
-            "delta": 2088000000000.0
-          },
-          {
-            "name": "MOODYS CORP",
-            "delta": 411245199000.0
-          },
-          {
-            "name": "KRAFT HEINZ CO",
-            "delta": 367967344000.0
-          }
-        ],
-        "reduced": [
-          {
-            "name": "OCCIDENTAL PETE CORP",
-            "delta": -4352987711000.0
-          },
-          {
-            "name": "CHEVRON CORPORATION",
-            "delta": -3471222716000.0
-          }
-        ],
-        "newPos": [
-          "BANK OF AMER CORP",
-          "CHUBB LIMITED"
-        ],
-        "exited": [
-          "BANK AMERICA CORP",
-          "CHUBB LTD SWITZ"
-        ]
-      },
+      "moves": null,
       "error": null
     },
     {
@@ -302,48 +214,7 @@
           "weight": 2.1
         }
       ],
-      "moves": {
-        "added": [
-          {
-            "name": "INVESCO QQQ TR",
-            "delta": 18235188804000.0
-          },
-          {
-            "name": "ISHARES TR",
-            "delta": 18079744424000.0
-          },
-          {
-            "name": "STATE STR SPDR S&amp;P 500 ETF T",
-            "delta": 17258813474000.0
-          },
-          {
-            "name": "ALPHABET INC",
-            "delta": 5266810052000.0
-          },
-          {
-            "name": "TESLA INC",
-            "delta": 37357522000.0
-          }
-        ],
-        "reduced": [
-          {
-            "name": "NVIDIA CORPORATION",
-            "delta": -201758630000.0
-          }
-        ],
-        "newPos": [
-          "MICRON TECHNOLOGY INC",
-          "SANDISK CORP",
-          "ADVANCED MICRO DEVICES INC",
-          "VANECK ETF TRUST"
-        ],
-        "exited": [
-          "SPDR GOLD TR",
-          "APPLE INC",
-          "META PLATFORMS INC",
-          "MICROSOFT CORP"
-        ]
-      },
+      "moves": null,
       "error": null
     },
     {
@@ -415,44 +286,7 @@
           "weight": 1.58
         }
       ],
-      "moves": {
-        "added": [
-          {
-            "name": "ISHARES  TR",
-            "delta": 4574947815000.0
-          },
-          {
-            "name": "INVESCO  QQQ  TR",
-            "delta": 1544399828000.0
-          }
-        ],
-        "reduced": [
-          {
-            "name": "SELECT  SECTOR  SPDR  TR",
-            "delta": -927709574000.0
-          },
-          {
-            "name": "ALPHABET     INC",
-            "delta": -77894504000.0
-          }
-        ],
-        "newPos": [
-          "STATE  STR    SPDR  S&amp;P  500  ETF   T",
-          "NVIDIA  CORPORATION",
-          "MICRON   TECHNOLOGY   INC",
-          "MICROSOFT      CORP",
-          "AMAZON   COM   INC",
-          "ADVANCED   MICRO     DEVICES     INC"
-        ],
-        "exited": [
-          "NVIDIA    CORPORATION",
-          "APPLE   INC",
-          "MICROSOFT     CORP",
-          "META  PLATFORMS      INC",
-          "AMAZON   COM    INC",
-          "SPDR  SERIES  TRUST"
-        ]
-      },
+      "moves": null,
       "error": null
     },
     {
