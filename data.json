@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T13:41:57.049389+00:00",
+  "generatedAt": "2026-08-18T13:46:01.420443+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -12488,6 +12488,66 @@
       "error": null
     },
     {
+      "key": "1631014",
+      "name": "ALTAROCK PARTNERS LP",
+      "cik": "1631014",
+      "period": "2026-06-30",
+      "filed": "2026-08-17",
+      "totalValue": 4239761490000.0,
+      "holdings": [
+        {
+          "name": "AMAZON.COM INC",
+          "value": 1365681526000.0,
+          "shares": 5729972.0,
+          "weight": 32.21
+        },
+        {
+          "name": "TRANSDIGM GROUP INC",
+          "value": 1166540690000.0,
+          "shares": 875755.0,
+          "weight": 27.51
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 870808476000.0,
+          "shares": 2334482.0,
+          "weight": 20.54
+        },
+        {
+          "name": "MASTERCARD INC-CLASS A",
+          "value": 392650795000.0,
+          "shares": 764507.0,
+          "weight": 9.26
+        },
+        {
+          "name": "VISA INC-CLASS A SHRS",
+          "value": 286984492000.0,
+          "shares": 836470.0,
+          "weight": 6.77
+        },
+        {
+          "name": "MOODYS CORP",
+          "value": 137064462000.0,
+          "shares": 302624.0,
+          "weight": 3.23
+        },
+        {
+          "name": "ALPHABET INC-CL A",
+          "value": 15007396000.0,
+          "shares": 41994.0,
+          "weight": 0.35
+        },
+        {
+          "name": "HILTON WORLDWIDE",
+          "value": 5023653000.0,
+          "shares": 15202.0,
+          "weight": 0.12
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1767699",
       "name": "ALTERNA WEALTH MANAGEMENT, INC",
       "cik": "1767699",
@@ -23696,6 +23756,78 @@
       "error": null
     },
     {
+      "key": "1067926",
+      "name": "Adelante Capital Management LLC",
+      "cik": "1067926",
+      "period": "2026-06-30",
+      "filed": "2026-08-17",
+      "totalValue": 1520992758000.0,
+      "holdings": [
+        {
+          "name": "Welltower Inc.",
+          "value": 220721194000.0,
+          "shares": 972469.0,
+          "weight": 14.51
+        },
+        {
+          "name": "ProLogis Inc.",
+          "value": 172652546000.0,
+          "shares": 1274473.0,
+          "weight": 11.35
+        },
+        {
+          "name": "Equinix Inc.",
+          "value": 129153523000.0,
+          "shares": 123901.0,
+          "weight": 8.49
+        },
+        {
+          "name": "Simon Property Group, Inc.",
+          "value": 93282206000.0,
+          "shares": 417092.0,
+          "weight": 6.13
+        },
+        {
+          "name": "Digital Realty Trust",
+          "value": 87530906000.0,
+          "shares": 487419.0,
+          "weight": 5.75
+        },
+        {
+          "name": "Realty Income",
+          "value": 72114766000.0,
+          "shares": 1163890.0,
+          "weight": 4.74
+        },
+        {
+          "name": "AvalonBay Communities, Inc.",
+          "value": 55000778000.0,
+          "shares": 291487.0,
+          "weight": 3.62
+        },
+        {
+          "name": "Ventas, Inc.",
+          "value": 52736858000.0,
+          "shares": 593888.0,
+          "weight": 3.47
+        },
+        {
+          "name": "Equity Residential",
+          "value": 49119870000.0,
+          "shares": 723095.0,
+          "weight": 3.23
+        },
+        {
+          "name": "Iron Mountain",
+          "value": 41131393000.0,
+          "shares": 325641.0,
+          "weight": 2.7
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "2106968",
       "name": "Adelphi Trust Co",
       "cik": "2106968",
@@ -30038,6 +30170,78 @@
       "error": null
     },
     {
+      "key": "1596468",
+      "name": "Almitas Capital LLC",
+      "cik": "1596468",
+      "period": "2026-06-30",
+      "filed": "2026-08-17",
+      "totalValue": 417358165000.0,
+      "holdings": [
+        {
+          "name": "FIDELITY WISE ORIGIN BITCOIN",
+          "value": 69658848000.0,
+          "shares": 1364522.0,
+          "weight": 16.69
+        },
+        {
+          "name": "BLACKROCK MUN TARGET TERM TR",
+          "value": 33788596000.0,
+          "shares": 1485213.0,
+          "weight": 8.1
+        },
+        {
+          "name": "ASA GOLD AND PRECIOUS MTLS L",
+          "value": 32739457000.0,
+          "shares": 629121.0,
+          "weight": 7.84
+        },
+        {
+          "name": "AMYLYX PHARMACEUTICALS INC",
+          "value": 17508863000.0,
+          "shares": 974881.0,
+          "weight": 4.2
+        },
+        {
+          "name": "DESIGN THERAPEUTICS INC",
+          "value": 14859142000.0,
+          "shares": 1026893.0,
+          "weight": 3.56
+        },
+        {
+          "name": "PIMCO DYNAMIC INCOME STRATEG",
+          "value": 11440486000.0,
+          "shares": 549495.0,
+          "weight": 2.74
+        },
+        {
+          "name": "CORNERSTONE TOTAL RETURN FD",
+          "value": 11289179000.0,
+          "shares": 1572309.0,
+          "weight": 2.7
+        },
+        {
+          "name": "CANNAE HLDGS INC",
+          "value": 10674979000.0,
+          "shares": 741318.0,
+          "weight": 2.56
+        },
+        {
+          "name": "NYLI CBRE GBL INFR MEGTRNDS",
+          "value": 8473422000.0,
+          "shares": 557462.0,
+          "weight": 2.03
+        },
+        {
+          "name": "LYELL IMMUNOPHARMA INC",
+          "value": 8168768000.0,
+          "shares": 581407.0,
+          "weight": 1.96
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1512910",
       "name": "AlpInvest Partners B.V.",
       "cik": "1512910",
@@ -33360,168 +33564,6 @@
           "value": 979622000.0,
           "shares": 2756.0,
           "weight": 0.65
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1308778",
-      "name": "America First Investment Advisors, LLC",
-      "cik": "1308778",
-      "period": "2026-06-30",
-      "filed": "2026-08-05",
-      "totalValue": 538854353000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 43976837000.0,
-          "shares": 535584.0,
-          "weight": 8.16
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 36173892000.0,
-          "shares": 101223.0,
-          "weight": 6.71
-        },
-        {
-          "name": "JOHNSON &amp; JOHNSON",
-          "value": 35290811000.0,
-          "shares": 138957.0,
-          "weight": 6.55
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 29224774000.0,
-          "shares": 122618.0,
-          "weight": 5.42
-        },
-        {
-          "name": "ENBRIDGE INC",
-          "value": 28228300000.0,
-          "shares": 520721.0,
-          "weight": 5.24
-        },
-        {
-          "name": "BERKLEY W R CORP",
-          "value": 27055661000.0,
-          "shares": 383605.0,
-          "weight": 5.02
-        },
-        {
-          "name": "THERMO FISHER SCIENTIFIC INC",
-          "value": 26645279000.0,
-          "shares": 53146.0,
-          "weight": 4.94
-        },
-        {
-          "name": "SLB LIMITED",
-          "value": 26312782000.0,
-          "shares": 565988.0,
-          "weight": 4.88
-        },
-        {
-          "name": "BROOKFIELD CORP",
-          "value": 26243138000.0,
-          "shares": 616181.0,
-          "weight": 4.87
-        },
-        {
-          "name": "AUTOMATIC DATA PROCESSING IN",
-          "value": 25908254000.0,
-          "shares": 115688.0,
-          "weight": 4.81
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "6201",
-      "name": "American Airlines Group Inc.",
-      "cik": "6201",
-      "period": "2026-06-30",
-      "filed": "2026-08-14",
-      "totalValue": 204971228000.0,
-      "holdings": [
-        {
-          "name": "REPUBLIC AWYS HLDGS INC",
-          "value": 204971228000.0,
-          "shares": 9755889.0,
-          "weight": 100.0
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2041441",
-      "name": "American Alpha Advisors, LLC",
-      "cik": "2041441",
-      "period": "2026-06-30",
-      "filed": "2026-08-14",
-      "totalValue": 185107538000.0,
-      "holdings": [
-        {
-          "name": "PACER FDS TR",
-          "value": 17276154000.0,
-          "shares": 460136.0,
-          "weight": 9.33
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 15724856000.0,
-          "shares": 155138.0,
-          "weight": 8.49
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 13793104000.0,
-          "shares": 55677.0,
-          "weight": 7.45
-        },
-        {
-          "name": "SCHWAB STRATEGIC TR",
-          "value": 12270787000.0,
-          "shares": 386969.0,
-          "weight": 6.63
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 11929680000.0,
-          "shares": 16200.0,
-          "weight": 6.44
-        },
-        {
-          "name": "ALPS ETF TR",
-          "value": 6175106000.0,
-          "shares": 149954.0,
-          "weight": 3.34
-        },
-        {
-          "name": "GOLDMAN SACHS ETF TR",
-          "value": 6069411000.0,
-          "shares": 109221.0,
-          "weight": 3.28
-        },
-        {
-          "name": "ADVANCED MICRO DEVICES INC",
-          "value": 5995572000.0,
-          "shares": 10321.0,
-          "weight": 3.24
-        },
-        {
-          "name": "WISDOMTREE TR",
-          "value": 5969415000.0,
-          "shares": 110320.0,
-          "weight": 3.22
-        },
-        {
-          "name": "LEGG MASON ETF INVT",
-          "value": 5947042000.0,
-          "shares": 146533.0,
-          "weight": 3.21
         }
       ],
       "moves": null,
