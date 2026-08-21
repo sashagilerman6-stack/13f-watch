@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T13:50:36.721569+00:00",
+  "generatedAt": "2026-08-21T13:47:59.982753+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -19202,6 +19202,78 @@
       "error": null
     },
     {
+      "key": "2111013",
+      "name": "ATX Financial Planning, LLC",
+      "cik": "2111013",
+      "period": "2026-06-30",
+      "filed": "2026-08-20",
+      "totalValue": 151096971000.0,
+      "holdings": [
+        {
+          "name": "INNOVATOR ETFS TRUST",
+          "value": 41498191000.0,
+          "shares": 1114487.0,
+          "weight": 27.46
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 20719305000.0,
+          "shares": 312378.0,
+          "weight": 13.71
+        },
+        {
+          "name": "INVESCO EXCH TRADED FD TR II",
+          "value": 12855394000.0,
+          "shares": 74288.0,
+          "weight": 8.51
+        },
+        {
+          "name": "SPDR SERIES TRUST",
+          "value": 9913307000.0,
+          "shares": 100539.0,
+          "weight": 6.56
+        },
+        {
+          "name": "VANGUARD SCOTTSDALE FDS",
+          "value": 6688996000.0,
+          "shares": 113411.0,
+          "weight": 4.43
+        },
+        {
+          "name": "BLACKROCK ETF TRUST II",
+          "value": 5996878000.0,
+          "shares": 115525.0,
+          "weight": 3.97
+        },
+        {
+          "name": "INVESCO EXCHANGE TRADED FD T",
+          "value": 5844356000.0,
+          "shares": 42437.0,
+          "weight": 3.87
+        },
+        {
+          "name": "PUTNAM ETF TRUST",
+          "value": 5416888000.0,
+          "shares": 106318.0,
+          "weight": 3.59
+        },
+        {
+          "name": "DBX ETF TR",
+          "value": 2846182000.0,
+          "shares": 52099.0,
+          "weight": 1.88
+        },
+        {
+          "name": "ISHARES GOLD TR",
+          "value": 2809199000.0,
+          "shares": 37203.0,
+          "weight": 1.86
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1706915",
       "name": "AUA CAPITAL MANAGEMENT, LLC",
       "cik": "1706915",
@@ -33492,78 +33564,6 @@
           "value": 2642666000.0,
           "shares": 39302.0,
           "weight": 1.2
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1102062",
-      "name": "AmeriServ Wealth Advisors",
-      "cik": "1102062",
-      "period": "2026-06-30",
-      "filed": "2026-08-03",
-      "totalValue": 150243271000.0,
-      "holdings": [
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 84505102000.0,
-          "shares": 123040.0,
-          "weight": 56.25
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 27619202000.0,
-          "shares": 288102.0,
-          "weight": 18.38
-        },
-        {
-          "name": "VANGUARD SCOTTSDALE FDS",
-          "value": 5808000000.0,
-          "shares": 101688.0,
-          "weight": 3.87
-        },
-        {
-          "name": "SELECT SECTOR SPDR TR",
-          "value": 5080783000.0,
-          "shares": 67626.0,
-          "weight": 3.38
-        },
-        {
-          "name": "AMERISERV FINL INC",
-          "value": 3451122000.0,
-          "shares": 889464.0,
-          "weight": 2.3
-        },
-        {
-          "name": "ELI LILLY &amp; CO",
-          "value": 3312825000.0,
-          "shares": 2762.0,
-          "weight": 2.2
-        },
-        {
-          "name": "APPLE INC",
-          "value": 2549261000.0,
-          "shares": 8810.0,
-          "weight": 1.7
-        },
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 2053323000.0,
-          "shares": 10262.0,
-          "weight": 1.37
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 1704765000.0,
-          "shares": 2315.0,
-          "weight": 1.13
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 979622000.0,
-          "shares": 2756.0,
-          "weight": 0.65
         }
       ],
       "moves": null,
