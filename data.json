@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T13:47:59.982753+00:00",
+  "generatedAt": "2026-08-22T13:36:11.786440+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -17876,6 +17876,78 @@
       "error": null
     },
     {
+      "key": "897070",
+      "name": "ASHFORD CAPITAL MANAGEMENT INC",
+      "cik": "897070",
+      "period": "2026-06-30",
+      "filed": "2026-08-21",
+      "totalValue": 932619485000.0,
+      "holdings": [
+        {
+          "name": "LIGAND PHARMACEUTICALS - CL B",
+          "value": 53809897000.0,
+          "shares": 170236.0,
+          "weight": 5.77
+        },
+        {
+          "name": "GLOBALSTAR INC.",
+          "value": 41433513000.0,
+          "shares": 509700.0,
+          "weight": 4.44
+        },
+        {
+          "name": "RED VIOLET INC",
+          "value": 36651362000.0,
+          "shares": 575194.0,
+          "weight": 3.93
+        },
+        {
+          "name": "VANGUARD TOTAL STOCK MARKET ETF",
+          "value": 35916822000.0,
+          "shares": 97062.0,
+          "weight": 3.85
+        },
+        {
+          "name": "STONEX GROUP, INC.",
+          "value": 32710266000.0,
+          "shares": 276036.0,
+          "weight": 3.51
+        },
+        {
+          "name": "SUPERNUS PHARMACEUTICALS INC.",
+          "value": 28547047000.0,
+          "shares": 613783.0,
+          "weight": 3.06
+        },
+        {
+          "name": "VICOR CORP",
+          "value": 28453118000.0,
+          "shares": 74920.0,
+          "weight": 3.05
+        },
+        {
+          "name": "ACUITY, INC.",
+          "value": 27857397000.0,
+          "shares": 73959.0,
+          "weight": 2.99
+        },
+        {
+          "name": "UFP TECHNOLOGIES, INC.",
+          "value": 27843953000.0,
+          "shares": 105020.0,
+          "weight": 2.99
+        },
+        {
+          "name": "CLEAR SECURE, INC. -CLASS A",
+          "value": 26699240000.0,
+          "shares": 479082.0,
+          "weight": 2.86
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "771572",
       "name": "ASHTON THOMAS SECURITIES, LLC",
       "cik": "771572",
@@ -33492,78 +33564,6 @@
           "value": 7858126000.0,
           "shares": 68684.0,
           "weight": 2.33
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1772954",
-      "name": "Ameraudi Asset Management, Inc.",
-      "cik": "1772954",
-      "period": "2026-06-30",
-      "filed": "2026-08-06",
-      "totalValue": 220775483000.0,
-      "holdings": [
-        {
-          "name": "SELECT SECTOR SPDR TR",
-          "value": 48263328000.0,
-          "shares": 451997.0,
-          "weight": 21.86
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 39783469000.0,
-          "shares": 57925.0,
-          "weight": 18.02
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 39769754000.0,
-          "shares": 428843.0,
-          "weight": 18.01
-        },
-        {
-          "name": "VANGUARD INTL EQUITY INDEX F",
-          "value": 30447821000.0,
-          "shares": 354696.0,
-          "weight": 13.79
-        },
-        {
-          "name": "VANGUARD BD INDEX FDS",
-          "value": 29639141000.0,
-          "shares": 403748.0,
-          "weight": 13.43
-        },
-        {
-          "name": "ISHARES INC",
-          "value": 8766178000.0,
-          "shares": 125624.0,
-          "weight": 3.97
-        },
-        {
-          "name": "INVESCO EXCHANGE TRADED FD T",
-          "value": 7386949000.0,
-          "shares": 34718.0,
-          "weight": 3.35
-        },
-        {
-          "name": "SPDR GOLD TR",
-          "value": 5482600000.0,
-          "shares": 14883.0,
-          "weight": 2.48
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 3337261000.0,
-          "shares": 69577.0,
-          "weight": 1.51
-        },
-        {
-          "name": "VANGUARD WHITEHALL FDS",
-          "value": 2642666000.0,
-          "shares": 39302.0,
-          "weight": 1.2
         }
       ],
       "moves": null,
