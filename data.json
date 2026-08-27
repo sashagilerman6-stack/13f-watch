@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T13:59:27.134786+00:00",
+  "generatedAt": "2026-08-27T22:54:46.316881+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -9002,6 +9002,78 @@
       "error": null
     },
     {
+      "key": "2111764",
+      "name": "AFFINITY WEALTH LLC",
+      "cik": "2111764",
+      "period": "2026-06-30",
+      "filed": "2026-08-26",
+      "totalValue": 98159832000.0,
+      "holdings": [
+        {
+          "name": "Schwab U.S. Large-Cap Growth ETF",
+          "value": 30998853000.0,
+          "shares": 1112266.0,
+          "weight": 31.58
+        },
+        {
+          "name": "Invesco Nasdaq 100 ETF",
+          "value": 22661256000.0,
+          "shares": 107680.0,
+          "weight": 23.09
+        },
+        {
+          "name": "Vanguard S&amp;P 500 Value ETF",
+          "value": 17356856000.0,
+          "shares": 94070.0,
+          "weight": 17.68
+        },
+        {
+          "name": "Invesco S&amp;P MidCap Momentum ET",
+          "value": 13784219000.0,
+          "shares": 111586.0,
+          "weight": 14.04
+        },
+        {
+          "name": "Xtrackers MSCI EAFE Hedged Equity ETF",
+          "value": 11913844000.0,
+          "shares": 287774.0,
+          "weight": 12.14
+        },
+        {
+          "name": "NVR Inc",
+          "value": 368050000.0,
+          "shares": 45.0,
+          "weight": 0.37
+        },
+        {
+          "name": "Exxon Mobil Corp",
+          "value": 214602000.0,
+          "shares": 1995.0,
+          "weight": 0.22
+        },
+        {
+          "name": "Procter &amp; Gamble CO/THE",
+          "value": 150885000.0,
+          "shares": 900.0,
+          "weight": 0.15
+        },
+        {
+          "name": "PepsiCo Inc",
+          "value": 138831000.0,
+          "shares": 913.0,
+          "weight": 0.14
+        },
+        {
+          "name": "Northrop Grumman Corp",
+          "value": 125770000.0,
+          "shares": 268.0,
+          "weight": 0.13
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "810672",
       "name": "AFFINITY WEALTH MANAGEMENT LLC",
       "cik": "810672",
@@ -13616,6 +13688,30 @@
       "error": null
     },
     {
+      "key": "1475483",
+      "name": "AMERICAN SECURITIES LLC",
+      "cik": "1475483",
+      "period": "2026-06-30",
+      "filed": "2026-08-26",
+      "totalValue": 3754142432000.0,
+      "holdings": [
+        {
+          "name": "SOLV Energy Inc",
+          "value": 2823439654000.0,
+          "shares": 82920401.0,
+          "weight": 75.21
+        },
+        {
+          "name": "Amentum Holdings, Inc.",
+          "value": 930702778000.0,
+          "shares": 45026743.0,
+          "weight": 24.79
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "2057637",
       "name": "AMERIFLEX GROUP, INC.",
       "cik": "2057637",
@@ -16013,13 +16109,145 @@
       "key": "1259313",
       "name": "ARES MANAGEMENT LLC",
       "cik": "1259313",
-      "error": "HTTP Error 503: Service Unavailable"
+      "period": "2026-06-30",
+      "filed": "2026-08-14",
+      "totalValue": 2294299657000.0,
+      "holdings": [
+        {
+          "name": "Savers Value Village Inc",
+          "value": 1185062307000.0,
+          "shares": 117449188.0,
+          "weight": 51.65
+        },
+        {
+          "name": "X-Energy Inc",
+          "value": 254186581000.0,
+          "shares": 13844585.0,
+          "weight": 11.08
+        },
+        {
+          "name": "Clear Channel Outdoor Holdings, Inc.",
+          "value": 99697928000.0,
+          "shares": 41197491.0,
+          "weight": 4.35
+        },
+        {
+          "name": "Kodiak Robotics Inc",
+          "value": 64486584000.0,
+          "shares": 24910857.0,
+          "weight": 2.81
+        },
+        {
+          "name": "Multiplan Corp",
+          "value": 63550512000.0,
+          "shares": 1863105.0,
+          "weight": 2.77
+        },
+        {
+          "name": "Integer Holdings Corp",
+          "value": 61533397000.0,
+          "shares": 63830000.0,
+          "weight": 2.68
+        },
+        {
+          "name": "Arxis Inc",
+          "value": 57884799000.0,
+          "shares": 1254547.0,
+          "weight": 2.52
+        },
+        {
+          "name": "Ares Capital Corp",
+          "value": 51572047000.0,
+          "shares": 2783165.0,
+          "weight": 2.25
+        },
+        {
+          "name": "Golub Capital BDC Inc",
+          "value": 43239641000.0,
+          "shares": 3357115.0,
+          "weight": 1.88
+        },
+        {
+          "name": "Global Business Travel Group I",
+          "value": 40736299000.0,
+          "shares": 4338264.0,
+          "weight": 1.78
+        }
+      ],
+      "moves": null,
+      "error": null
     },
     {
       "key": "1556915",
       "name": "ARGA Investment Management, LP",
       "cik": "1556915",
-      "error": "HTTP Error 503: Service Unavailable"
+      "period": "2026-06-30",
+      "filed": "2026-07-31",
+      "totalValue": 3919912659000.0,
+      "holdings": [
+        {
+          "name": "XP INC - CLASS A",
+          "value": 400701391000.0,
+          "shares": 24643382.0,
+          "weight": 10.22
+        },
+        {
+          "name": "AERCAP HOLDINGS NV",
+          "value": 367494470000.0,
+          "shares": 2520884.0,
+          "weight": 9.38
+        },
+        {
+          "name": "TAIWAN SEMICONDUCTOR-SP ADR",
+          "value": 292106168000.0,
+          "shares": 611651.0,
+          "weight": 7.45
+        },
+        {
+          "name": "PETROLEO BRASILEIRO-SPON ADR",
+          "value": 279752305000.0,
+          "shares": 17311405.0,
+          "weight": 7.14
+        },
+        {
+          "name": "TRIP.COM GROUP LTD-ADR",
+          "value": 260043807000.0,
+          "shares": 6527204.0,
+          "weight": 6.63
+        },
+        {
+          "name": "BANCO BRADESCO-ADR",
+          "value": 245391141000.0,
+          "shares": 70717908.0,
+          "weight": 6.26
+        },
+        {
+          "name": "AGNICO EAGLE MINES LTD",
+          "value": 243363601000.0,
+          "shares": 1568225.0,
+          "weight": 6.21
+        },
+        {
+          "name": "MAGNA INTERNATIONAL INC",
+          "value": 238883129000.0,
+          "shares": 3632267.0,
+          "weight": 6.09
+        },
+        {
+          "name": "TENCENT MUSIC ENTERTAINM-ADR",
+          "value": 151857358000.0,
+          "shares": 18186510.0,
+          "weight": 3.87
+        },
+        {
+          "name": "BAIDU INC - SPON ADR",
+          "value": 129379480000.0,
+          "shares": 1132028.0,
+          "weight": 3.3
+        }
+      ],
+      "moves": null,
+      "error": null
     },
     {
       "key": "1120926",
@@ -33156,150 +33384,6 @@
           "value": 102711990000.0,
           "shares": 2597673.0,
           "weight": 100.0
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2109121",
-      "name": "Alvarez & Marsal Private Wealth Partners, LLC",
-      "cik": "2109121",
-      "period": "2026-06-30",
-      "filed": "2026-08-14",
-      "totalValue": 758642717000.0,
-      "holdings": [
-        {
-          "name": "INVESCO EXCHANGE TRADED FD T",
-          "value": 85448823000.0,
-          "shares": 948378.0,
-          "weight": 11.26
-        },
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 78196703000.0,
-          "shares": 104447.0,
-          "weight": 10.31
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 71263479000.0,
-          "shares": 96666.0,
-          "weight": 9.39
-        },
-        {
-          "name": "GMO ETF TRUST",
-          "value": 71198560000.0,
-          "shares": 1707844.0,
-          "weight": 9.38
-        },
-        {
-          "name": "VANGUARD MUN BD FDS",
-          "value": 69367082000.0,
-          "shares": 1371433.0,
-          "weight": 9.14
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 62948430000.0,
-          "shares": 411562.0,
-          "weight": 8.3
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 48139315000.0,
-          "shares": 134803.0,
-          "weight": 6.35
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 46924986000.0,
-          "shares": 68323.0,
-          "weight": 6.19
-        },
-        {
-          "name": "RTX CORPORATION",
-          "value": 33366487000.0,
-          "shares": 175863.0,
-          "weight": 4.4
-        },
-        {
-          "name": "VISA INC",
-          "value": 29978420000.0,
-          "shares": 87378.0,
-          "weight": 3.95
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1453072",
-      "name": "Alyeska Investment Group, L.P.",
-      "cik": "1453072",
-      "period": "2026-06-30",
-      "filed": "2026-08-14",
-      "totalValue": 38859514149000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 3402895571000.0,
-          "shares": 4533470.0,
-          "weight": 8.76
-        },
-        {
-          "name": "COREWEAVE INC",
-          "value": 1084116717000.0,
-          "shares": 10891267.0,
-          "weight": 2.79
-        },
-        {
-          "name": "META PLATFORMS INC",
-          "value": 837906831000.0,
-          "shares": 1487523.0,
-          "weight": 2.16
-        },
-        {
-          "name": "SALESFORCE INC",
-          "value": 730349703000.0,
-          "shares": 4662005.0,
-          "weight": 1.88
-        },
-        {
-          "name": "ARISTA NETWORKS INC",
-          "value": 537735944000.0,
-          "shares": 3165387.0,
-          "weight": 1.38
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 499108220000.0,
-          "shares": 1338020.0,
-          "weight": 1.28
-        },
-        {
-          "name": "INTUITIVE SURGICAL INC",
-          "value": 423874784000.0,
-          "shares": 1065869.0,
-          "weight": 1.09
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 422296294000.0,
-          "shares": 1771823.0,
-          "weight": 1.09
-        },
-        {
-          "name": "AMPHENOL CORP",
-          "value": 408741145000.0,
-          "shares": 2318178.0,
-          "weight": 1.05
-        },
-        {
-          "name": "GPGI INC",
-          "value": 370966651000.0,
-          "shares": 23404836.0,
-          "weight": 0.95
         }
       ],
       "moves": null,
