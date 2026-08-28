@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T22:54:46.316881+00:00",
+  "generatedAt": "2026-08-28T22:57:34.462739+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -4955,73 +4955,7 @@
       "key": "2013713",
       "name": "ABLES, IANNONE, MOORE & ASSOCIATES, INC.",
       "cik": "2013713",
-      "period": "2026-06-30",
-      "filed": "2026-07-13",
-      "totalValue": 187669035000.0,
-      "holdings": [
-        {
-          "name": "APPLE INC",
-          "value": 27428090000.0,
-          "shares": 94788.0,
-          "weight": 14.62
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 25779625000.0,
-          "shares": 72290.0,
-          "weight": 13.74
-        },
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 21500871000.0,
-          "shares": 107456.0,
-          "weight": 11.46
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 16372766000.0,
-          "shares": 68695.0,
-          "weight": 8.72
-        },
-        {
-          "name": "JPMORGAN CHASE &amp; CO.",
-          "value": 8018067000.0,
-          "shares": 24495.0,
-          "weight": 4.27
-        },
-        {
-          "name": "VISA INC",
-          "value": 7638586000.0,
-          "shares": 22264.0,
-          "weight": 4.07
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 6709364000.0,
-          "shares": 17986.0,
-          "weight": 3.58
-        },
-        {
-          "name": "HOME DEPOT INC",
-          "value": 6296749000.0,
-          "shares": 17854.0,
-          "weight": 3.36
-        },
-        {
-          "name": "BANK AMERICA CORP",
-          "value": 5441303000.0,
-          "shares": 95494.0,
-          "weight": 2.9
-        },
-        {
-          "name": "AMERICAN TOWER CORP",
-          "value": 3710714000.0,
-          "shares": 22685.0,
-          "weight": 1.98
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "info table document not found"
     },
     {
       "key": "1561082",
@@ -6713,7 +6647,73 @@
       "key": "1442273",
       "name": "ACT CAPITAL MANAGEMENT, LLC",
       "cik": "1442273",
-      "error": "info table document not found"
+      "period": "2026-06-30",
+      "filed": "2026-07-29",
+      "totalValue": 153064298000.0,
+      "holdings": [
+        {
+          "name": "KRYSTAL BIOTECH INC",
+          "value": 16725150000.0,
+          "shares": 45000.0,
+          "weight": 10.93
+        },
+        {
+          "name": "TG THERAPEUTICS INC",
+          "value": 13791314000.0,
+          "shares": 251025.0,
+          "weight": 9.01
+        },
+        {
+          "name": "ABIVAX SA",
+          "value": 12926220000.0,
+          "shares": 97000.0,
+          "weight": 8.44
+        },
+        {
+          "name": "CHEVRON CORP",
+          "value": 12432000000.0,
+          "shares": 75000.0,
+          "weight": 8.12
+        },
+        {
+          "name": "EXXON MOBIL CORP",
+          "value": 10732520000.0,
+          "shares": 78500.0,
+          "weight": 7.01
+        },
+        {
+          "name": "ARROWHEAD PHARMACEUTICALS INC",
+          "value": 8974251000.0,
+          "shares": 110100.0,
+          "weight": 5.86
+        },
+        {
+          "name": "VIKING THERAPEUTICS INC",
+          "value": 8164793000.0,
+          "shares": 209300.0,
+          "weight": 5.33
+        },
+        {
+          "name": "CELCUITY INC",
+          "value": 6502133000.0,
+          "shares": 62150.0,
+          "weight": 4.25
+        },
+        {
+          "name": "NEKTAR THERAPEUTICS",
+          "value": 6234033000.0,
+          "shares": 89300.0,
+          "weight": 4.07
+        },
+        {
+          "name": "TESLA INC",
+          "value": 4542480000.0,
+          "shares": 10800.0,
+          "weight": 2.97
+        }
+      ],
+      "moves": null,
+      "error": null
     },
     {
       "key": "1814191",
@@ -22745,73 +22745,7 @@
       "key": "2067071",
       "name": "Ackerman Asset Management, LLC",
       "cik": "2067071",
-      "period": "2026-06-30",
-      "filed": "2026-08-10",
-      "totalValue": 166664850000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 113605795000.0,
-          "shares": 265181.0,
-          "weight": 68.16
-        },
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 11377283000.0,
-          "shares": 15235.0,
-          "weight": 6.83
-        },
-        {
-          "name": "J P MORGAN EXCHANGE TRADED F",
-          "value": 9937561000.0,
-          "shares": 196511.0,
-          "weight": 5.96
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 8375077000.0,
-          "shares": 11373.0,
-          "weight": 5.03
-        },
-        {
-          "name": "APPLE INC",
-          "value": 7780601000.0,
-          "shares": 26889.0,
-          "weight": 4.67
-        },
-        {
-          "name": "INVESCO EXCHANGE TRADED FD T",
-          "value": 4834170000.0,
-          "shares": 78951.0,
-          "weight": 2.9
-        },
-        {
-          "name": "SELECT SECTOR SPDR TR",
-          "value": 1903676000.0,
-          "shares": 9992.0,
-          "weight": 1.14
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 995184000.0,
-          "shares": 1776.0,
-          "weight": 0.6
-        },
-        {
-          "name": "CAPITAL BANCORP INC MD",
-          "value": 933349000.0,
-          "shares": 26576.0,
-          "weight": 0.56
-        },
-        {
-          "name": "ISHARES INC",
-          "value": 807292000.0,
-          "shares": 13181.0,
-          "weight": 0.48
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "info table document not found"
     },
     {
       "key": "1699506",
