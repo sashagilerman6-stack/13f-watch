@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T19:29:01.950783+00:00",
+  "generatedAt": "2026-09-01T17:15:09.251025+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -32629,6 +32629,78 @@
       "error": null
     },
     {
+      "key": "2009486",
+      "name": "Alternative Investment Advisors, LLC.",
+      "cik": "2009486",
+      "period": "2026-06-30",
+      "filed": "2026-08-31",
+      "totalValue": 263053234000.0,
+      "holdings": [
+        {
+          "name": "ISHARES TR",
+          "value": 179801745000.0,
+          "shares": 414569.0,
+          "weight": 68.35
+        },
+        {
+          "name": "BLACKROCK ETF TRUST II",
+          "value": 13438387000.0,
+          "shares": 256751.0,
+          "weight": 5.11
+        },
+        {
+          "name": "BLACKROCK ETF TRUST",
+          "value": 9969081000.0,
+          "shares": 146582.0,
+          "weight": 3.79
+        },
+        {
+          "name": "LAM RESEARCH CORP",
+          "value": 7532769000.0,
+          "shares": 17383.0,
+          "weight": 2.86
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 4403625000.0,
+          "shares": 22008.0,
+          "weight": 1.67
+        },
+        {
+          "name": "VANGUARD SCOTTSDALE FDS",
+          "value": 4116513000.0,
+          "shares": 87940.0,
+          "weight": 1.56
+        },
+        {
+          "name": "INTERNATIONAL BUSINESS MACHS",
+          "value": 3051147000.0,
+          "shares": 10850.0,
+          "weight": 1.16
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 2905143000.0,
+          "shares": 7788.0,
+          "weight": 1.1
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 2746427000.0,
+          "shares": 7701.0,
+          "weight": 1.04
+        },
+        {
+          "name": "COCA COLA CO",
+          "value": 2548764000.0,
+          "shares": 31361.0,
+          "weight": 0.97
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1541617",
       "name": "Altimeter Capital Management, LP",
       "cik": "1541617",
@@ -33498,24 +33570,6 @@
           "value": 1026264000.0,
           "shares": 6999.0,
           "weight": 0.4
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1827442",
-      "name": "Alua Capital Management LP",
-      "cik": "1827442",
-      "period": "2026-06-30",
-      "filed": "2026-08-13",
-      "totalValue": 102711990000.0,
-      "holdings": [
-        {
-          "name": "VALVOLINE INC",
-          "value": 102711990000.0,
-          "shares": 2597673.0,
-          "weight": 100.0
         }
       ],
       "moves": null,
