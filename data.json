@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T17:15:09.251025+00:00",
+  "generatedAt": "2026-09-02T17:05:56.749180+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -150,8 +150,8 @@
       "name": "CITADEL ADVISORS LLC",
       "cik": "1423053",
       "period": "2026-06-30",
-      "filed": "2026-08-14",
-      "totalValue": 875096281441000.0,
+      "filed": "2026-09-02",
+      "totalValue": 875011794337000.0,
       "holdings": [
         {
           "name": "STATE STR SPDR S&amp;P 500 ETF T",
@@ -9884,6 +9884,78 @@
           "value": 6190805000.0,
           "shares": 6618.0,
           "weight": 2.68
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1670627",
+      "name": "AGUR PROVIDENT & TRAINING FUNDS MANAGEMENT LTD",
+      "cik": "1670627",
+      "period": "2026-06-30",
+      "filed": "2026-09-01",
+      "totalValue": 18479226000.0,
+      "holdings": [
+        {
+          "name": "SPDR SER TR",
+          "value": 11529079000.0,
+          "shares": 1391894.0,
+          "weight": 62.39
+        },
+        {
+          "name": "SELECT SECTOR SPDR TR",
+          "value": 1829840000.0,
+          "shares": 101900.0,
+          "weight": 9.9
+        },
+        {
+          "name": "FIRST TR EXCHANGE TRADED FD",
+          "value": 1358016000.0,
+          "shares": 75140.0,
+          "weight": 7.35
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 1225696000.0,
+          "shares": 34862.0,
+          "weight": 6.63
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 720962000.0,
+          "shares": 838900.0,
+          "weight": 3.9
+        },
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 462217000.0,
+          "shares": 71525.0,
+          "weight": 2.5
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 151612000.0,
+          "shares": 80530.0,
+          "weight": 0.82
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 136237000.0,
+          "shares": 60750.0,
+          "weight": 0.74
+        },
+        {
+          "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+          "value": 122988000.0,
+          "shares": 27370.0,
+          "weight": 0.67
+        },
+        {
+          "name": "ADVANCED MICRO DEVICES INC",
+          "value": 122627000.0,
+          "shares": 22435.0,
+          "weight": 0.66
         }
       ],
       "moves": null,
@@ -33498,78 +33570,6 @@
           "value": 6476035000.0,
           "shares": 18162.0,
           "weight": 2.34
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1802107",
-      "name": "Altus Wealth Management, LLC",
-      "cik": "1802107",
-      "period": "2026-06-30",
-      "filed": "2026-07-21",
-      "totalValue": 259786147000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 100753409000.0,
-          "shares": 1506506.0,
-          "weight": 38.78
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 56039943000.0,
-          "shares": 151443.0,
-          "weight": 21.57
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 47189210000.0,
-          "shares": 64081.0,
-          "weight": 18.16
-        },
-        {
-          "name": "INVESCO EXCHANGE TRADED FD T",
-          "value": 40474864000.0,
-          "shares": 313710.0,
-          "weight": 15.58
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 3687953000.0,
-          "shares": 137831.0,
-          "weight": 1.42
-        },
-        {
-          "name": "J P MORGAN EXCHANGE TRADED F",
-          "value": 2479516000.0,
-          "shares": 53844.0,
-          "weight": 0.95
-        },
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 1897543000.0,
-          "shares": 2541.0,
-          "weight": 0.73
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 1561047000.0,
-          "shares": 4403.0,
-          "weight": 0.6
-        },
-        {
-          "name": "VANGUARD WORLD FD",
-          "value": 1315198000.0,
-          "shares": 11004.0,
-          "weight": 0.51
-        },
-        {
-          "name": "PROCTER &amp; GAMBLE CO",
-          "value": 1026264000.0,
-          "shares": 6999.0,
-          "weight": 0.4
         }
       ],
       "moves": null,
