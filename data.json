@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T17:06:54.173200+00:00",
+  "generatedAt": "2026-09-10T17:00:22.304541+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -8999,73 +8999,7 @@
       "key": "1520601",
       "name": "AFFINITY INVESTMENT ADVISORS, LLC",
       "cik": "1520601",
-      "period": "2026-06-30",
-      "filed": "2026-08-05",
-      "totalValue": 197176730000.0,
-      "holdings": [
-        {
-          "name": "MICRON TECHNOLOGY INC",
-          "value": 12917659000.0,
-          "shares": 11191.0,
-          "weight": 6.55
-        },
-        {
-          "name": "DELL TECHNOLOGIES INC",
-          "value": 8756049000.0,
-          "shares": 20294.0,
-          "weight": 4.44
-        },
-        {
-          "name": "APPLE INC",
-          "value": 6226159000.0,
-          "shares": 21517.0,
-          "weight": 3.16
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 5375560000.0,
-          "shares": 15042.0,
-          "weight": 2.73
-        },
-        {
-          "name": "JABIL INC",
-          "value": 5208606000.0,
-          "shares": 13512.0,
-          "weight": 2.64
-        },
-        {
-          "name": "SEAGATE TECHNOLOGY HLDNGS PL",
-          "value": 5204245000.0,
-          "shares": 5393.0,
-          "weight": 2.64
-        },
-        {
-          "name": "JPMORGAN CHASE &amp; CO",
-          "value": 4458562000.0,
-          "shares": 13621.0,
-          "weight": 2.26
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 3383291000.0,
-          "shares": 9070.0,
-          "weight": 1.72
-        },
-        {
-          "name": "BANK OF AMER CORP",
-          "value": 3352133000.0,
-          "shares": 58830.0,
-          "weight": 1.7
-        },
-        {
-          "name": "VALERO ENERGY CORP",
-          "value": 3296129000.0,
-          "shares": 12656.0,
-          "weight": 1.67
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "key": "2111764",
