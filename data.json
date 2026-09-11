@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T17:00:22.304541+00:00",
+  "generatedAt": "2026-09-11T17:01:15.828395+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -2375,73 +2375,7 @@
       "key": "2135169",
       "name": "3 FACTOR INDEXING, LLC",
       "cik": "2135169",
-      "period": "2026-06-30",
-      "filed": "2026-07-08",
-      "totalValue": 118148913000.0,
-      "holdings": [
-        {
-          "name": "DIMENSIONAL ETF TRUST",
-          "value": 59650724000.0,
-          "shares": 1283745.0,
-          "weight": 50.49
-        },
-        {
-          "name": "AMERICAN CENTY ETF TR",
-          "value": 14468370000.0,
-          "shares": 136790.0,
-          "weight": 12.25
-        },
-        {
-          "name": "VANGUARD BD INDEX FDS",
-          "value": 11097719000.0,
-          "shares": 142483.0,
-          "weight": 9.39
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 7338076000.0,
-          "shares": 77476.0,
-          "weight": 6.21
-        },
-        {
-          "name": "SCHWAB STRATEGIC TR",
-          "value": 5408648000.0,
-          "shares": 180089.0,
-          "weight": 4.58
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 2640365000.0,
-          "shares": 7202.0,
-          "weight": 2.23
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 2583292000.0,
-          "shares": 3508.0,
-          "weight": 2.19
-        },
-        {
-          "name": "VANGUARD TAX-MANAGED FDS",
-          "value": 2276652000.0,
-          "shares": 31953.0,
-          "weight": 1.93
-        },
-        {
-          "name": "APPLE INC",
-          "value": 1611646000.0,
-          "shares": 5570.0,
-          "weight": 1.36
-        },
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 1568782000.0,
-          "shares": 2101.0,
-          "weight": 1.33
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "key": "1873893",
@@ -8999,7 +8933,73 @@
       "key": "1520601",
       "name": "AFFINITY INVESTMENT ADVISORS, LLC",
       "cik": "1520601",
-      "error": "HTTP Error 503: Service Unavailable"
+      "period": "2026-06-30",
+      "filed": "2026-08-05",
+      "totalValue": 197176730000.0,
+      "holdings": [
+        {
+          "name": "MICRON TECHNOLOGY INC",
+          "value": 12917659000.0,
+          "shares": 11191.0,
+          "weight": 6.55
+        },
+        {
+          "name": "DELL TECHNOLOGIES INC",
+          "value": 8756049000.0,
+          "shares": 20294.0,
+          "weight": 4.44
+        },
+        {
+          "name": "APPLE INC",
+          "value": 6226159000.0,
+          "shares": 21517.0,
+          "weight": 3.16
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 5375560000.0,
+          "shares": 15042.0,
+          "weight": 2.73
+        },
+        {
+          "name": "JABIL INC",
+          "value": 5208606000.0,
+          "shares": 13512.0,
+          "weight": 2.64
+        },
+        {
+          "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+          "value": 5204245000.0,
+          "shares": 5393.0,
+          "weight": 2.64
+        },
+        {
+          "name": "JPMORGAN CHASE &amp; CO",
+          "value": 4458562000.0,
+          "shares": 13621.0,
+          "weight": 2.26
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 3383291000.0,
+          "shares": 9070.0,
+          "weight": 1.72
+        },
+        {
+          "name": "BANK OF AMER CORP",
+          "value": 3352133000.0,
+          "shares": 58830.0,
+          "weight": 1.7
+        },
+        {
+          "name": "VALERO ENERGY CORP",
+          "value": 3296129000.0,
+          "shares": 12656.0,
+          "weight": 1.67
+        }
+      ],
+      "moves": null,
+      "error": null
     },
     {
       "key": "2111764",
@@ -10391,73 +10391,7 @@
       "key": "1951167",
       "name": "AJ Advisors, LLC",
       "cik": "1951167",
-      "period": "2026-06-30",
-      "filed": "2026-07-23",
-      "totalValue": 321828921000.0,
-      "holdings": [
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 135305809000.0,
-          "shares": 513733.0,
-          "weight": 42.04
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 71003358000.0,
-          "shares": 901187.0,
-          "weight": 22.06
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 40625502000.0,
-          "shares": 55168.0,
-          "weight": 12.62
-        },
-        {
-          "name": "VANECK ETF TRUST",
-          "value": 15382438000.0,
-          "shares": 23453.0,
-          "weight": 4.78
-        },
-        {
-          "name": "FIRST TR EXCHANGE TRADED FD",
-          "value": 14648334000.0,
-          "shares": 180710.0,
-          "weight": 4.55
-        },
-        {
-          "name": "VANGUARD MALVERN FDS",
-          "value": 11475017000.0,
-          "shares": 148577.0,
-          "weight": 3.57
-        },
-        {
-          "name": "PGIM ETF TR",
-          "value": 7846045000.0,
-          "shares": 189244.0,
-          "weight": 2.44
-        },
-        {
-          "name": "PIMCO ETF TR",
-          "value": 5733758000.0,
-          "shares": 216205.0,
-          "weight": 1.78
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 3813907000.0,
-          "shares": 136143.0,
-          "weight": 1.19
-        },
-        {
-          "name": "FIRST TR EXCH TRADED FD III",
-          "value": 3028665000.0,
-          "shares": 62460.0,
-          "weight": 0.94
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "key": "1710065",
@@ -14579,73 +14513,7 @@
       "key": "2067126",
       "name": "ANB BANK",
       "cik": "2067126",
-      "period": "2026-06-30",
-      "filed": "2026-08-12",
-      "totalValue": 268047178000.0,
-      "holdings": [
-        {
-          "name": "iShares Core S&amp;P Mid-Cap ETF",
-          "value": 23981287000.0,
-          "shares": 311001.0,
-          "weight": 8.95
-        },
-        {
-          "name": "iShares Russell 2000 ETF",
-          "value": 21822285000.0,
-          "shares": 72632.0,
-          "weight": 8.14
-        },
-        {
-          "name": "State Street SPDR S&amp;P 500 ETF Trust",
-          "value": 21210508000.0,
-          "shares": 28403.0,
-          "weight": 7.91
-        },
-        {
-          "name": "iShares MSCI Eafe ETF",
-          "value": 18623087000.0,
-          "shares": 179275.0,
-          "weight": 6.95
-        },
-        {
-          "name": "Apple Inc",
-          "value": 10976292000.0,
-          "shares": 37933.0,
-          "weight": 4.09
-        },
-        {
-          "name": "Alphabet Inc Class C",
-          "value": 8688739000.0,
-          "shares": 24591.0,
-          "weight": 3.24
-        },
-        {
-          "name": "Microsoft Corp",
-          "value": 7411907000.0,
-          "shares": 19870.0,
-          "weight": 2.77
-        },
-        {
-          "name": "Berkshire Hathaway Inc Cl B",
-          "value": 6817814000.0,
-          "shares": 13625.0,
-          "weight": 2.54
-        },
-        {
-          "name": "iShares Core S&amp;P Small-Cap ETF",
-          "value": 6175332000.0,
-          "shares": 41638.0,
-          "weight": 2.3
-        },
-        {
-          "name": "Visa Inc Cl A",
-          "value": 5562175000.0,
-          "shares": 16212.0,
-          "weight": 2.08
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "key": "813933",
@@ -26999,73 +26867,7 @@
       "key": "1897835",
       "name": "Alan B Lancz & Associates, Inc.",
       "cik": "1897835",
-      "period": "2026-06-30",
-      "filed": "2026-08-11",
-      "totalValue": 114988170000.0,
-      "holdings": [
-        {
-          "name": "ALPHABET INC",
-          "value": 13114747000.0,
-          "shares": 36876.0,
-          "weight": 11.41
-        },
-        {
-          "name": "APPLE INC",
-          "value": 10267080000.0,
-          "shares": 35482.0,
-          "weight": 8.93
-        },
-        {
-          "name": "COSTCO WHOLESALE CORPORATION",
-          "value": 4299421000.0,
-          "shares": 4596.0,
-          "weight": 3.74
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 3865607000.0,
-          "shares": 10363.0,
-          "weight": 3.36
-        },
-        {
-          "name": "AMGEN INC",
-          "value": 3523428000.0,
-          "shares": 9730.0,
-          "weight": 3.06
-        },
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 2476314000.0,
-          "shares": 12376.0,
-          "weight": 2.15
-        },
-        {
-          "name": "ALLISON TRANSMISSION HLDGS I",
-          "value": 2369795000.0,
-          "shares": 21020.0,
-          "weight": 2.06
-        },
-        {
-          "name": "QUALCOMM INC",
-          "value": 2350899000.0,
-          "shares": 12722.0,
-          "weight": 2.04
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 2264946000.0,
-          "shares": 9503.0,
-          "weight": 1.97
-        },
-        {
-          "name": "BERKSHIRE HATHAWAY INC DEL",
-          "value": 2245250000.0,
-          "shares": 4487.0,
-          "weight": 1.95
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "key": "1426771",
