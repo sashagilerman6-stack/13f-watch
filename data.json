@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T17:38:29.709262+00:00",
+  "generatedAt": "2026-09-16T17:33:53.654252+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -7253,7 +7253,73 @@
       "key": "1911244",
       "name": "ADAMSBROWN WEALTH CONSULTANTS LLC",
       "cik": "1911244",
-      "error": "HTTP Error 503: Service Unavailable"
+      "period": "2026-06-30",
+      "filed": "2026-07-09",
+      "totalValue": 530173576000.0,
+      "holdings": [
+        {
+          "name": "INVESCO EXCH TRADED FD TR II",
+          "value": 79737603000.0,
+          "shares": 773023.0,
+          "weight": 15.04
+        },
+        {
+          "name": "CAPITAL GROUP GROWTH ETF",
+          "value": 52561927000.0,
+          "shares": 1113600.0,
+          "weight": 9.91
+        },
+        {
+          "name": "SPDR SERIES TRUST",
+          "value": 35721733000.0,
+          "shares": 410040.0,
+          "weight": 6.74
+        },
+        {
+          "name": "FIRST TR EXCHANGE-TRADED FD",
+          "value": 35539626000.0,
+          "shares": 1010929.0,
+          "weight": 6.7
+        },
+        {
+          "name": "MFS ACTIVE EXCHANGE TRADED F",
+          "value": 30638299000.0,
+          "shares": 1010498.0,
+          "weight": 5.78
+        },
+        {
+          "name": "BERKSHIRE HATHAWAY INC DEL",
+          "value": 26679294000.0,
+          "shares": 53317.0,
+          "weight": 5.03
+        },
+        {
+          "name": "FIDELITY COVINGTON TRUST",
+          "value": 25388210000.0,
+          "shares": 625634.0,
+          "weight": 4.79
+        },
+        {
+          "name": "SCHWAB STRATEGIC TR",
+          "value": 22962690000.0,
+          "shares": 722131.0,
+          "weight": 4.33
+        },
+        {
+          "name": "PUTNAM ETF TRUST",
+          "value": 21616788000.0,
+          "shares": 424275.0,
+          "weight": 4.08
+        },
+        {
+          "name": "EA SERIES TRUST",
+          "value": 18181717000.0,
+          "shares": 246669.0,
+          "weight": 3.43
+        }
+      ],
+      "moves": null,
+      "error": null
     },
     {
       "key": "2029917",
@@ -32998,7 +33064,73 @@
       "key": "1731671",
       "name": "Altman Advisors, Inc.",
       "cik": "1731671",
-      "error": "HTTP Error 503: Service Unavailable"
+      "period": "2026-06-30",
+      "filed": "2026-08-11",
+      "totalValue": 278655253000.0,
+      "holdings": [
+        {
+          "name": "ISHARES TR",
+          "value": 30140587000.0,
+          "shares": 677310.0,
+          "weight": 10.82
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 12483015000.0,
+          "shares": 62387.0,
+          "weight": 4.48
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 11860842000.0,
+          "shares": 33189.0,
+          "weight": 4.26
+        },
+        {
+          "name": "APPLE INC",
+          "value": 10051311000.0,
+          "shares": 34736.0,
+          "weight": 3.61
+        },
+        {
+          "name": "INVESCO EXCHANGE TRADED FD T",
+          "value": 9685564000.0,
+          "shares": 139180.0,
+          "weight": 3.48
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 9486247000.0,
+          "shares": 39801.0,
+          "weight": 3.4
+        },
+        {
+          "name": "LAM RESEARCH CORP",
+          "value": 7258390000.0,
+          "shares": 16750.0,
+          "weight": 2.6
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 6398274000.0,
+          "shares": 17153.0,
+          "weight": 2.3
+        },
+        {
+          "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+          "value": 6348075000.0,
+          "shares": 13292.0,
+          "weight": 2.28
+        },
+        {
+          "name": "TWILIO INC",
+          "value": 5336313000.0,
+          "shares": 25863.0,
+          "weight": 1.92
+        }
+      ],
+      "moves": null,
+      "error": null
     },
     {
       "key": "1881755",
