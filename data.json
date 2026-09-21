@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T16:44:58.998716+00:00",
+  "generatedAt": "2026-09-21T18:35:48.976646+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -5027,73 +5027,7 @@
       "key": "1561082",
       "name": "ABN AMRO Bank N.V.",
       "cik": "1561082",
-      "period": "2026-06-30",
-      "filed": "2026-08-06",
-      "totalValue": 7747398010000.0,
-      "holdings": [
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 634033125000.0,
-          "shares": 3181157.0,
-          "weight": 8.18
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 449545154000.0,
-          "shares": 1208194.0,
-          "weight": 5.8
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 420977559000.0,
-          "shares": 1185430.0,
-          "weight": 5.43
-        },
-        {
-          "name": "APPLE INC",
-          "value": 320852879000.0,
-          "shares": 1115381.0,
-          "weight": 4.14
-        },
-        {
-          "name": "BROADCOM INC",
-          "value": 319252504000.0,
-          "shares": 847521.0,
-          "weight": 4.12
-        },
-        {
-          "name": "ASTRAZENECA PLC",
-          "value": 297389667000.0,
-          "shares": 1592396.0,
-          "weight": 3.84
-        },
-        {
-          "name": "PALO ALTO NETWORKS INC",
-          "value": 281589912000.0,
-          "shares": 826889.0,
-          "weight": 3.63
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 241806488000.0,
-          "shares": 1013006.0,
-          "weight": 3.12
-        },
-        {
-          "name": "ELI LILLY &amp; CO",
-          "value": 198924529000.0,
-          "shares": 164869.0,
-          "weight": 2.57
-        },
-        {
-          "name": "GE VERNOVA INC",
-          "value": 185879606000.0,
-          "shares": 161348.0,
-          "weight": 2.4
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "key": "2080520",
