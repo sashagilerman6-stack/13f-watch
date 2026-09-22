@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T18:35:48.976646+00:00",
+  "generatedAt": "2026-09-22T17:37:09.607007+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -5027,7 +5027,73 @@
       "key": "1561082",
       "name": "ABN AMRO Bank N.V.",
       "cik": "1561082",
-      "error": "HTTP Error 503: Service Unavailable"
+      "period": "2026-06-30",
+      "filed": "2026-08-06",
+      "totalValue": 7747398010000.0,
+      "holdings": [
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 634033125000.0,
+          "shares": 3181157.0,
+          "weight": 8.18
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 449545154000.0,
+          "shares": 1208194.0,
+          "weight": 5.8
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 420977559000.0,
+          "shares": 1185430.0,
+          "weight": 5.43
+        },
+        {
+          "name": "APPLE INC",
+          "value": 320852879000.0,
+          "shares": 1115381.0,
+          "weight": 4.14
+        },
+        {
+          "name": "BROADCOM INC",
+          "value": 319252504000.0,
+          "shares": 847521.0,
+          "weight": 4.12
+        },
+        {
+          "name": "ASTRAZENECA PLC",
+          "value": 297389667000.0,
+          "shares": 1592396.0,
+          "weight": 3.84
+        },
+        {
+          "name": "PALO ALTO NETWORKS INC",
+          "value": 281589912000.0,
+          "shares": 826889.0,
+          "weight": 3.63
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 241806488000.0,
+          "shares": 1013006.0,
+          "weight": 3.12
+        },
+        {
+          "name": "ELI LILLY &amp; CO",
+          "value": 198924529000.0,
+          "shares": 164869.0,
+          "weight": 2.57
+        },
+        {
+          "name": "GE VERNOVA INC",
+          "value": 185879606000.0,
+          "shares": 161348.0,
+          "weight": 2.4
+        }
+      ],
+      "moves": null,
+      "error": null
     },
     {
       "key": "2080520",
@@ -32563,6 +32629,78 @@
       "error": null
     },
     {
+      "key": "2156071",
+      "name": "Altar Rock LLC",
+      "cik": "2156071",
+      "period": "2026-06-30",
+      "filed": "2026-09-21",
+      "totalValue": 83447809000.0,
+      "holdings": [
+        {
+          "name": "AMERICAN CENTY ETF TR",
+          "value": 22643324000.0,
+          "shares": 270095.0,
+          "weight": 27.13
+        },
+        {
+          "name": "AFFILIATED MANAGERS GROUP IN",
+          "value": 4480342000.0,
+          "shares": 15542.0,
+          "weight": 5.37
+        },
+        {
+          "name": "SPDR GOLD TR",
+          "value": 3821348000.0,
+          "shares": 9642.0,
+          "weight": 4.58
+        },
+        {
+          "name": "DIMENSIONAL ETF TRUST",
+          "value": 3516507000.0,
+          "shares": 88823.0,
+          "weight": 4.21
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 2925257000.0,
+          "shares": 15685.0,
+          "weight": 3.51
+        },
+        {
+          "name": "APPLE INC",
+          "value": 2785477000.0,
+          "shares": 10246.0,
+          "weight": 3.34
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 2309342000.0,
+          "shares": 7372.0,
+          "weight": 2.77
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 2293809000.0,
+          "shares": 4743.0,
+          "weight": 2.75
+        },
+        {
+          "name": "SPDR INDEX SHS FDS",
+          "value": 1810070000.0,
+          "shares": 27569.0,
+          "weight": 2.17
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 1451397000.0,
+          "shares": 6288.0,
+          "weight": 1.74
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "2054980",
       "name": "Alteri Wealth LLC",
       "cik": "2054980",
@@ -33432,78 +33570,6 @@
           "value": 9813531000.0,
           "shares": 27496.0,
           "weight": 3.31
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1842572",
-      "name": "Altus Wealth Group LLC",
-      "cik": "1842572",
-      "period": "2026-06-30",
-      "filed": "2026-07-17",
-      "totalValue": 276835370000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 49048100000.0,
-          "shares": 159913.0,
-          "weight": 17.72
-        },
-        {
-          "name": "INVESCO EXCH TRADED FD TR II",
-          "value": 26820404000.0,
-          "shares": 173944.0,
-          "weight": 9.69
-        },
-        {
-          "name": "VANECK ETF TRUST",
-          "value": 20487397000.0,
-          "shares": 197070.0,
-          "weight": 7.4
-        },
-        {
-          "name": "AMPLIFY ETF TR",
-          "value": 13754786000.0,
-          "shares": 300980.0,
-          "weight": 4.97
-        },
-        {
-          "name": "INVESCO EXCHANGE TRADED FD T",
-          "value": 11267545000.0,
-          "shares": 99819.0,
-          "weight": 4.07
-        },
-        {
-          "name": "PACER FDS TR",
-          "value": 9743195000.0,
-          "shares": 156643.0,
-          "weight": 3.52
-        },
-        {
-          "name": "APPLE INC",
-          "value": 9722131000.0,
-          "shares": 33599.0,
-          "weight": 3.51
-        },
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 7118688000.0,
-          "shares": 35577.0,
-          "weight": 2.57
-        },
-        {
-          "name": "VANGUARD SCOTTSDALE FDS",
-          "value": 7090133000.0,
-          "shares": 86354.0,
-          "weight": 2.56
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 6476035000.0,
-          "shares": 18162.0,
-          "weight": 2.34
         }
       ],
       "moves": null,
