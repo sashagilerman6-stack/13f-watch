@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T17:37:09.607007+00:00",
+  "generatedAt": "2026-09-23T17:50:54.575675+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -28373,73 +28373,7 @@
       "key": "1802696",
       "name": "Alhambra Investment Management LLC",
       "cik": "1802696",
-      "period": "2026-06-30",
-      "filed": "2026-07-16",
-      "totalValue": 229115863000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 38156420000.0,
-          "shares": 546822.0,
-          "weight": 16.65
-        },
-        {
-          "name": "SCHWAB STRATEGIC TR",
-          "value": 18122154000.0,
-          "shares": 510066.0,
-          "weight": 7.91
-        },
-        {
-          "name": "VANGUARD SCOTTSDALE FDS",
-          "value": 16917279000.0,
-          "shares": 274021.0,
-          "weight": 7.38
-        },
-        {
-          "name": "APPLE INC",
-          "value": 15259935000.0,
-          "shares": 52737.0,
-          "weight": 6.66
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 11523362000.0,
-          "shares": 32404.0,
-          "weight": 5.03
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 9759661000.0,
-          "shares": 69327.0,
-          "weight": 4.26
-        },
-        {
-          "name": "INVESCO EXCHANGE TRADED FD T",
-          "value": 6241840000.0,
-          "shares": 51610.0,
-          "weight": 2.72
-        },
-        {
-          "name": "COSTCO WHOLESALE CORPORATION",
-          "value": 5314405000.0,
-          "shares": 5681.0,
-          "weight": 2.32
-        },
-        {
-          "name": "VANGUARD STAR FDS",
-          "value": 3490688000.0,
-          "shares": 40832.0,
-          "weight": 1.52
-        },
-        {
-          "name": "ISHARES GOLD TR",
-          "value": 2955386000.0,
-          "shares": 39139.0,
-          "weight": 1.29
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "key": "1577552",
