@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T20:23:14.595406+00:00",
+  "generatedAt": "2026-11-05T20:33:54.196992+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -434,6 +434,78 @@
       "error": null
     },
     {
+      "key": "1907281",
+      "name": "1620 INVESTMENT ADVISORS, INC.",
+      "cik": "1907281",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 160393390000.0,
+      "holdings": [
+        {
+          "name": "STATE STREET SPDR PORTFOLIO INTERMEDIATE TERM CORPORATE BOND ETF",
+          "value": 5292947000.0,
+          "shares": 163970.0,
+          "weight": 3.3
+        },
+        {
+          "name": "FREEDOM 100 EMERGING MARKETS ETF",
+          "value": 4185716000.0,
+          "shares": 59830.0,
+          "weight": 2.61
+        },
+        {
+          "name": "ISHARES 1-5 YEAR INVESTMENT GRADE CORPORATE BOND ETF",
+          "value": 3958470000.0,
+          "shares": 77269.0,
+          "weight": 2.47
+        },
+        {
+          "name": "ISHARES 7-10 YEAR TREASURY BOND ETF",
+          "value": 3789824000.0,
+          "shares": 42434.0,
+          "weight": 2.36
+        },
+        {
+          "name": "AVANTIS EMERGING MARKETS VALUE ETF",
+          "value": 3480808000.0,
+          "shares": 53444.0,
+          "weight": 2.17
+        },
+        {
+          "name": "STATE STREET SPDR PORTFOLIO SHORT TERM TREASURY ETF",
+          "value": 3376574000.0,
+          "shares": 117774.0,
+          "weight": 2.11
+        },
+        {
+          "name": "TRI CONTL CORP COM",
+          "value": 3177940000.0,
+          "shares": 92543.0,
+          "weight": 1.98
+        },
+        {
+          "name": "APPLE INC COM",
+          "value": 3084144000.0,
+          "shares": 9261.0,
+          "weight": 1.92
+        },
+        {
+          "name": "JPMORGAN CHASE &amp; CO COM",
+          "value": 2898489000.0,
+          "shares": 8761.0,
+          "weight": 1.81
+        },
+        {
+          "name": "STATE STREET SPDR MSCI EAFE STRATEGICFACTORS ETF",
+          "value": 2890464000.0,
+          "shares": 29637.0,
+          "weight": 1.8
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1730817",
       "name": "180 WEALTH ADVISORS, LLC",
       "cik": "1730817",
@@ -572,6 +644,60 @@
           "value": 11768929000.0,
           "shares": 33512.0,
           "weight": 1.33
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1885092",
+      "name": "1888 Investments, LLC",
+      "cik": "1885092",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 88394018000.0,
+      "holdings": [
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 42510663000.0,
+          "shares": 60655.0,
+          "weight": 48.09
+        },
+        {
+          "name": "SPDR SERIES TRUST",
+          "value": 25602310000.0,
+          "shares": 893000.0,
+          "weight": 28.96
+        },
+        {
+          "name": "VANGUARD STAR FDS",
+          "value": 12365503000.0,
+          "shares": 145545.0,
+          "weight": 13.99
+        },
+        {
+          "name": "INFLEQTION INC",
+          "value": 4465399000.0,
+          "shares": 331507.0,
+          "weight": 5.05
+        },
+        {
+          "name": "SPACE EXPLORATION TECHN CORP",
+          "value": 1638490000.0,
+          "shares": 10861.0,
+          "weight": 1.85
+        },
+        {
+          "name": "PROCORE TECHNOLOGIES INC",
+          "value": 1010764000.0,
+          "shares": 19543.0,
+          "weight": 1.14
+        },
+        {
+          "name": "SEER INC",
+          "value": 800889000.0,
+          "shares": 359143.0,
+          "weight": 0.91
         }
       ],
       "moves": null,
@@ -1442,6 +1568,150 @@
       "error": null
     },
     {
+      "key": "1911026",
+      "name": "5th Street Advisors, LLC",
+      "cik": "1911026",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 247848200000.0,
+      "holdings": [
+        {
+          "name": "VANGUARD INTL EQUITY INDEX F",
+          "value": 42322659000.0,
+          "shares": 510096.0,
+          "weight": 17.08
+        },
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 36093159000.0,
+          "shares": 121561.0,
+          "weight": 14.56
+        },
+        {
+          "name": "J P MORGAN EXCHANGE TRADED F",
+          "value": 30257640000.0,
+          "shares": 636263.0,
+          "weight": 12.21
+        },
+        {
+          "name": "SELECT SECTOR SPDR TR",
+          "value": 26285929000.0,
+          "shares": 262976.0,
+          "weight": 10.61
+        },
+        {
+          "name": "VANECK ETF TRUST",
+          "value": 19171554000.0,
+          "shares": 593275.0,
+          "weight": 7.74
+        },
+        {
+          "name": "FLEXSHARES TR",
+          "value": 18498714000.0,
+          "shares": 796500.0,
+          "weight": 7.46
+        },
+        {
+          "name": "ISHARES INC",
+          "value": 12537654000.0,
+          "shares": 127352.0,
+          "weight": 5.06
+        },
+        {
+          "name": "SPDR GOLD TR",
+          "value": 11150996000.0,
+          "shares": 29280.0,
+          "weight": 4.5
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 10641765000.0,
+          "shares": 78131.0,
+          "weight": 4.29
+        },
+        {
+          "name": "ALPS ETF TR",
+          "value": 7744079000.0,
+          "shares": 149298.0,
+          "weight": 3.12
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1911035",
+      "name": "626 Financial, LLC",
+      "cik": "1911035",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 260668726000.0,
+      "holdings": [
+        {
+          "name": "WISDOMTREE TR",
+          "value": 44983320000.0,
+          "shares": 466613.0,
+          "weight": 17.26
+        },
+        {
+          "name": "STRYKER CORPORATION",
+          "value": 18645535000.0,
+          "shares": 67706.0,
+          "weight": 7.15
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 18518274000.0,
+          "shares": 110432.0,
+          "weight": 7.1
+        },
+        {
+          "name": "APPLE INC",
+          "value": 16654486000.0,
+          "shares": 50010.0,
+          "weight": 6.39
+        },
+        {
+          "name": "INVESCO EXCH TRADED FD TR II",
+          "value": 13405534000.0,
+          "shares": 44005.0,
+          "weight": 5.14
+        },
+        {
+          "name": "INVESCO EXCHANGE TRADED FD T",
+          "value": 12907408000.0,
+          "shares": 95286.0,
+          "weight": 4.95
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 12899829000.0,
+          "shares": 37626.0,
+          "weight": 4.95
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 10472764000.0,
+          "shares": 20419.0,
+          "weight": 4.02
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 9535401000.0,
+          "shares": 36121.0,
+          "weight": 3.66
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 8696216000.0,
+          "shares": 34904.0,
+          "weight": 3.34
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "2102803",
       "name": "6th Street Advisors, LLC",
       "cik": "2102803",
@@ -1508,6 +1778,78 @@
           "value": 898192000.0,
           "shares": 17775.0,
           "weight": 0.52
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "2111530",
+      "name": "71 West Capital Partners",
+      "cik": "2111530",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 3056368845000.0,
+      "holdings": [
+        {
+          "name": "ISHARES TR",
+          "value": 887228982000.0,
+          "shares": 5967351.0,
+          "weight": 29.03
+        },
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 318242298000.0,
+          "shares": 2266550.0,
+          "weight": 10.41
+        },
+        {
+          "name": "SELECT SECTOR SPDR TR",
+          "value": 180560440000.0,
+          "shares": 938757.0,
+          "weight": 5.91
+        },
+        {
+          "name": "VANGUARD WORLD FD",
+          "value": 135317762000.0,
+          "shares": 1076771.0,
+          "weight": 4.43
+        },
+        {
+          "name": "APPLE INC",
+          "value": 122183040000.0,
+          "shares": 366894.0,
+          "weight": 4.0
+        },
+        {
+          "name": "SPDR SERIES TRUST",
+          "value": 120810410000.0,
+          "shares": 1521437.0,
+          "weight": 3.95
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 111856185000.0,
+          "shares": 489781.0,
+          "weight": 3.66
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 76921032000.0,
+          "shares": 224286.0,
+          "weight": 2.52
+        },
+        {
+          "name": "STATE STR SPDR S&amp;P 500 ETF T",
+          "value": 50043018000.0,
+          "shares": 65619.0,
+          "weight": 1.64
+        },
+        {
+          "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+          "value": 48931852000.0,
+          "shares": 107262.0,
+          "weight": 1.6
         }
       ],
       "moves": null,
@@ -2624,6 +2966,78 @@
           "value": 17262134000.0,
           "shares": 14000000.0,
           "weight": 1.58
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "769954",
+      "name": "ACCOUNT MANAGEMENT LLC",
+      "cik": "769954",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 99198205000.0,
+      "holdings": [
+        {
+          "name": "BERKSHIRE HATHAWAY INC DEL",
+          "value": 21558247000.0,
+          "shares": 43294.0,
+          "weight": 21.73
+        },
+        {
+          "name": "ASML HLDG NV",
+          "value": 13674485000.0,
+          "shares": 7548.0,
+          "weight": 13.79
+        },
+        {
+          "name": "ENTERPRISE PRODS PARTNERS L",
+          "value": 9159248000.0,
+          "shares": 257210.0,
+          "weight": 9.23
+        },
+        {
+          "name": "BLACKSTONE INC",
+          "value": 7815027000.0,
+          "shares": 69721.0,
+          "weight": 7.88
+        },
+        {
+          "name": "NEXTERA ENERGY INC",
+          "value": 7258543000.0,
+          "shares": 95835.0,
+          "weight": 7.32
+        },
+        {
+          "name": "FORTINET INC",
+          "value": 5231948000.0,
+          "shares": 29268.0,
+          "weight": 5.27
+        },
+        {
+          "name": "OREILLY AUTOMOTIVE INC",
+          "value": 4755202000.0,
+          "shares": 55675.0,
+          "weight": 4.79
+        },
+        {
+          "name": "JPMORGAN CHASE &amp; CO",
+          "value": 4404340000.0,
+          "shares": 13313.0,
+          "weight": 4.44
+        },
+        {
+          "name": "SYNOPSYS INC",
+          "value": 3944906000.0,
+          "shares": 9070.0,
+          "weight": 3.98
+        },
+        {
+          "name": "NUTANIX INC",
+          "value": 3684203000.0,
+          "shares": 52325.0,
+          "weight": 3.71
         }
       ],
       "moves": null,
@@ -3860,6 +4274,78 @@
       "error": null
     },
     {
+      "key": "1539994",
+      "name": "AEGON ASSET MANAGEMENT UK PLC",
+      "cik": "1539994",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 9436158480000.0,
+      "holdings": [
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 723195188000.0,
+          "shares": 3166631.0,
+          "weight": 7.66
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 715204173000.0,
+          "shares": 1394432.0,
+          "weight": 7.58
+        },
+        {
+          "name": "APPLE INC",
+          "value": 629489390000.0,
+          "shares": 1890245.0,
+          "weight": 6.67
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 578939538000.0,
+          "shares": 1690531.0,
+          "weight": 6.14
+        },
+        {
+          "name": "BROADCOM INC",
+          "value": 379114170000.0,
+          "shares": 1079513.0,
+          "weight": 4.02
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 362831664000.0,
+          "shares": 1456278.0,
+          "weight": 3.85
+        },
+        {
+          "name": "ASTRAZENECA PLC",
+          "value": 317751906000.0,
+          "shares": 1947801.0,
+          "weight": 3.37
+        },
+        {
+          "name": "MICRON TECHNOLOGY INC",
+          "value": 259499140000.0,
+          "shares": 243636.0,
+          "weight": 2.75
+        },
+        {
+          "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+          "value": 222995252000.0,
+          "shares": 488821.0,
+          "weight": 2.36
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "value": 200412920000.0,
+          "shares": 276363.0,
+          "weight": 2.12
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1454937",
       "name": "AEGON USA Investment Management, LLC",
       "cik": "1454937",
@@ -4358,6 +4844,78 @@
           "value": 6244215000.0,
           "shares": 414898.0,
           "weight": 4.39
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "2056566",
+      "name": "AGP FRANKLIN, LLC",
+      "cik": "2056566",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 229246445000.0,
+      "holdings": [
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 17211550000.0,
+          "shares": 75364.0,
+          "weight": 7.51
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 14293985000.0,
+          "shares": 57371.0,
+          "weight": 6.24
+        },
+        {
+          "name": "PALANTIR TECHNOLOGIES INC",
+          "value": 13563806000.0,
+          "shares": 72514.0,
+          "weight": 5.92
+        },
+        {
+          "name": "CROWDSTRIKE HLDGS INC",
+          "value": 10809213000.0,
+          "shares": 40828.0,
+          "weight": 4.72
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 9757077000.0,
+          "shares": 28357.0,
+          "weight": 4.26
+        },
+        {
+          "name": "JPMORGAN CHASE &amp; CO",
+          "value": 8045786000.0,
+          "shares": 24320.0,
+          "weight": 3.51
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 7560659000.0,
+          "shares": 14741.0,
+          "weight": 3.3
+        },
+        {
+          "name": "APPLE INC",
+          "value": 7197027000.0,
+          "shares": 21611.0,
+          "weight": 3.14
+        },
+        {
+          "name": "ORACLE CORP",
+          "value": 6417101000.0,
+          "shares": 46738.0,
+          "weight": 2.8
+        },
+        {
+          "name": "COSTCO WHOLESALE CORPORATION",
+          "value": 5990095000.0,
+          "shares": 6580.0,
+          "weight": 2.61
         }
       ],
       "moves": null,
@@ -5240,6 +5798,78 @@
           "value": 2784579000.0,
           "shares": 5468.0,
           "weight": 1.36
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "2130022",
+      "name": "ALLSTREET CAPITAL ADVISORS LLC",
+      "cik": "2130022",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 152117209000.0,
+      "holdings": [
+        {
+          "name": "ISHARES TR",
+          "value": 42729638000.0,
+          "shares": 431238.0,
+          "weight": 28.09
+        },
+        {
+          "name": "VANGUARD WORLD FD",
+          "value": 26970533000.0,
+          "shares": 230908.0,
+          "weight": 17.73
+        },
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 22487159000.0,
+          "shares": 106804.0,
+          "weight": 14.78
+        },
+        {
+          "name": "VANGUARD TAX-MANAGED FDS",
+          "value": 18418109000.0,
+          "shares": 260843.0,
+          "weight": 12.11
+        },
+        {
+          "name": "ABRDN ETFS",
+          "value": 8899217000.0,
+          "shares": 327834.0,
+          "weight": 5.85
+        },
+        {
+          "name": "VANGUARD INTL EQUITY INDEX F",
+          "value": 7296564000.0,
+          "shares": 118613.0,
+          "weight": 4.8
+        },
+        {
+          "name": "INVESCO EXCHANGE TRADED FD T",
+          "value": 5268260000.0,
+          "shares": 77669.0,
+          "weight": 3.46
+        },
+        {
+          "name": "VANGUARD CHARLOTTE FDS",
+          "value": 4250193000.0,
+          "shares": 90680.0,
+          "weight": 2.79
+        },
+        {
+          "name": "ISHARES INC",
+          "value": 3073748000.0,
+          "shares": 37873.0,
+          "weight": 2.02
+        },
+        {
+          "name": "SPDR SERIES TRUST",
+          "value": 2908759000.0,
+          "shares": 104398.0,
+          "weight": 1.91
         }
       ],
       "moves": null,
@@ -6680,6 +7310,60 @@
       "error": null
     },
     {
+      "key": "1843111",
+      "name": "APEIRON CAPITAL Ltd",
+      "cik": "1843111",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 73652073000.0,
+      "holdings": [
+        {
+          "name": "ON HOLDING AG-CLASS A",
+          "value": 28189078000.0,
+          "shares": 795852.0,
+          "weight": 38.27
+        },
+        {
+          "name": "QFIN HOLDINGS INC-ADR",
+          "value": 14630377000.0,
+          "shares": 976185.0,
+          "weight": 19.86
+        },
+        {
+          "name": "WESTERN DIGITAL CORP",
+          "value": 11493270000.0,
+          "shares": 18000.0,
+          "weight": 15.6
+        },
+        {
+          "name": "TAIWAN SEMICONDUCTOR-SP ADR",
+          "value": 10573969000.0,
+          "shares": 22200.0,
+          "weight": 14.36
+        },
+        {
+          "name": "SEAGATE TECHNOLOGY HOLDINGS",
+          "value": 4821135000.0,
+          "shares": 5000.0,
+          "weight": 6.55
+        },
+        {
+          "name": "NEKTAR THERAPEUTICS",
+          "value": 3588234000.0,
+          "shares": 51400.0,
+          "weight": 4.87
+        },
+        {
+          "name": "TRIP.COM GROUP LTD-ADR",
+          "value": 356010000.0,
+          "shares": 8936.0,
+          "weight": 0.48
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1055290",
       "name": "APPLETON PARTNERS INC/MA",
       "cik": "1055290",
@@ -6908,6 +7592,30 @@
           "value": 291715000.0,
           "shares": 5068.0,
           "weight": 0.12
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "947484",
+      "name": "ARCH CAPITAL GROUP LTD.",
+      "cik": "947484",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 288462431000.0,
+      "holdings": [
+        {
+          "name": "JANUS DETROIT STR TR",
+          "value": 198935833000.0,
+          "shares": 3941665.0,
+          "weight": 68.96
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 89526598000.0,
+          "shares": 2030628.0,
+          "weight": 31.04
         }
       ],
       "moves": null,
@@ -9146,6 +9854,150 @@
       "error": null
     },
     {
+      "key": "1510809",
+      "name": "AVALON CAPITAL MANAGEMENT",
+      "cik": "1510809",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 434395013000.0,
+      "holdings": [
+        {
+          "name": "VANECK ETF TRUST",
+          "value": 75842222000.0,
+          "shares": 882959.0,
+          "weight": 17.46
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 71250828000.0,
+          "shares": 207681.0,
+          "weight": 16.4
+        },
+        {
+          "name": "SPDR GOLD TR",
+          "value": 25552841000.0,
+          "shares": 67096.0,
+          "weight": 5.88
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 18442269000.0,
+          "shares": 246681.0,
+          "weight": 4.25
+        },
+        {
+          "name": "ISHARES INC",
+          "value": 18148139000.0,
+          "shares": 219924.0,
+          "weight": 4.18
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 16641974000.0,
+          "shares": 66795.0,
+          "weight": 3.83
+        },
+        {
+          "name": "CISCO SYS INC",
+          "value": 16506460000.0,
+          "shares": 153363.0,
+          "weight": 3.8
+        },
+        {
+          "name": "ELI LILLY &amp; CO",
+          "value": 15891434000.0,
+          "shares": 13734.0,
+          "weight": 3.66
+        },
+        {
+          "name": "APPLE INC",
+          "value": 15357211000.0,
+          "shares": 46115.0,
+          "weight": 3.54
+        },
+        {
+          "name": "SELECT SECTOR SPDR TR",
+          "value": 13192781000.0,
+          "shares": 197275.0,
+          "weight": 3.04
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "2011802",
+      "name": "AVISO WEALTH MANAGEMENT",
+      "cik": "2011802",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 261287492000.0,
+      "holdings": [
+        {
+          "name": "APPLE INC",
+          "value": 23480282000.0,
+          "shares": 70507.0,
+          "weight": 8.99
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 15207146000.0,
+          "shares": 66587.0,
+          "weight": 5.82
+        },
+        {
+          "name": "ALPHABET INC CAP STK",
+          "value": 14314055000.0,
+          "shares": 41629.0,
+          "weight": 5.48
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "value": 10482745000.0,
+          "shares": 14455.0,
+          "weight": 4.01
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 10294525000.0,
+          "shares": 20071.0,
+          "weight": 3.94
+        },
+        {
+          "name": "MICRON TECHNOLOGY INC",
+          "value": 9555823000.0,
+          "shares": 8972.0,
+          "weight": 3.66
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 8569481000.0,
+          "shares": 34395.0,
+          "weight": 3.28
+        },
+        {
+          "name": "NETFLIX INC.",
+          "value": 6278992000.0,
+          "shares": 90241.0,
+          "weight": 2.4
+        },
+        {
+          "name": "T ROWE PRICE EXCHANGE-TRADED",
+          "value": 6164484000.0,
+          "shares": 122069.0,
+          "weight": 2.36
+        },
+        {
+          "name": "SEAGATE TECHNOLOGY HLDNGS PLC",
+          "value": 6082870000.0,
+          "shares": 6595.0,
+          "weight": 2.33
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "926834",
       "name": "AVITY INVESTMENT MANAGEMENT INC.",
       "cik": "926834",
@@ -9380,6 +10232,78 @@
       "error": null
     },
     {
+      "key": "1801467",
+      "name": "AXS Investments LLC",
+      "cik": "1801467",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 1028418842000.0,
+      "holdings": [
+        {
+          "name": "INVESCO QQQ TRUST - USD",
+          "value": 346529721000.0,
+          "shares": 468429.0,
+          "weight": 33.7
+        },
+        {
+          "name": "LUMENTUM HOLDINGS INC",
+          "value": 190687476000.0,
+          "shares": 196330.0,
+          "weight": 18.54
+        },
+        {
+          "name": "NEBIUS GROUP NV",
+          "value": 182546824000.0,
+          "shares": 773897.0,
+          "weight": 17.75
+        },
+        {
+          "name": "COREWEAVE INC COM CL A",
+          "value": 91956467000.0,
+          "shares": 1055515.0,
+          "weight": 8.94
+        },
+        {
+          "name": "ARK INNOVATION ETF",
+          "value": 33773979000.0,
+          "shares": 379057.0,
+          "weight": 3.28
+        },
+        {
+          "name": "SS SPDR S&amp;P 500 ETF TRUST-US",
+          "value": 6422107000.0,
+          "shares": 8421.0,
+          "weight": 0.62
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "value": 6417118000.0,
+          "shares": 8849.0,
+          "weight": 0.62
+        },
+        {
+          "name": "PALANTIR TECHNOLOGIE CL A",
+          "value": 6393743000.0,
+          "shares": 34182.0,
+          "weight": 0.62
+        },
+        {
+          "name": "MICRON TECHNOLOGY INC",
+          "value": 5891123000.0,
+          "shares": 5531.0,
+          "weight": 0.57
+        },
+        {
+          "name": "NVIDIA CORP COM",
+          "value": 5619518000.0,
+          "shares": 24606.0,
+          "weight": 0.55
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1911056",
       "name": "AXXCESS WEALTH MANAGEMENT, LLC",
       "cik": "1911056",
@@ -9446,6 +10370,78 @@
           "value": 54956005000.0,
           "shares": 416367.0,
           "weight": 2.25
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1121914",
+      "name": "AZZAD ASSET MANAGEMENT INC /ADV",
+      "cik": "1121914",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 1114629128000.0,
+      "holdings": [
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 57290655000.0,
+          "shares": 250857.0,
+          "weight": 5.14
+        },
+        {
+          "name": "APPLE INC",
+          "value": 44757793000.0,
+          "shares": 134400.0,
+          "weight": 4.02
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 38281471000.0,
+          "shares": 111294.0,
+          "weight": 3.43
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "value": 26243238000.0,
+          "shares": 36189.0,
+          "weight": 2.35
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 25511948000.0,
+          "shares": 49741.0,
+          "weight": 2.29
+        },
+        {
+          "name": "KLA CORP",
+          "value": 19270824000.0,
+          "shares": 98860.0,
+          "weight": 1.73
+        },
+        {
+          "name": "BROADCOM INC",
+          "value": 18033150000.0,
+          "shares": 51349.0,
+          "weight": 1.62
+        },
+        {
+          "name": "TESLA INC",
+          "value": 15745368000.0,
+          "shares": 44377.0,
+          "weight": 1.41
+        },
+        {
+          "name": "ADVANCED MICRO DEVICES INC",
+          "value": 12898942000.0,
+          "shares": 21085.0,
+          "weight": 1.16
+        },
+        {
+          "name": "PROCTER &amp; GAMBLE CO",
+          "value": 11346432000.0,
+          "shares": 78100.0,
+          "weight": 1.02
         }
       ],
       "moves": null,
@@ -10454,6 +11450,78 @@
           "value": 22576870000.0,
           "shares": 64040.0,
           "weight": 1.95
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1497637",
+      "name": "Accuvest Global Advisors",
+      "cik": "1497637",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 123509000000.0,
+      "holdings": [
+        {
+          "name": "STRATEGY INC",
+          "value": 10609000000.0,
+          "shares": 69300.0,
+          "weight": 8.59
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 8658000000.0,
+          "shares": 25163.0,
+          "weight": 7.01
+        },
+        {
+          "name": "BERKSHIRE HATHAWAY INC DEL",
+          "value": 8651000000.0,
+          "shares": 17373.0,
+          "weight": 7.0
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 8085000000.0,
+          "shares": 32450.0,
+          "weight": 6.55
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 6909000000.0,
+          "shares": 30254.0,
+          "weight": 5.59
+        },
+        {
+          "name": "APPLE INC",
+          "value": 5893000000.0,
+          "shares": 17695.0,
+          "weight": 4.77
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 5758000000.0,
+          "shares": 11227.0,
+          "weight": 4.66
+        },
+        {
+          "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+          "value": 5053000000.0,
+          "shares": 11076.0,
+          "weight": 4.09
+        },
+        {
+          "name": "NETFLIX INC.",
+          "value": 4838000000.0,
+          "shares": 69536.0,
+          "weight": 3.92
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "value": 3379000000.0,
+          "shares": 4660.0,
+          "weight": 2.74
         }
       ],
       "moves": null,
@@ -12380,6 +13448,78 @@
       "error": null
     },
     {
+      "key": "2110606",
+      "name": "Alchemi Wealth, LLC",
+      "cik": "2110606",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 222627693000.0,
+      "holdings": [
+        {
+          "name": "APPLE INC",
+          "value": 32876810000.0,
+          "shares": 98722.0,
+          "weight": 14.77
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 10212457000.0,
+          "shares": 44716.0,
+          "weight": 4.59
+        },
+        {
+          "name": "VANGUARD INSTL INDEX FD",
+          "value": 7246435000.0,
+          "shares": 95700.0,
+          "weight": 3.25
+        },
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 6689977000.0,
+          "shares": 27431.0,
+          "weight": 3.01
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 6426301000.0,
+          "shares": 12528.0,
+          "weight": 2.89
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 6409135000.0,
+          "shares": 25724.0,
+          "weight": 2.88
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 5966976000.0,
+          "shares": 17397.0,
+          "weight": 2.68
+        },
+        {
+          "name": "BLACKROCK SCIENCE &amp; TECHNOLO",
+          "value": 5775423000.0,
+          "shares": 115577.0,
+          "weight": 2.59
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 5334626000.0,
+          "shares": 99205.0,
+          "weight": 2.4
+        },
+        {
+          "name": "COLUMBIA ETF TR I",
+          "value": 5196945000.0,
+          "shares": 115256.0,
+          "weight": 2.33
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1484429",
       "name": "Alecta Tjanstepension Omsesidigt",
       "cik": "1484429",
@@ -12590,6 +13730,150 @@
           "value": 5742264000.0,
           "shares": 17243.0,
           "weight": 2.31
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "874816",
+      "name": "Alexander Randolph Advisory, Inc.",
+      "cik": "874816",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 124879891000.0,
+      "holdings": [
+        {
+          "name": "ISHARES U S ETF TR",
+          "value": 26625578000.0,
+          "shares": 534105.0,
+          "weight": 21.32
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 18811964000.0,
+          "shares": 383521.0,
+          "weight": 15.06
+        },
+        {
+          "name": "ROYCE MICRO-CAP TR INC",
+          "value": 12245714000.0,
+          "shares": 911139.0,
+          "weight": 9.81
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 4881228000.0,
+          "shares": 14186.0,
+          "weight": 3.91
+        },
+        {
+          "name": "ACCENTURE PLC IRELAND",
+          "value": 4415550000.0,
+          "shares": 24080.0,
+          "weight": 3.54
+        },
+        {
+          "name": "VIATRIS INC",
+          "value": 4382553000.0,
+          "shares": 247322.0,
+          "weight": 3.51
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 4185444000.0,
+          "shares": 8160.0,
+          "weight": 3.35
+        },
+        {
+          "name": "ALLSTATE CORP",
+          "value": 3908286000.0,
+          "shares": 17616.0,
+          "weight": 3.13
+        },
+        {
+          "name": "CVS HEALTH CORP",
+          "value": 3796963000.0,
+          "shares": 44310.0,
+          "weight": 3.04
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "value": 3571512000.0,
+          "shares": 4925.0,
+          "weight": 2.86
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1806628",
+      "name": "Algorithmic Investment Models, LLC",
+      "cik": "1806628",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 83351766000.0,
+      "holdings": [
+        {
+          "name": "SELECT SECTOR SPDR TR",
+          "value": 50139461000.0,
+          "shares": 678681.0,
+          "weight": 60.15
+        },
+        {
+          "name": "WISDOMTREE TR",
+          "value": 7931183000.0,
+          "shares": 116032.0,
+          "weight": 9.52
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 6847835000.0,
+          "shares": 114425.0,
+          "weight": 8.22
+        },
+        {
+          "name": "FRANKLIN TEMPLETON ETF TR",
+          "value": 6078160000.0,
+          "shares": 105817.0,
+          "weight": 7.29
+        },
+        {
+          "name": "VANGUARD INTL EQUITY INDEX F",
+          "value": 4607105000.0,
+          "shares": 53464.0,
+          "weight": 5.53
+        },
+        {
+          "name": "ALPS ETF TR",
+          "value": 2028946000.0,
+          "shares": 39115.0,
+          "weight": 2.43
+        },
+        {
+          "name": "DOUBLELINE ETF TRUST",
+          "value": 1156845000.0,
+          "shares": 26606.0,
+          "weight": 1.39
+        },
+        {
+          "name": "INVESCO ACTVELY MNGD ETC FD",
+          "value": 1148134000.0,
+          "shares": 30568.0,
+          "weight": 1.38
+        },
+        {
+          "name": "VANGUARD SCOTTSDALE FDS",
+          "value": 1111862000.0,
+          "shares": 14393.0,
+          "weight": 1.33
+        },
+        {
+          "name": "ISHARES INC",
+          "value": 612905000.0,
+          "shares": 9103.0,
+          "weight": 0.74
         }
       ],
       "moves": null,
@@ -13736,6 +15020,78 @@
       "error": null
     },
     {
+      "key": "1890906",
+      "name": "Allspring Global Investments Holdings, LLC",
+      "cik": "1890906",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 64083816757000.0,
+      "holdings": [
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 2205115180000.0,
+          "shares": 9551742.0,
+          "weight": 3.44
+        },
+        {
+          "name": "APPLE INC",
+          "value": 1816120167000.0,
+          "shares": 5498063.0,
+          "weight": 2.83
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 1645694183000.0,
+          "shares": 4885804.0,
+          "weight": 2.57
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 1500504909000.0,
+          "shares": 15674033.0,
+          "weight": 2.34
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 1493881062000.0,
+          "shares": 2913185.0,
+          "weight": 2.33
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 1024501559000.0,
+          "shares": 4127227.0,
+          "weight": 1.6
+        },
+        {
+          "name": "BROADCOM INC",
+          "value": 1020722459000.0,
+          "shares": 2970325.0,
+          "weight": 1.59
+        },
+        {
+          "name": "ALLSPRING EXCHANGE TRADED FU",
+          "value": 791243317000.0,
+          "shares": 30395274.0,
+          "weight": 1.23
+        },
+        {
+          "name": "LABCORP HOLDINGS INC",
+          "value": 632205841000.0,
+          "shares": 2075528.0,
+          "weight": 0.99
+        },
+        {
+          "name": "MICRON TECHNOLOGY INC",
+          "value": 611968654000.0,
+          "shares": 557658.0,
+          "weight": 0.95
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1680613",
       "name": "Almanack Investment Partners, LLC.",
       "cik": "1680613",
@@ -13880,6 +15236,78 @@
       "error": null
     },
     {
+      "key": "1568991",
+      "name": "Alpha Family Trust",
+      "cik": "1568991",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 248583127000.0,
+      "holdings": [
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 22772243000.0,
+          "shares": 113810.0,
+          "weight": 9.16
+        },
+        {
+          "name": "ALPHABET INC.",
+          "value": 18717254000.0,
+          "shares": 52375.0,
+          "weight": 7.53
+        },
+        {
+          "name": "APPLE INC.",
+          "value": 17584407000.0,
+          "shares": 60770.0,
+          "weight": 7.07
+        },
+        {
+          "name": "MICROSOFT CORPORATION",
+          "value": 11962751000.0,
+          "shares": 32070.0,
+          "weight": 4.81
+        },
+        {
+          "name": "AMAZON.COM INC",
+          "value": 10933848000.0,
+          "shares": 45875.0,
+          "weight": 4.4
+        },
+        {
+          "name": "MICRON TECHNOLOGY, INC.",
+          "value": 10330896000.0,
+          "shares": 8950.0,
+          "weight": 4.16
+        },
+        {
+          "name": "BROADCOM INC.",
+          "value": 9519300000.0,
+          "shares": 25200.0,
+          "weight": 3.83
+        },
+        {
+          "name": "ADVANCED MICRO DEVICES, INC.",
+          "value": 7153907000.0,
+          "shares": 12315.0,
+          "weight": 2.88
+        },
+        {
+          "name": "TESLA, INC.",
+          "value": 6353163000.0,
+          "shares": 15105.0,
+          "weight": 2.56
+        },
+        {
+          "name": "META PLATFORMS INC-CLASS A",
+          "value": 6287443000.0,
+          "shares": 11162.0,
+          "weight": 2.53
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1665633",
       "name": "Alpha Omega Wealth Management LLC",
       "cik": "1665633",
@@ -13952,6 +15380,78 @@
       "error": null
     },
     {
+      "key": "2059327",
+      "name": "Alpha Wealth Funds, LLC",
+      "cik": "2059327",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 29748772000.0,
+      "holdings": [
+        {
+          "name": "ISHARES 0-3 MONTH TREASURY B",
+          "value": 14639392000.0,
+          "shares": 145405.0,
+          "weight": 49.21
+        },
+        {
+          "name": "FIRST TR EXCHANGE-TRADED FD",
+          "value": 2394679000.0,
+          "shares": 114798.0,
+          "weight": 8.05
+        },
+        {
+          "name": "ENERGY TRANSFER L P",
+          "value": 2080595000.0,
+          "shares": 104500.0,
+          "weight": 6.99
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 1349280000.0,
+          "shares": 4000.0,
+          "weight": 4.54
+        },
+        {
+          "name": "ROCKWELL AUTOMATION INC",
+          "value": 1330407000.0,
+          "shares": 3083.0,
+          "weight": 4.47
+        },
+        {
+          "name": "BOSTON SCIENTIFIC CORP",
+          "value": 1009240000.0,
+          "shares": 23000.0,
+          "weight": 3.39
+        },
+        {
+          "name": "SS SPDR S&amp;P BIOTECH ETF",
+          "value": 685591000.0,
+          "shares": 435.0,
+          "weight": 2.3
+        },
+        {
+          "name": "CATERPILLAR INC",
+          "value": 648632000.0,
+          "shares": 800.0,
+          "weight": 2.18
+        },
+        {
+          "name": "SS SPDR S&amp;P 500 ETF TRUST-US",
+          "value": 632983000.0,
+          "shares": 830.0,
+          "weight": 2.13
+        },
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 626319000.0,
+          "shares": 3438.0,
+          "weight": 2.11
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1913464",
       "name": "AlphaCentric Advisors LLC",
       "cik": "1913464",
@@ -14018,6 +15518,78 @@
           "value": 1765353000.0,
           "shares": 1841.0,
           "weight": 1.57
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1713662",
+      "name": "AlphaCore Capital LLC",
+      "cik": "1713662",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 6238733501000.0,
+      "holdings": [
+        {
+          "name": "ISHARES TR",
+          "value": 925354894000.0,
+          "shares": 8536029.0,
+          "weight": 14.83
+        },
+        {
+          "name": "SCHWAB STRATEGIC TR",
+          "value": 514902508000.0,
+          "shares": 15883088.0,
+          "weight": 8.25
+        },
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 430204473000.0,
+          "shares": 1319872.0,
+          "weight": 6.9
+        },
+        {
+          "name": "J P MORGAN EXCHANGE TRADED F",
+          "value": 214556427000.0,
+          "shares": 3396193.0,
+          "weight": 3.44
+        },
+        {
+          "name": "INVESCO EXCHANGE TRADED FD T",
+          "value": 192438812000.0,
+          "shares": 1868068.0,
+          "weight": 3.08
+        },
+        {
+          "name": "SELECT SECTOR SPDR TR",
+          "value": 172020639000.0,
+          "shares": 1423002.0,
+          "weight": 2.76
+        },
+        {
+          "name": "APPLE INC",
+          "value": 146403703000.0,
+          "shares": 439276.0,
+          "weight": 2.35
+        },
+        {
+          "name": "SPDR SERIES TRUST",
+          "value": 139860931000.0,
+          "shares": 1361996.0,
+          "weight": 2.24
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "value": 125426605000.0,
+          "shares": 172959.0,
+          "weight": 2.01
+        },
+        {
+          "name": "SPDR INDEX SHS FDS",
+          "value": 110614296000.0,
+          "shares": 2199233.0,
+          "weight": 1.77
         }
       ],
       "moves": null,
@@ -14378,6 +15950,150 @@
           "value": 2985020000.0,
           "shares": 14151.0,
           "weight": 1.11
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1986156",
+      "name": "Altiora Financial Group, LLC",
+      "cik": "1986156",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 610794051000.0,
+      "holdings": [
+        {
+          "name": "DIMENSIONAL ETF TRUST",
+          "value": 310477601000.0,
+          "shares": 6845844.0,
+          "weight": 50.83
+        },
+        {
+          "name": "VANGUARD INSTL INDEX FD",
+          "value": 48099747000.0,
+          "shares": 635232.0,
+          "weight": 7.87
+        },
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 43646636000.0,
+          "shares": 168412.0,
+          "weight": 7.15
+        },
+        {
+          "name": "SCHWAB STRATEGIC TR",
+          "value": 35498094000.0,
+          "shares": 1467440.0,
+          "weight": 5.81
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 23572247000.0,
+          "shares": 220521.0,
+          "weight": 3.86
+        },
+        {
+          "name": "VANGUARD MUN BD FDS",
+          "value": 19823246000.0,
+          "shares": 418565.0,
+          "weight": 3.25
+        },
+        {
+          "name": "DFA INVT DIMENSIONS GROUP IN",
+          "value": 17217353000.0,
+          "shares": 208291.0,
+          "weight": 2.82
+        },
+        {
+          "name": "VANGUARD SCOTTSDALE FDS",
+          "value": 14861958000.0,
+          "shares": 259894.0,
+          "weight": 2.43
+        },
+        {
+          "name": "EA SERIES TRUST",
+          "value": 14741331000.0,
+          "shares": 124515.0,
+          "weight": 2.41
+        },
+        {
+          "name": "VANGUARD MALVERN FDS",
+          "value": 13676536000.0,
+          "shares": 206495.0,
+          "weight": 2.24
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1746382",
+      "name": "Altium Capital Management LLC",
+      "cik": "1746382",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 68807676000.0,
+      "holdings": [
+        {
+          "name": "EA SERIES TRUST",
+          "value": 24996983000.0,
+          "shares": 211141.0,
+          "weight": 36.33
+        },
+        {
+          "name": "ASA GOLD AND PRECIOUS MTLS L",
+          "value": 3924243000.0,
+          "shares": 70390.0,
+          "weight": 5.7
+        },
+        {
+          "name": "ROYCE MICRO-CAP TR INC",
+          "value": 3801087000.0,
+          "shares": 282819.0,
+          "weight": 5.52
+        },
+        {
+          "name": "ROYCE SMALL CAP TRUST INC",
+          "value": 3360461000.0,
+          "shares": 196174.0,
+          "weight": 4.88
+        },
+        {
+          "name": "NEUBERGER NEXT GENERATION",
+          "value": 3209578000.0,
+          "shares": 204562.0,
+          "weight": 4.66
+        },
+        {
+          "name": "PIMCO DYNAMIC INCOME STRATEG",
+          "value": 3201310000.0,
+          "shares": 157700.0,
+          "weight": 4.65
+        },
+        {
+          "name": "GENERAL AMERN INVS CO INC",
+          "value": 3093017000.0,
+          "shares": 48755.0,
+          "weight": 4.5
+        },
+        {
+          "name": "TRI CONTL CORP",
+          "value": 2968968000.0,
+          "shares": 86458.0,
+          "weight": 4.31
+        },
+        {
+          "name": "NUVEEN S&amp;P 500 DYNAMIC OVERW",
+          "value": 2910234000.0,
+          "shares": 157395.0,
+          "weight": 4.23
+        },
+        {
+          "name": "CALAMOS GBL DYN INCOME FUND",
+          "value": 2654231000.0,
+          "shares": 328901.0,
+          "weight": 3.86
         }
       ],
       "moves": null,
@@ -20701,6 +22417,78 @@
       "error": null
     },
     {
+      "key": "2048608",
+      "name": "Aspetuck Financial Management LLC",
+      "cik": "2048608",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 156327056000.0,
+      "holdings": [
+        {
+          "name": "NVIDIA CORPORATION COM",
+          "value": 11122106000.0,
+          "shares": 48700.0,
+          "weight": 7.11
+        },
+        {
+          "name": "STATE STREET SPDR BLOOMBERG INVESTMENT GRADE FLOATING RATE ETF",
+          "value": 10182011000.0,
+          "shares": 330156.0,
+          "weight": 6.51
+        },
+        {
+          "name": "FIDELITY MSCI INFORMATION TECHNOLOGY INDEX ETF",
+          "value": 8665433000.0,
+          "shares": 28879.0,
+          "weight": 5.54
+        },
+        {
+          "name": "LAM RESEARCH CORP COM NEW",
+          "value": 8122410000.0,
+          "shares": 24725.0,
+          "weight": 5.2
+        },
+        {
+          "name": "ALPHABET INC CAP STK CL A",
+          "value": 6235074000.0,
+          "shares": 18121.0,
+          "weight": 3.99
+        },
+        {
+          "name": "APPLE INC COM",
+          "value": 5229962000.0,
+          "shares": 15705.0,
+          "weight": 3.35
+        },
+        {
+          "name": "STATE STREET SPDR PORTFOLIO DEVELOPED WORLD EX-US ETF",
+          "value": 5156015000.0,
+          "shares": 102689.0,
+          "weight": 3.3
+        },
+        {
+          "name": "MARATHON PETE CORP COM",
+          "value": 4460338000.0,
+          "shares": 11280.0,
+          "weight": 2.85
+        },
+        {
+          "name": "ISHARES CORE S&amp;P SMALL CAP ETF",
+          "value": 4447420000.0,
+          "shares": 32692.0,
+          "weight": 2.84
+        },
+        {
+          "name": "MICROSOFT CORP COM",
+          "value": 4225783000.0,
+          "shares": 8239.0,
+          "weight": 2.7
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "2110285",
       "name": "Aspirean Wealth, LLC",
       "cik": "2110285",
@@ -21853,6 +23641,30 @@
       "error": null
     },
     {
+      "key": "1945789",
+      "name": "Atlas Merchant Capital LLC",
+      "cik": "1945789",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 6463790000.0,
+      "holdings": [
+        {
+          "name": "FIRSTSUN CAP BANCORP",
+          "value": 5888990000.0,
+          "shares": 152525.0,
+          "weight": 91.11
+        },
+        {
+          "name": "NAMIB MINERALS",
+          "value": 574800000.0,
+          "shares": 600000.0,
+          "weight": 8.89
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "1814234",
       "name": "Atlas Private Wealth Advisors",
       "cik": "1814234",
@@ -22501,6 +24313,78 @@
           "value": 4585250000.0,
           "shares": 13700.0,
           "weight": 2.87
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1801573",
+      "name": "Aufman Associates Inc",
+      "cik": "1801573",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 244174337000.0,
+      "holdings": [
+        {
+          "name": "Seagate Technology Holdings",
+          "value": 46661181000.0,
+          "shares": 50590.0,
+          "weight": 19.11
+        },
+        {
+          "name": "Vanguard S&amp;P 500 Index ETF",
+          "value": 41290685000.0,
+          "shares": 58914.0,
+          "weight": 16.91
+        },
+        {
+          "name": "Vanguard MStar Small-Cap Index ETF",
+          "value": 41214360000.0,
+          "shares": 144871.0,
+          "weight": 16.88
+        },
+        {
+          "name": "Vanguard Developed Markets Index ETF",
+          "value": 35131878000.0,
+          "shares": 497548.0,
+          "weight": 14.39
+        },
+        {
+          "name": "Schwab Fundamental US Large Company Index ETF",
+          "value": 23024361000.0,
+          "shares": 731629.0,
+          "weight": 9.43
+        },
+        {
+          "name": "Vanguard MStar Mid-Cap Growth Index ETF",
+          "value": 7219271000.0,
+          "shares": 24715.0,
+          "weight": 2.96
+        },
+        {
+          "name": "iShares Core S&amp;P 500 Index ETF",
+          "value": 5746702000.0,
+          "shares": 7504.0,
+          "weight": 2.35
+        },
+        {
+          "name": "Vanguard FTSE All-World ex US Index ETF",
+          "value": 4232085000.0,
+          "shares": 51007.0,
+          "weight": 1.73
+        },
+        {
+          "name": "Alphabet Cl C",
+          "value": 3459390000.0,
+          "shares": 10153.0,
+          "weight": 1.42
+        },
+        {
+          "name": "Berkshire Hathaway Cl B",
+          "value": 3329294000.0,
+          "shares": 6686.0,
+          "weight": 1.36
         }
       ],
       "moves": null,
@@ -24085,6 +25969,78 @@
           "value": 55802288000.0,
           "shares": 1336902.0,
           "weight": 1.56
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1792704",
+      "name": "Avion Wealth",
+      "cik": "1792704",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 561206000.0,
+      "holdings": [
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 164917000.0,
+          "shares": 868873.0,
+          "weight": 29.39
+        },
+        {
+          "name": "VANGUARD BD INDEX FDS",
+          "value": 89520000.0,
+          "shares": 1782675.0,
+          "weight": 15.95
+        },
+        {
+          "name": "VANGUARD TAX-MANAGED FDS",
+          "value": 63065000.0,
+          "shares": 893151.0,
+          "weight": 11.24
+        },
+        {
+          "name": "VANGUARD INTL EQUITY INDEX F",
+          "value": 44507000.0,
+          "shares": 550401.0,
+          "weight": 7.93
+        },
+        {
+          "name": "VANGUARD CHARLOTTE FDS",
+          "value": 30463000.0,
+          "shares": 649961.0,
+          "weight": 5.43
+        },
+        {
+          "name": "VANGUARD WHITEHALL FDS",
+          "value": 27125000.0,
+          "shares": 174779.0,
+          "weight": 4.83
+        },
+        {
+          "name": "ISHARES TR",
+          "value": 24061000.0,
+          "shares": 261664.0,
+          "weight": 4.29
+        },
+        {
+          "name": "DIMENSIONAL ETF TRUST",
+          "value": 11559000.0,
+          "shares": 258600.0,
+          "weight": 2.06
+        },
+        {
+          "name": "PIMCO ETF TR",
+          "value": 8863000.0,
+          "shares": 88212.0,
+          "weight": 1.58
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 6542000.0,
+          "shares": 28649.0,
+          "weight": 1.17
         }
       ],
       "moves": null,
@@ -26251,6 +28207,78 @@
       "error": null
     },
     {
+      "key": "1096783",
+      "name": "BAXTER BROS INC",
+      "cik": "1096783",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 889239627000.0,
+      "holdings": [
+        {
+          "name": "BERKSHIRE HATHAWAY INC DEL",
+          "value": 71799039000.0,
+          "shares": 138193.0,
+          "weight": 8.07
+        },
+        {
+          "name": "ALPHABET INC",
+          "value": 69506160000.0,
+          "shares": 203099.0,
+          "weight": 7.82
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 67475860000.0,
+          "shares": 131558.0,
+          "weight": 7.59
+        },
+        {
+          "name": "EXXONMOBIL HOLDINGS CORP",
+          "value": 44195603000.0,
+          "shares": 271555.0,
+          "weight": 4.97
+        },
+        {
+          "name": "VISA INC",
+          "value": 32736708000.0,
+          "shares": 91105.0,
+          "weight": 3.68
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "value": 28097099000.0,
+          "shares": 38745.0,
+          "weight": 3.16
+        },
+        {
+          "name": "AMERICAN EXPRESS CO",
+          "value": 25700099000.0,
+          "shares": 84512.0,
+          "weight": 2.89
+        },
+        {
+          "name": "JPMORGAN CHASE &amp; CO",
+          "value": 25477143000.0,
+          "shares": 77010.0,
+          "weight": 2.87
+        },
+        {
+          "name": "UNION PAC CORP",
+          "value": 24893636000.0,
+          "shares": 91477.0,
+          "weight": 2.8
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 19509442000.0,
+          "shares": 78304.0,
+          "weight": 2.19
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "2044734",
       "name": "BAYPOINTE PARTNERS LLC",
       "cik": "2044734",
@@ -27037,6 +29065,78 @@
           "value": 21012376000.0,
           "shares": 126367.0,
           "weight": 1.9
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
+      "key": "1966066",
+      "name": "BEACON FINANCIAL PLANNING, INC",
+      "cik": "1966066",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 293578738000.0,
+      "holdings": [
+        {
+          "name": "ISHARES TR",
+          "value": 102220678000.0,
+          "shares": 861012.0,
+          "weight": 34.82
+        },
+        {
+          "name": "SCHWAB STRATEGIC TR",
+          "value": 33436065000.0,
+          "shares": 763151.0,
+          "weight": 11.39
+        },
+        {
+          "name": "INVESCO QQQ TR",
+          "value": 32867136000.0,
+          "shares": 44429.0,
+          "weight": 11.2
+        },
+        {
+          "name": "BERKSHIRE HATHAWAY INC DEL",
+          "value": 19448730000.0,
+          "shares": 39058.0,
+          "weight": 6.62
+        },
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 14640515000.0,
+          "shares": 54442.0,
+          "weight": 4.99
+        },
+        {
+          "name": "WELLTOWER INC",
+          "value": 10101774000.0,
+          "shares": 43875.0,
+          "weight": 3.44
+        },
+        {
+          "name": "INVESCO ACTIVELY MANAGED EXC",
+          "value": 8223214000.0,
+          "shares": 184418.0,
+          "weight": 2.8
+        },
+        {
+          "name": "BLACKROCK ETF TRUST",
+          "value": 7984892000.0,
+          "shares": 126131.0,
+          "weight": 2.72
+        },
+        {
+          "name": "INVESCO EXCH TRADED FD TR II",
+          "value": 7625043000.0,
+          "shares": 155234.0,
+          "weight": 2.6
+        },
+        {
+          "name": "TESLA INC",
+          "value": 6368485000.0,
+          "shares": 17949.0,
+          "weight": 2.17
         }
       ],
       "moves": null,
@@ -32023,6 +34123,78 @@
       "error": null
     },
     {
+      "key": "1998389",
+      "name": "Ballast Asset Management, LP",
+      "cik": "1998389",
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 230139137000.0,
+      "holdings": [
+        {
+          "name": "Climb Global Solutions, Inc.",
+          "value": 9814702000.0,
+          "shares": 305516.0,
+          "weight": 4.26
+        },
+        {
+          "name": "Natural Resource Partners, L.P.",
+          "value": 7787243000.0,
+          "shares": 71620.0,
+          "weight": 3.38
+        },
+        {
+          "name": "Federal Agricultural Mortgage Corporation",
+          "value": 7475606000.0,
+          "shares": 36128.0,
+          "weight": 3.25
+        },
+        {
+          "name": "AZZ, Inc.",
+          "value": 7240396000.0,
+          "shares": 53876.0,
+          "weight": 3.15
+        },
+        {
+          "name": "Capital Bancorp, Inc.",
+          "value": 7150528000.0,
+          "shares": 181901.0,
+          "weight": 3.11
+        },
+        {
+          "name": "Cavco Industries, Inc.",
+          "value": 6515264000.0,
+          "shares": 11629.0,
+          "weight": 2.83
+        },
+        {
+          "name": "Merchants Bancorp",
+          "value": 6429525000.0,
+          "shares": 131322.0,
+          "weight": 2.79
+        },
+        {
+          "name": "Kosmos Energy Ltd.",
+          "value": 5953082000.0,
+          "shares": 2343733.0,
+          "weight": 2.59
+        },
+        {
+          "name": "Paysign, Inc.",
+          "value": 5782731000.0,
+          "shares": 428986.0,
+          "weight": 2.51
+        },
+        {
+          "name": "RCM Technologies, Inc.",
+          "value": 5654154000.0,
+          "shares": 138991.0,
+          "weight": 2.46
+        }
+      ],
+      "moves": null,
+      "error": null
+    },
+    {
       "key": "2109821",
       "name": "Ballast Financial Advisors LLC",
       "cik": "2109821",
@@ -32737,2196 +34909,6 @@
           "value": 125352354000.0,
           "shares": 356936.0,
           "weight": 2.36
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1844891",
-      "name": "Bank of Finland",
-      "cik": "1844891",
-      "period": "2026-09-30",
-      "filed": "2026-10-07",
-      "totalValue": 1380933727000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 886510104000.0,
-          "shares": 7644309.0,
-          "weight": 64.2
-        },
-        {
-          "name": "DBX ETF TR",
-          "value": 494423623000.0,
-          "shares": 10876852.0,
-          "weight": 35.8
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1870761",
-      "name": "Bank of New Hampshire",
-      "cik": "1870761",
-      "period": "2026-09-30",
-      "filed": "2026-10-06",
-      "totalValue": 463189796000.0,
-      "holdings": [
-        {
-          "name": "iShares Core S&amp;P 500 ETF",
-          "value": 24216177000.0,
-          "shares": 31620.0,
-          "weight": 5.23
-        },
-        {
-          "name": "Apple Inc",
-          "value": 22272711000.0,
-          "shares": 66881.0,
-          "weight": 4.81
-        },
-        {
-          "name": "Microsoft Corp",
-          "value": 14485835000.0,
-          "shares": 28243.0,
-          "weight": 3.13
-        },
-        {
-          "name": "SPDR Gold Shares ETF",
-          "value": 13902564000.0,
-          "shares": 36505.0,
-          "weight": 3.0
-        },
-        {
-          "name": "Alphabet Inc CL A",
-          "value": 13347895000.0,
-          "shares": 38793.0,
-          "weight": 2.88
-        },
-        {
-          "name": "Vanguard Morningstar Mid Cap ETF",
-          "value": 10868463000.0,
-          "shares": 138593.0,
-          "weight": 2.35
-        },
-        {
-          "name": "Vanguard S&amp;P 500 ETF",
-          "value": 10501686000.0,
-          "shares": 14984.0,
-          "weight": 2.27
-        },
-        {
-          "name": "Vanguard Information Technology ETF",
-          "value": 8871548000.0,
-          "shares": 70594.0,
-          "weight": 1.92
-        },
-        {
-          "name": "Dimensional International Value ETF",
-          "value": 8595458000.0,
-          "shares": 153875.0,
-          "weight": 1.86
-        },
-        {
-          "name": "Nvidia Corp",
-          "value": 8578410000.0,
-          "shares": 37562.0,
-          "weight": 1.85
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1768763",
-      "name": "Bank of the Bluegrass & Trust Co.",
-      "cik": "1768763",
-      "error": "info table document not found"
-    },
-    {
-      "key": "2135773",
-      "name": "BankChampaign, National Association",
-      "cik": "2135773",
-      "period": "2026-09-30",
-      "filed": "2026-10-19",
-      "totalValue": 119758612000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 4140355000.0,
-          "shares": 38952.0,
-          "weight": 3.46
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 3176193000.0,
-          "shares": 9235.0,
-          "weight": 2.65
-        },
-        {
-          "name": "WESTERN DIGITAL CORP",
-          "value": 2835830000.0,
-          "shares": 6240.0,
-          "weight": 2.37
-        },
-        {
-          "name": "BROADCOM INC",
-          "value": 2723830000.0,
-          "shares": 7756.0,
-          "weight": 2.27
-        },
-        {
-          "name": "PALANTIR TECHNOLOGIES INC",
-          "value": 2722700000.0,
-          "shares": 14556.0,
-          "weight": 2.27
-        },
-        {
-          "name": "TAIWAN SEMICONDUCTOR MANUFAC",
-          "value": 2167359000.0,
-          "shares": 4751.0,
-          "weight": 1.81
-        },
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 2097214000.0,
-          "shares": 9183.0,
-          "weight": 1.75
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 2094684000.0,
-          "shares": 4084.0,
-          "weight": 1.75
-        },
-        {
-          "name": "APPLE INC",
-          "value": 2076713000.0,
-          "shares": 6236.0,
-          "weight": 1.73
-        },
-        {
-          "name": "PAN AMERN SILVER CORP",
-          "value": 2013317000.0,
-          "shares": 44239.0,
-          "weight": 1.68
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2051117",
-      "name": "BankPlus Wealth Management LLC",
-      "cik": "2051117",
-      "period": "2026-09-30",
-      "filed": "2026-10-13",
-      "totalValue": 228677633000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 89185898000.0,
-          "shares": 388916.0,
-          "weight": 39.0
-        },
-        {
-          "name": "J P MORGAN EXCHANGE TRADED F",
-          "value": 25825801000.0,
-          "shares": 576230.0,
-          "weight": 11.29
-        },
-        {
-          "name": "VANGUARD MALVERN FDS",
-          "value": 9049613000.0,
-          "shares": 122917.0,
-          "weight": 3.96
-        },
-        {
-          "name": "APPLE INC",
-          "value": 7689551000.0,
-          "shares": 23087.0,
-          "weight": 3.36
-        },
-        {
-          "name": "INVESCO EXCH TRADED FD TR II",
-          "value": 5616777000.0,
-          "shares": 18424.0,
-          "weight": 2.46
-        },
-        {
-          "name": "FIRST TR EXCHANGE TRADED FD",
-          "value": 5246908000.0,
-          "shares": 67010.0,
-          "weight": 2.29
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 4413534000.0,
-          "shares": 43911.0,
-          "weight": 1.93
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 4252226000.0,
-          "shares": 8288.0,
-          "weight": 1.86
-        },
-        {
-          "name": "T ROWE PRICE EXCHANGE-TRADED",
-          "value": 4070666000.0,
-          "shares": 106742.0,
-          "weight": 1.78
-        },
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 3823649000.0,
-          "shares": 5013.0,
-          "weight": 1.67
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2055344",
-      "name": "Banque de Luxembourg S.A.",
-      "cik": "2055344",
-      "period": "2026-09-30",
-      "filed": "2026-10-14",
-      "totalValue": 223633672000.0,
-      "holdings": [
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 30125410000.0,
-          "shares": 39502.0,
-          "weight": 13.47
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 24707966000.0,
-          "shares": 71892.0,
-          "weight": 11.05
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 21817740000.0,
-          "shares": 42538.0,
-          "weight": 9.76
-        },
-        {
-          "name": "TOTALENERGIES SE",
-          "value": 12002559000.0,
-          "shares": 139942.0,
-          "weight": 5.37
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 11423777000.0,
-          "shares": 45851.0,
-          "weight": 5.11
-        },
-        {
-          "name": "APPLE INC",
-          "value": 11255743000.0,
-          "shares": 33799.0,
-          "weight": 5.03
-        },
-        {
-          "name": "VISA INC",
-          "value": 11251700000.0,
-          "shares": 31313.0,
-          "weight": 5.03
-        },
-        {
-          "name": "ACCENTURE PLC IRELAND",
-          "value": 10167500000.0,
-          "shares": 55448.0,
-          "weight": 4.55
-        },
-        {
-          "name": "UNITEDHEALTH GROUP INC",
-          "value": 7932966000.0,
-          "shares": 21611.0,
-          "weight": 3.55
-        },
-        {
-          "name": "MEDTRONIC PLC",
-          "value": 6804139000.0,
-          "shares": 78852.0,
-          "weight": 3.04
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1906798",
-      "name": "Barden Capital Management, Inc.",
-      "cik": "1906798",
-      "period": "2026-09-30",
-      "filed": "2026-10-09",
-      "totalValue": 109966284000.0,
-      "holdings": [
-        {
-          "name": "SCHWAB STRATEGIC TR",
-          "value": 35343527000.0,
-          "shares": 1186302.0,
-          "weight": 32.14
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 10641236000.0,
-          "shares": 271785.0,
-          "weight": 9.68
-        },
-        {
-          "name": "SPDR INDEX SHS FDS",
-          "value": 6635552000.0,
-          "shares": 76712.0,
-          "weight": 6.03
-        },
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 4857186000.0,
-          "shares": 21268.0,
-          "weight": 4.42
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 4817189000.0,
-          "shares": 48201.0,
-          "weight": 4.38
-        },
-        {
-          "name": "VANGUARD BD INDEX FDS",
-          "value": 3156820000.0,
-          "shares": 45001.0,
-          "weight": 2.87
-        },
-        {
-          "name": "APPLE INC",
-          "value": 3034811000.0,
-          "shares": 9113.0,
-          "weight": 2.76
-        },
-        {
-          "name": "ELI LILLY &amp; CO",
-          "value": 2353501000.0,
-          "shares": 2034.0,
-          "weight": 2.14
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 2260289000.0,
-          "shares": 9072.0,
-          "weight": 2.06
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 2219318000.0,
-          "shares": 4327.0,
-          "weight": 2.02
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2052588",
-      "name": "Baring Financial LLC",
-      "cik": "2052588",
-      "period": "2026-09-30",
-      "filed": "2026-10-07",
-      "totalValue": 187153284000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 55715358000.0,
-          "shares": 468723.0,
-          "weight": 29.77
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 15142467000.0,
-          "shares": 61460.0,
-          "weight": 8.09
-        },
-        {
-          "name": "INVESCO EXCH TRADED FD TR II",
-          "value": 14057215000.0,
-          "shares": 46144.0,
-          "weight": 7.51
-        },
-        {
-          "name": "DIMENSIONAL ETF TRUST",
-          "value": 11610611000.0,
-          "shares": 254472.0,
-          "weight": 6.2
-        },
-        {
-          "name": "VANGUARD WORLD FD",
-          "value": 10439084000.0,
-          "shares": 112672.0,
-          "weight": 5.58
-        },
-        {
-          "name": "SCHWAB STRATEGIC TR",
-          "value": 8689159000.0,
-          "shares": 259470.0,
-          "weight": 4.64
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 7802949000.0,
-          "shares": 10548.0,
-          "weight": 4.17
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 6002237000.0,
-          "shares": 65554.0,
-          "weight": 3.21
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 5883505000.0,
-          "shares": 11471.0,
-          "weight": 3.14
-        },
-        {
-          "name": "VANGUARD SPECIALIZED FUNDS",
-          "value": 5440768000.0,
-          "shares": 23320.0,
-          "weight": 2.91
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2058270",
-      "name": "Barnes Dennig Private Wealth Management LLC",
-      "cik": "2058270",
-      "period": "2026-09-30",
-      "filed": "2026-10-30",
-      "totalValue": 118681334000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 11678045000.0,
-          "shares": 67338.0,
-          "weight": 9.84
-        },
-        {
-          "name": "APPLIED MATLS INC",
-          "value": 8291269000.0,
-          "shares": 16214.0,
-          "weight": 6.99
-        },
-        {
-          "name": "BANK NEW YORK MELLON CORP",
-          "value": 5575218000.0,
-          "shares": 38548.0,
-          "weight": 4.7
-        },
-        {
-          "name": "APPLE INC",
-          "value": 5492857000.0,
-          "shares": 16494.0,
-          "weight": 4.63
-        },
-        {
-          "name": "MARVELL TECHNOLOGY INC",
-          "value": 5478848000.0,
-          "shares": 20737.0,
-          "weight": 4.62
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 5356282000.0,
-          "shares": 15572.0,
-          "weight": 4.51
-        },
-        {
-          "name": "BORGWARNER INC",
-          "value": 4755035000.0,
-          "shares": 79106.0,
-          "weight": 4.01
-        },
-        {
-          "name": "AMGEN INC",
-          "value": 4647978000.0,
-          "shares": 11027.0,
-          "weight": 3.92
-        },
-        {
-          "name": "SCHWAB CHARLES CORP",
-          "value": 3624664000.0,
-          "shares": 37085.0,
-          "weight": 3.05
-        },
-        {
-          "name": "VANGUARD TAX MANAGED FDS",
-          "value": 3439233000.0,
-          "shares": 48707.0,
-          "weight": 2.9
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1832093",
-      "name": "Baron Financial Group, LLC",
-      "cik": "1832093",
-      "period": "2026-09-30",
-      "filed": "2026-10-09",
-      "totalValue": 205346595000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 73777990000.0,
-          "shares": 656800.0,
-          "weight": 35.93
-        },
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 25416990000.0,
-          "shares": 33328.0,
-          "weight": 12.38
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 16026905000.0,
-          "shares": 21665.0,
-          "weight": 7.8
-        },
-        {
-          "name": "VANGUARD MALVERN FDS",
-          "value": 13818269000.0,
-          "shares": 280745.0,
-          "weight": 6.73
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 12238922000.0,
-          "shares": 84138.0,
-          "weight": 5.96
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 10950824000.0,
-          "shares": 248477.0,
-          "weight": 5.33
-        },
-        {
-          "name": "SPDR GOLD TR",
-          "value": 6026413000.0,
-          "shares": 15824.0,
-          "weight": 2.93
-        },
-        {
-          "name": "VANGUARD CHARLOTTE FDS",
-          "value": 5700330000.0,
-          "shares": 121620.0,
-          "weight": 2.78
-        },
-        {
-          "name": "AMPLIFY ETF TR",
-          "value": 5258015000.0,
-          "shares": 124490.0,
-          "weight": 2.56
-        },
-        {
-          "name": "INVESCO EXCH TRADED FD TR II",
-          "value": 5149472000.0,
-          "shares": 82603.0,
-          "weight": 2.51
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1968507",
-      "name": "Baron Wealth Management LLC",
-      "cik": "1968507",
-      "period": "2026-09-30",
-      "filed": "2026-10-27",
-      "totalValue": 388819361000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 93546814000.0,
-          "shares": 517802.0,
-          "weight": 24.06
-        },
-        {
-          "name": "MFS ACTIVE EXCHANGE TRADED F",
-          "value": 32423586000.0,
-          "shares": 992457.0,
-          "weight": 8.34
-        },
-        {
-          "name": "FRANKLIN TEMPLETON ETF TR",
-          "value": 32312221000.0,
-          "shares": 757436.0,
-          "weight": 8.31
-        },
-        {
-          "name": "APPLE INC",
-          "value": 18763879000.0,
-          "shares": 56345.0,
-          "weight": 4.83
-        },
-        {
-          "name": "SNAP ON INC",
-          "value": 8882655000.0,
-          "shares": 24447.0,
-          "weight": 2.28
-        },
-        {
-          "name": "FIRST TR EXCHANGE TRADED FD",
-          "value": 8597405000.0,
-          "shares": 211863.0,
-          "weight": 2.21
-        },
-        {
-          "name": "VANGUARD ADMIRAL FDS INC",
-          "value": 8405148000.0,
-          "shares": 61522.0,
-          "weight": 2.16
-        },
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 6462008000.0,
-          "shares": 8473.0,
-          "weight": 1.66
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 6317041000.0,
-          "shares": 18443.0,
-          "weight": 1.62
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 5660168000.0,
-          "shares": 11036.0,
-          "weight": 1.46
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1631639",
-      "name": "Barry Investment Advisors, LLC",
-      "cik": "1631639",
-      "period": "2026-09-30",
-      "filed": "2026-10-14",
-      "totalValue": 523524556000.0,
-      "holdings": [
-        {
-          "name": "SCHWAB STRATEGIC TR",
-          "value": 61229252000.0,
-          "shares": 1314265.0,
-          "weight": 11.7
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 48763705000.0,
-          "shares": 536557.0,
-          "weight": 9.31
-        },
-        {
-          "name": "VANGUARD WHITEHALL FDS",
-          "value": 47709672000.0,
-          "shares": 470607.0,
-          "weight": 9.11
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 46507179000.0,
-          "shares": 859429.0,
-          "weight": 8.88
-        },
-        {
-          "name": "VANGUARD SCOTTSDALE FDS",
-          "value": 39238405000.0,
-          "shares": 782577.0,
-          "weight": 7.5
-        },
-        {
-          "name": "FLEXSHARES TR",
-          "value": 35679771000.0,
-          "shares": 676522.0,
-          "weight": 6.82
-        },
-        {
-          "name": "ISHARES INC",
-          "value": 28260948000.0,
-          "shares": 392909.0,
-          "weight": 5.4
-        },
-        {
-          "name": "VANGUARD MALVERN FDS",
-          "value": 23424651000.0,
-          "shares": 334667.0,
-          "weight": 4.47
-        },
-        {
-          "name": "FIRST TR EXCHANGE-TRADED FD",
-          "value": 22970193000.0,
-          "shares": 560385.0,
-          "weight": 4.39
-        },
-        {
-          "name": "VANGUARD INTL EQUITY INDEX F",
-          "value": 22038799000.0,
-          "shares": 313012.0,
-          "weight": 4.21
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1387818",
-      "name": "Barton Investment Management",
-      "cik": "1387818",
-      "period": "2026-09-30",
-      "filed": "2026-10-27",
-      "totalValue": 806588593000.0,
-      "holdings": [
-        {
-          "name": "SHOPIFY INC",
-          "value": 222638638000.0,
-          "shares": 1501272.0,
-          "weight": 27.6
-        },
-        {
-          "name": "NETFLIX INC.",
-          "value": 157068223000.0,
-          "shares": 2257376.0,
-          "weight": 19.47
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 118286205000.0,
-          "shares": 474759.0,
-          "weight": 14.66
-        },
-        {
-          "name": "OKTA INC",
-          "value": 43067669000.0,
-          "shares": 205957.0,
-          "weight": 5.34
-        },
-        {
-          "name": "GLOBAL E ONLINE LTD",
-          "value": 39949429000.0,
-          "shares": 1005523.0,
-          "weight": 4.95
-        },
-        {
-          "name": "EQUINIX INC",
-          "value": 31377966000.0,
-          "shares": 31019.0,
-          "weight": 3.89
-        },
-        {
-          "name": "GITLAB INC",
-          "value": 27106333000.0,
-          "shares": 573679.0,
-          "weight": 3.36
-        },
-        {
-          "name": "KLAVIYO INC",
-          "value": 21243208000.0,
-          "shares": 1350490.0,
-          "weight": 2.63
-        },
-        {
-          "name": "BLUE OWL CAPITAL INC",
-          "value": 19175814000.0,
-          "shares": 2109550.0,
-          "weight": 2.38
-        },
-        {
-          "name": "GFL ENVIRONMENTAL INC",
-          "value": 17070071000.0,
-          "shares": 408082.0,
-          "weight": 2.12
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2083977",
-      "name": "Base Wealth Management LLC",
-      "cik": "2083977",
-      "period": "2026-09-30",
-      "filed": "2026-10-21",
-      "totalValue": 224970555000.0,
-      "holdings": [
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 37738495000.0,
-          "shares": 75837.0,
-          "weight": 16.77
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 35078210000.0,
-          "shares": 633710.0,
-          "weight": 15.59
-        },
-        {
-          "name": "J P MORGAN EXCHANGE TRADED F",
-          "value": 32585096000.0,
-          "shares": 509051.0,
-          "weight": 14.48
-        },
-        {
-          "name": "FIDELITY COVINGTON TRUST",
-          "value": 18700492000.0,
-          "shares": 385001.0,
-          "weight": 8.31
-        },
-        {
-          "name": "PIMCO ETF TR",
-          "value": 17163349000.0,
-          "shares": 635736.0,
-          "weight": 7.63
-        },
-        {
-          "name": "CAPITAL GROUP CORE BALANCED",
-          "value": 12063267000.0,
-          "shares": 328252.0,
-          "weight": 5.36
-        },
-        {
-          "name": "HCI GROUP INC",
-          "value": 11355139000.0,
-          "shares": 65327.0,
-          "weight": 5.05
-        },
-        {
-          "name": "FRANKLIN TEMPLETON ETF TR",
-          "value": 10827760000.0,
-          "shares": 382201.0,
-          "weight": 4.81
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 8905434000.0,
-          "shares": 12038.0,
-          "weight": 3.96
-        },
-        {
-          "name": "VANGUARD SPECIALIZED FUNDS",
-          "value": 6261130000.0,
-          "shares": 26836.0,
-          "weight": 2.78
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1511098",
-      "name": "Baskin Financial Services Inc.",
-      "cik": "1511098",
-      "period": "2026-09-30",
-      "filed": "2026-10-19",
-      "totalValue": 1240525000.0,
-      "holdings": [
-        {
-          "name": "Apple Inc.",
-          "value": 91088000.0,
-          "shares": 273520.0,
-          "weight": 7.34
-        },
-        {
-          "name": "Alphabet Inc. Class C",
-          "value": 90790000.0,
-          "shares": 266449.0,
-          "weight": 7.32
-        },
-        {
-          "name": "Microsoft Corp.",
-          "value": 71975000.0,
-          "shares": 140330.0,
-          "weight": 5.8
-        },
-        {
-          "name": "Visa Inc. Cls A",
-          "value": 58474000.0,
-          "shares": 162731.0,
-          "weight": 4.71
-        },
-        {
-          "name": "Taiwan Semiconductor Manufacturing Co",
-          "value": 56541000.0,
-          "shares": 123941.0,
-          "weight": 4.56
-        },
-        {
-          "name": "Amazon.com Inc",
-          "value": 56411000.0,
-          "shares": 226412.0,
-          "weight": 4.55
-        },
-        {
-          "name": "Costco Wholesale Corporation",
-          "value": 56179000.0,
-          "shares": 61712.0,
-          "weight": 4.53
-        },
-        {
-          "name": "Live Nation Entertainment Inc",
-          "value": 49834000.0,
-          "shares": 294352.0,
-          "weight": 4.02
-        },
-        {
-          "name": "TFI International Inc.",
-          "value": 46326000.0,
-          "shares": 386577.0,
-          "weight": 3.73
-        },
-        {
-          "name": "Brookfield Corporation",
-          "value": 46030000.0,
-          "shares": 1262547.0,
-          "weight": 3.71
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1384943",
-      "name": "Bath Savings Trust Co",
-      "cik": "1384943",
-      "period": "2026-09-30",
-      "filed": "2026-10-07",
-      "totalValue": 965853121000.0,
-      "holdings": [
-        {
-          "name": "APPLE INC",
-          "value": 85692374000.0,
-          "shares": 257319.0,
-          "weight": 8.87
-        },
-        {
-          "name": "ALPHABET INC CAP STK CL A",
-          "value": 60823022000.0,
-          "shares": 176771.0,
-          "weight": 6.3
-        },
-        {
-          "name": "MASTERCARD INCORPORATED",
-          "value": 52985789000.0,
-          "shares": 96082.0,
-          "weight": 5.49
-        },
-        {
-          "name": "TJX COS INC NEW",
-          "value": 49298310000.0,
-          "shares": 372597.0,
-          "weight": 5.1
-        },
-        {
-          "name": "MICROSOFT CORPORATION",
-          "value": 48007953000.0,
-          "shares": 93601.0,
-          "weight": 4.97
-        },
-        {
-          "name": "ELI LILLY AND COMPANY",
-          "value": 30647578000.0,
-          "shares": 26487.0,
-          "weight": 3.17
-        },
-        {
-          "name": "STRYKER CORPORATION",
-          "value": 29798575000.0,
-          "shares": 108206.0,
-          "weight": 3.09
-        },
-        {
-          "name": "Vanguard Short-Term Corporate Bond Idx Fd",
-          "value": 26806832000.0,
-          "shares": 347014.0,
-          "weight": 2.78
-        },
-        {
-          "name": "AMAZON.COM INC",
-          "value": 25370446000.0,
-          "shares": 101828.0,
-          "weight": 2.63
-        },
-        {
-          "name": "AUTOMATIC DATA PROCESSING",
-          "value": 24649117000.0,
-          "shares": 95517.0,
-          "weight": 2.55
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1730818",
-      "name": "Baugh & Associates, LLC",
-      "cik": "1730818",
-      "period": "2026-09-30",
-      "filed": "2026-10-16",
-      "totalValue": 220650490000.0,
-      "holdings": [
-        {
-          "name": "MICROSOFT CORP",
-          "value": 18311779000.0,
-          "shares": 39231.0,
-          "weight": 8.3
-        },
-        {
-          "name": "APPLE INC",
-          "value": 17895829000.0,
-          "shares": 59218.0,
-          "weight": 8.11
-        },
-        {
-          "name": "INTEL CORP",
-          "value": 13712806000.0,
-          "shares": 125464.0,
-          "weight": 6.21
-        },
-        {
-          "name": "MORGAN STANLEY",
-          "value": 9469828000.0,
-          "shares": 56311.0,
-          "weight": 4.29
-        },
-        {
-          "name": "ABBVIE INC",
-          "value": 9451247000.0,
-          "shares": 40501.0,
-          "weight": 4.28
-        },
-        {
-          "name": "JPMORGAN CHASE &amp; CO",
-          "value": 9406054000.0,
-          "shares": 30511.0,
-          "weight": 4.26
-        },
-        {
-          "name": "WALMART INC",
-          "value": 8450670000.0,
-          "shares": 91142.0,
-          "weight": 3.83
-        },
-        {
-          "name": "COSTCO WHOLESALE CORPORATION",
-          "value": 8303211000.0,
-          "shares": 9903.0,
-          "weight": 3.76
-        },
-        {
-          "name": "MERCK &amp; CO INC",
-          "value": 7667424000.0,
-          "shares": 59551.0,
-          "weight": 3.47
-        },
-        {
-          "name": "JOHNSON &amp; JOHNSON",
-          "value": 6728614000.0,
-          "shares": 28123.0,
-          "weight": 3.05
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2111802",
-      "name": "Bauman Advisory Group, LLC",
-      "cik": "2111802",
-      "period": "2026-09-30",
-      "filed": "2026-10-29",
-      "totalValue": 202854600000.0,
-      "holdings": [
-        {
-          "name": "AMERICAN CENTY ETF TR",
-          "value": 45950838000.0,
-          "shares": 498447.0,
-          "weight": 22.65
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 43833347000.0,
-          "shares": 629141.0,
-          "weight": 21.61
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 26488202000.0,
-          "shares": 376130.0,
-          "weight": 13.06
-        },
-        {
-          "name": "INVESCO EXCH TRADED FD TR II",
-          "value": 19616577000.0,
-          "shares": 64393.0,
-          "weight": 9.67
-        },
-        {
-          "name": "J P MORGAN EXCHANGE TRADED F",
-          "value": 7031286000.0,
-          "shares": 123290.0,
-          "weight": 3.47
-        },
-        {
-          "name": "BLACKROCK ETF TRUST II",
-          "value": 6476718000.0,
-          "shares": 127520.0,
-          "weight": 3.19
-        },
-        {
-          "name": "ISHARES GOLD TRUST MICRO",
-          "value": 6139884000.0,
-          "shares": 148235.0,
-          "weight": 3.03
-        },
-        {
-          "name": "NEOS ETF TRUST",
-          "value": 4395983000.0,
-          "shares": 81681.0,
-          "weight": 2.17
-        },
-        {
-          "name": "APPLE INC",
-          "value": 3572264000.0,
-          "shares": 10727.0,
-          "weight": 1.76
-        },
-        {
-          "name": "SCHWAB STRATEGIC TR",
-          "value": 2125927000.0,
-          "shares": 79880.0,
-          "weight": 1.05
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2055414",
-      "name": "Bay Capital Advisors, LLC",
-      "cik": "2055414",
-      "period": "2026-09-30",
-      "filed": "2026-10-16",
-      "totalValue": 188963473000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 38148524000.0,
-          "shares": 476890.0,
-          "weight": 20.19
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 24365038000.0,
-          "shares": 266160.0,
-          "weight": 12.89
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 20882500000.0,
-          "shares": 28228.0,
-          "weight": 11.05
-        },
-        {
-          "name": "VANGUARD WHITEHALL FDS",
-          "value": 10313779000.0,
-          "shares": 66455.0,
-          "weight": 5.46
-        },
-        {
-          "name": "SPDR INDEX SHS FDS",
-          "value": 9181124000.0,
-          "shares": 182855.0,
-          "weight": 4.86
-        },
-        {
-          "name": "VANGUARD BD INDEX FDS",
-          "value": 8296324000.0,
-          "shares": 115180.0,
-          "weight": 4.39
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 6080242000.0,
-          "shares": 31667.0,
-          "weight": 3.22
-        },
-        {
-          "name": "SELECT SECTOR SPDR TR",
-          "value": 5385944000.0,
-          "shares": 36020.0,
-          "weight": 2.85
-        },
-        {
-          "name": "LEGG MASON ETF INVT",
-          "value": 4344175000.0,
-          "shares": 104152.0,
-          "weight": 2.3
-        },
-        {
-          "name": "WISDOMTREE TR",
-          "value": 4189344000.0,
-          "shares": 40896.0,
-          "weight": 2.22
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1767989",
-      "name": "Bay Harbor Wealth Management, LLC",
-      "cik": "1767989",
-      "period": "2026-09-30",
-      "filed": "2026-11-03",
-      "totalValue": 439983833000.0,
-      "holdings": [
-        {
-          "name": "ISHARES CORE S&amp;P 500 ETF",
-          "value": 41498322000.0,
-          "shares": 54186.0,
-          "weight": 9.43
-        },
-        {
-          "name": "DIMENSIONAL US CORE EQUITY MARKET ETF",
-          "value": 39573910000.0,
-          "shares": 755804.0,
-          "weight": 8.99
-        },
-        {
-          "name": "ISHARES CORE TOTAL USD BOND MARKET ETF",
-          "value": 31940075000.0,
-          "shares": 724429.0,
-          "weight": 7.26
-        },
-        {
-          "name": "VANGUARD MORNINGSTAR GROWTH ETF",
-          "value": 25857832000.0,
-          "shares": 286959.0,
-          "weight": 5.88
-        },
-        {
-          "name": "VANGUARD FTSE DEVELOPED MARKETS ETF",
-          "value": 22706663000.0,
-          "shares": 321579.0,
-          "weight": 5.16
-        },
-        {
-          "name": "VANGUARD MORNINGSTAR VALUE ETF",
-          "value": 17171912000.0,
-          "shares": 79470.0,
-          "weight": 3.9
-        },
-        {
-          "name": "ISHARES S&amp;P 500 GROWTH ETF",
-          "value": 16689232000.0,
-          "shares": 117315.0,
-          "weight": 3.79
-        },
-        {
-          "name": "ISHARES U.S. EQUITY FACTOR ROTATION ACTIVE ETF",
-          "value": 15736149000.0,
-          "shares": 227204.0,
-          "weight": 3.58
-        },
-        {
-          "name": "VANGUARD TOTAL INTERNATIONAL BOND ETF",
-          "value": 14529794000.0,
-          "shares": 310002.0,
-          "weight": 3.3
-        },
-        {
-          "name": "ISHARES S&amp;P 500 VALUE ETF",
-          "value": 13880109000.0,
-          "shares": 60803.0,
-          "weight": 3.15
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1898297",
-      "name": "BayBridge Capital Group, LLC",
-      "cik": "1898297",
-      "period": "2026-09-30",
-      "filed": "2026-10-13",
-      "totalValue": 189902212000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 60361193000.0,
-          "shares": 517688.0,
-          "weight": 31.79
-        },
-        {
-          "name": "SPDR INDEX SHS FDS",
-          "value": 10561268000.0,
-          "shares": 207656.0,
-          "weight": 5.56
-        },
-        {
-          "name": "J P MORGAN EXCHANGE TRADED F",
-          "value": 8575511000.0,
-          "shares": 170150.0,
-          "weight": 4.52
-        },
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 5108903000.0,
-          "shares": 22370.0,
-          "weight": 2.69
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 4828407000.0,
-          "shares": 166630.0,
-          "weight": 2.54
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 4703948000.0,
-          "shares": 6359.0,
-          "weight": 2.48
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 3993869000.0,
-          "shares": 11616.0,
-          "weight": 2.1
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 3344916000.0,
-          "shares": 8938.0,
-          "weight": 1.76
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 2876292000.0,
-          "shares": 11544.0,
-          "weight": 1.51
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 2374864000.0,
-          "shares": 4630.0,
-          "weight": 1.25
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2048423",
-      "name": "Bayforest Capital Ltd",
-      "cik": "2048423",
-      "period": "2026-09-30",
-      "filed": "2026-11-03",
-      "totalValue": 67553831000.0,
-      "holdings": [
-        {
-          "name": "MILLROSE PPTYS INC",
-          "value": 383733000.0,
-          "shares": 14776.0,
-          "weight": 0.57
-        },
-        {
-          "name": "JACKSON FINANCIAL INC",
-          "value": 370372000.0,
-          "shares": 2864.0,
-          "weight": 0.55
-        },
-        {
-          "name": "JEFFERIES FINANCIAL GROUP IN",
-          "value": 332366000.0,
-          "shares": 7268.0,
-          "weight": 0.49
-        },
-        {
-          "name": "STANLEY BLACK &amp; DECKER INC",
-          "value": 319367000.0,
-          "shares": 3605.0,
-          "weight": 0.47
-        },
-        {
-          "name": "PBF ENERGY INC",
-          "value": 317845000.0,
-          "shares": 4130.0,
-          "weight": 0.47
-        },
-        {
-          "name": "CARMAX INC",
-          "value": 308396000.0,
-          "shares": 5596.0,
-          "weight": 0.46
-        },
-        {
-          "name": "SYNDAX PHARMACEUTICALS INC",
-          "value": 303000000.0,
-          "shares": 16117.0,
-          "weight": 0.45
-        },
-        {
-          "name": "ARCUS BIOSCIENCES INC",
-          "value": 297019000.0,
-          "shares": 11499.0,
-          "weight": 0.44
-        },
-        {
-          "name": "SYNAPTICS INC",
-          "value": 296073000.0,
-          "shares": 2920.0,
-          "weight": 0.44
-        },
-        {
-          "name": "REMITLY GLOBAL INC",
-          "value": 294897000.0,
-          "shares": 13819.0,
-          "weight": 0.44
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1598176",
-      "name": "Bayshore Capital Advisors, LLC",
-      "cik": "1598176",
-      "period": "2026-09-30",
-      "filed": "2026-11-02",
-      "totalValue": 193760964000.0,
-      "holdings": [
-        {
-          "name": "USA RARE EARTH INC",
-          "value": 62276234000.0,
-          "shares": 4423028.0,
-          "weight": 32.14
-        },
-        {
-          "name": "SPDR GOLD TR",
-          "value": 29085465000.0,
-          "shares": 76371.0,
-          "weight": 15.01
-        },
-        {
-          "name": "VANECK ETF TRUST",
-          "value": 17441978000.0,
-          "shares": 358753.0,
-          "weight": 9.0
-        },
-        {
-          "name": "FIDELITY WISE ORIGIN BITCOIN",
-          "value": 12815076000.0,
-          "shares": 176419.0,
-          "weight": 6.61
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 11803320000.0,
-          "shares": 57636.0,
-          "weight": 6.09
-        },
-        {
-          "name": "ISHARES BITCOIN TRUST ETF",
-          "value": 10803018000.0,
-          "shares": 228200.0,
-          "weight": 5.58
-        },
-        {
-          "name": "GLOBAL X FDS",
-          "value": 6364222000.0,
-          "shares": 75138.0,
-          "weight": 3.28
-        },
-        {
-          "name": "BLUE OWL TECHNOLOGY FIN CORP",
-          "value": 5796778000.0,
-          "shares": 590905.0,
-          "weight": 2.99
-        },
-        {
-          "name": "ARES CAPITAL CORP",
-          "value": 4698600000.0,
-          "shares": 246000.0,
-          "weight": 2.42
-        },
-        {
-          "name": "BLUE OWL CAPITAL CORPORATION",
-          "value": 3813168000.0,
-          "shares": 363505.0,
-          "weight": 1.97
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1453885",
-      "name": "Beach Point Capital Management LP",
-      "cik": "1453885",
-      "period": "2026-09-30",
-      "filed": "2026-10-20",
-      "totalValue": 228727848000.0,
-      "holdings": [
-        {
-          "name": "VELOCITY FINL INC",
-          "value": 103430438000.0,
-          "shares": 6881228.0,
-          "weight": 45.22
-        },
-        {
-          "name": "DIEBOLD NIXDORF INC",
-          "value": 40829516000.0,
-          "shares": 666931.0,
-          "weight": 17.85
-        },
-        {
-          "name": "CLARITEV CORPORATION",
-          "value": 15890181000.0,
-          "shares": 750599.0,
-          "weight": 6.95
-        },
-        {
-          "name": "ZIFF DAVIS INC",
-          "value": 13403047000.0,
-          "shares": 236427.0,
-          "weight": 5.86
-        },
-        {
-          "name": "FINANCE OF AMERICA COMPAN",
-          "value": 11274792000.0,
-          "shares": 891993.0,
-          "weight": 4.93
-        },
-        {
-          "name": "GUGGENHEIM STRATEGIC OPPORTU",
-          "value": 8860187000.0,
-          "shares": 1041150.0,
-          "weight": 3.87
-        },
-        {
-          "name": "PENNYMAC MTG INVT TR",
-          "value": 6701806000.0,
-          "shares": 850483.0,
-          "weight": 2.93
-        },
-        {
-          "name": "BAUSCH PLUS LOMB CORP",
-          "value": 5882323000.0,
-          "shares": 346019.0,
-          "weight": 2.57
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 4765130000.0,
-          "shares": 32752.0,
-          "weight": 2.08
-        },
-        {
-          "name": "CRESCENT CAP BDC INC",
-          "value": 4735889000.0,
-          "shares": 515892.0,
-          "weight": 2.07
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1831984",
-      "name": "Beacon Bank & Trust",
-      "cik": "1831984",
-      "period": "2026-09-30",
-      "filed": "2026-10-27",
-      "totalValue": 515663303000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 73808735000.0,
-          "shares": 755194.0,
-          "weight": 14.31
-        },
-        {
-          "name": "VANGUARD SCOTTSDALE FDS",
-          "value": 59620981000.0,
-          "shares": 1041082.0,
-          "weight": 11.56
-        },
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 46212327000.0,
-          "shares": 60596.0,
-          "weight": 8.96
-        },
-        {
-          "name": "J P MORGAN EXCHANGE TRADED F",
-          "value": 24322055000.0,
-          "shares": 495583.0,
-          "weight": 4.72
-        },
-        {
-          "name": "APPLE INC",
-          "value": 22178132000.0,
-          "shares": 66597.0,
-          "weight": 4.3
-        },
-        {
-          "name": "VANGUARD WHITEHALL FDS",
-          "value": 20601713000.0,
-          "shares": 132743.0,
-          "weight": 4.0
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 18940142000.0,
-          "shares": 55104.0,
-          "weight": 3.67
-        },
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 17347058000.0,
-          "shares": 75957.0,
-          "weight": 3.36
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 16826710000.0,
-          "shares": 32807.0,
-          "weight": 3.26
-        },
-        {
-          "name": "JPMORGAN CHASE &amp; CO",
-          "value": 9960629000.0,
-          "shares": 30108.0,
-          "weight": 1.93
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1575301",
-      "name": "Beacon Capital Management, Inc.",
-      "cik": "1575301",
-      "period": "2026-09-30",
-      "filed": "2026-10-13",
-      "totalValue": 1590325460000.0,
-      "holdings": [
-        {
-          "name": "VANGUARD WORLD FD",
-          "value": 793087493000.0,
-          "shares": 4097733.0,
-          "weight": 49.87
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 113428275000.0,
-          "shares": 153329.0,
-          "weight": 7.13
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 108791474000.0,
-          "shares": 2143483.0,
-          "weight": 6.84
-        },
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 99955029000.0,
-          "shares": 131066.0,
-          "weight": 6.29
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 77180921000.0,
-          "shares": 861106.0,
-          "weight": 4.85
-        },
-        {
-          "name": "VANGUARD SCOTTSDALE FDS",
-          "value": 61098748000.0,
-          "shares": 926233.0,
-          "weight": 3.84
-        },
-        {
-          "name": "VANGUARD BD INDEX FDS",
-          "value": 57689946000.0,
-          "shares": 818829.0,
-          "weight": 3.63
-        },
-        {
-          "name": "NORTHERN LTS FD TR II",
-          "value": 55479457000.0,
-          "shares": 1985131.0,
-          "weight": 3.49
-        },
-        {
-          "name": "VANGUARD MALVERN FDS",
-          "value": 47170021000.0,
-          "shares": 958351.0,
-          "weight": 2.97
-        },
-        {
-          "name": "VICTORY PORTFOLIOS II",
-          "value": 29638988000.0,
-          "shares": 667485.0,
-          "weight": 1.86
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1921487",
-      "name": "Beacon Capital Management, LLC",
-      "cik": "1921487",
-      "period": "2026-09-30",
-      "filed": "2026-10-23",
-      "totalValue": 716293783000.0,
-      "holdings": [
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 93826466000.0,
-          "shares": 123030.0,
-          "weight": 13.1
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 80864838000.0,
-          "shares": 433016.0,
-          "weight": 11.29
-        },
-        {
-          "name": "BLACKROCK ETF TRUST",
-          "value": 75759962000.0,
-          "shares": 1642521.0,
-          "weight": 10.58
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 70310653000.0,
-          "shares": 738337.0,
-          "weight": 9.82
-        },
-        {
-          "name": "VANGUARD WORLD FD",
-          "value": 57282608000.0,
-          "shares": 569549.0,
-          "weight": 8.0
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 51227386000.0,
-          "shares": 569954.0,
-          "weight": 7.15
-        },
-        {
-          "name": "INVESCO QQQ TR",
-          "value": 50284588000.0,
-          "shares": 67973.0,
-          "weight": 7.02
-        },
-        {
-          "name": "PIMCO ETF TR",
-          "value": 44594838000.0,
-          "shares": 459778.0,
-          "weight": 6.23
-        },
-        {
-          "name": "APPLE INC",
-          "value": 18290826000.0,
-          "shares": 54924.0,
-          "weight": 2.55
-        },
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 17488759000.0,
-          "shares": 76577.0,
-          "weight": 2.44
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1800502",
-      "name": "Beacon Financial Advisory LLC",
-      "cik": "1800502",
-      "period": "2026-09-30",
-      "filed": "2026-10-16",
-      "totalValue": 528506103000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 56373416000.0,
-          "shares": 649614.0,
-          "weight": 10.67
-        },
-        {
-          "name": "J P MORGAN EXCHANGE TRADED F",
-          "value": 42829746000.0,
-          "shares": 764980.0,
-          "weight": 8.1
-        },
-        {
-          "name": "INNOVATOR ETFS TRUST",
-          "value": 24115942000.0,
-          "shares": 583218.0,
-          "weight": 4.56
-        },
-        {
-          "name": "FIRST TR EXCHANGE-TRADED FD",
-          "value": 23806305000.0,
-          "shares": 482045.0,
-          "weight": 4.5
-        },
-        {
-          "name": "GOLDMAN SACHS ETF TR",
-          "value": 22572923000.0,
-          "shares": 367329.0,
-          "weight": 4.27
-        },
-        {
-          "name": "CAPITAL GROUP DIVIDEND VALUE",
-          "value": 22120032000.0,
-          "shares": 452815.0,
-          "weight": 4.19
-        },
-        {
-          "name": "T ROWE PRICE EXCHANGE-TRADED",
-          "value": 12688219000.0,
-          "shares": 301425.0,
-          "weight": 2.4
-        },
-        {
-          "name": "APPLE INC",
-          "value": 12354939000.0,
-          "shares": 37100.0,
-          "weight": 2.34
-        },
-        {
-          "name": "DIMENSIONAL ETF TRUST",
-          "value": 11449724000.0,
-          "shares": 224051.0,
-          "weight": 2.17
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 11339594000.0,
-          "shares": 115276.0,
-          "weight": 2.15
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2084239",
-      "name": "Beacon Financial Strategies CORP",
-      "cik": "2084239",
-      "period": "2026-09-30",
-      "filed": "2026-10-14",
-      "totalValue": 203384723000.0,
-      "holdings": [
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 80252797000.0,
-          "shares": 382315.0,
-          "weight": 39.46
-        },
-        {
-          "name": "DIMENSIONAL ETF TRUST",
-          "value": 37985764000.0,
-          "shares": 835877.0,
-          "weight": 18.68
-        },
-        {
-          "name": "VANGUARD SCOTTSDALE FDS",
-          "value": 34185150000.0,
-          "shares": 481804.0,
-          "weight": 16.81
-        },
-        {
-          "name": "VANGUARD TAX-MANAGED FDS",
-          "value": 17861106000.0,
-          "shares": 252954.0,
-          "weight": 8.78
-        },
-        {
-          "name": "VANGUARD STAR FDS",
-          "value": 11452967000.0,
-          "shares": 134804.0,
-          "weight": 5.63
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 2013365000.0,
-          "shares": 12954.0,
-          "weight": 0.99
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 1703439000.0,
-          "shares": 6837.0,
-          "weight": 0.84
-        },
-        {
-          "name": "INNOVATOR ETFS TRUST",
-          "value": 1357158000.0,
-          "shares": 35567.0,
-          "weight": 0.67
-        },
-        {
-          "name": "APPLE INC",
-          "value": 1115243000.0,
-          "shares": 3349.0,
-          "weight": 0.55
-        },
-        {
-          "name": "ELI LILLY &amp; CO",
-          "value": 1085230000.0,
-          "shares": 938.0,
-          "weight": 0.53
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1849336",
-      "name": "Beacon Wealthcare LLC",
-      "cik": "1849336",
-      "period": "2026-09-30",
-      "filed": "2026-10-02",
-      "totalValue": 315408703000.0,
-      "holdings": [
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 168834400000.0,
-          "shares": 454681.0,
-          "weight": 53.53
-        },
-        {
-          "name": "SCHWAB STRATEGIC TR",
-          "value": 51602761000.0,
-          "shares": 2048883.0,
-          "weight": 16.36
-        },
-        {
-          "name": "ISHARES TR",
-          "value": 49514882000.0,
-          "shares": 557749.0,
-          "weight": 15.7
-        },
-        {
-          "name": "VANGUARD INTL EQUITY INDEX F",
-          "value": 23729337000.0,
-          "shares": 285999.0,
-          "weight": 7.52
-        },
-        {
-          "name": "VANGUARD MUN BD FDS",
-          "value": 8845009000.0,
-          "shares": 186761.0,
-          "weight": 2.8
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 4867000000.0,
-          "shares": 53110.0,
-          "weight": 1.54
-        },
-        {
-          "name": "APPLE INC",
-          "value": 1907887000.0,
-          "shares": 5729.0,
-          "weight": 0.6
-        },
-        {
-          "name": "STATE STR SPDR S&amp;P 500 ETF T",
-          "value": 1696112000.0,
-          "shares": 2224.0,
-          "weight": 0.54
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 813142000.0,
-          "shares": 1585.0,
-          "weight": 0.26
-        },
-        {
-          "name": "DUKE ENERGY CORP NEW",
-          "value": 449142000.0,
-          "shares": 3939.0,
-          "weight": 0.14
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "2160035",
-      "name": "Beau Ventures, LLc",
-      "cik": "2160035",
-      "period": "2026-09-30",
-      "filed": "2026-10-14",
-      "totalValue": 1060040932000.0,
-      "holdings": [
-        {
-          "name": "ALPHABET INC",
-          "value": 477080637000.0,
-          "shares": 1400131.0,
-          "weight": 45.01
-        },
-        {
-          "name": "MODERNA INC",
-          "value": 192580784000.0,
-          "shares": 1000056.0,
-          "weight": 18.17
-        },
-        {
-          "name": "META PLATFORMS INC",
-          "value": 145072984000.0,
-          "shares": 200051.0,
-          "weight": 13.69
-        },
-        {
-          "name": "ILLUMINA INC",
-          "value": 54757347000.0,
-          "shares": 200078.0,
-          "weight": 5.17
-        },
-        {
-          "name": "INTERNATIONAL BUSINESS MACHS",
-          "value": 34865063000.0,
-          "shares": 158528.0,
-          "weight": 3.29
-        },
-        {
-          "name": "CVS HEALTH CORP",
-          "value": 27886268000.0,
-          "shares": 325432.0,
-          "weight": 2.63
-        },
-        {
-          "name": "ADOBE INC",
-          "value": 24013195000.0,
-          "shares": 100080.0,
-          "weight": 2.27
-        },
-        {
-          "name": "BIOGEN INC",
-          "value": 22588000000.0,
-          "shares": 100000.0,
-          "weight": 2.13
-        },
-        {
-          "name": "EBAY INC.",
-          "value": 21210000000.0,
-          "shares": 200000.0,
-          "weight": 2.0
-        },
-        {
-          "name": "TARGET CORP",
-          "value": 15669000000.0,
-          "shares": 100000.0,
-          "weight": 1.48
-        }
-      ],
-      "moves": null,
-      "error": null
-    },
-    {
-      "key": "1798756",
-      "name": "Beaumont Asset Management, L.L.C.",
-      "cik": "1798756",
-      "period": "2026-09-30",
-      "filed": "2026-10-16",
-      "totalValue": 289339835000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 118055617000.0,
-          "shares": 1434686.0,
-          "weight": 40.8
-        },
-        {
-          "name": "PGIM ETF TR",
-          "value": 21836107000.0,
-          "shares": 441490.0,
-          "weight": 7.55
-        },
-        {
-          "name": "VANECK ETF TRUST",
-          "value": 20077506000.0,
-          "shares": 181470.0,
-          "weight": 6.94
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 11830946000.0,
-          "shares": 50308.0,
-          "weight": 4.09
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 10388941000.0,
-          "shares": 30193.0,
-          "weight": 3.59
-        },
-        {
-          "name": "JANUS DETROIT STR TR",
-          "value": 10181543000.0,
-          "shares": 201735.0,
-          "weight": 3.52
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 8894367000.0,
-          "shares": 17341.0,
-          "weight": 3.07
-        },
-        {
-          "name": "VANGUARD INTL EQUITY INDEX F",
-          "value": 7326779000.0,
-          "shares": 88306.0,
-          "weight": 2.53
-        },
-        {
-          "name": "INVESCO EXCHANGE TRADED FD T",
-          "value": 7079967000.0,
-          "shares": 84205.0,
-          "weight": 2.45
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 6114490000.0,
-          "shares": 11545.0,
-          "weight": 2.11
         }
       ],
       "moves": null,
