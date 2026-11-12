@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T20:05:56.291811+00:00",
+  "generatedAt": "2026-11-12T20:46:00.244043+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -14063,73 +14063,7 @@
       "key": "1697765",
       "name": "Achmea Investment Management B.V.",
       "cik": "1697765",
-      "period": "2026-09-30",
-      "filed": "2026-10-30",
-      "totalValue": 12586291772000.0,
-      "holdings": [
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 895743173000.0,
-          "shares": 3919056.0,
-          "weight": 7.12
-        },
-        {
-          "name": "APPLE INC",
-          "value": 827045570000.0,
-          "shares": 2481505.0,
-          "weight": 6.57
-        },
-        {
-          "name": "ALPHABET INC",
-          "value": 645919609000.0,
-          "shares": 1884152.0,
-          "weight": 5.13
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 611539367000.0,
-          "shares": 1191373.0,
-          "weight": 4.86
-        },
-        {
-          "name": "AMAZON COM INC",
-          "value": 362092084000.0,
-          "shares": 1452159.0,
-          "weight": 2.88
-        },
-        {
-          "name": "META PLATFORMS INC",
-          "value": 260363005000.0,
-          "shares": 358748.0,
-          "weight": 2.07
-        },
-        {
-          "name": "BROADCOM INC",
-          "value": 254406433000.0,
-          "shares": 723839.0,
-          "weight": 2.02
-        },
-        {
-          "name": "MICRON TECHNOLOGY INC",
-          "value": 216487780000.0,
-          "shares": 203093.0,
-          "weight": 1.72
-        },
-        {
-          "name": "WALMART INC",
-          "value": 168460381000.0,
-          "shares": 1619775.0,
-          "weight": 1.34
-        },
-        {
-          "name": "JPMORGAN CHASE &amp; CO",
-          "value": 153769116000.0,
-          "shares": 464430.0,
-          "weight": 1.22
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "key": "2067071",
@@ -16583,73 +16517,7 @@
       "key": "1810023",
       "name": "Affinity Capital Advisors, LLC",
       "cik": "1810023",
-      "period": "2026-09-30",
-      "filed": "2026-10-13",
-      "totalValue": 855788664000.0,
-      "holdings": [
-        {
-          "name": "ISHARES TR",
-          "value": 351170049000.0,
-          "shares": 3921903.0,
-          "weight": 41.03
-        },
-        {
-          "name": "VANGUARD INDEX FDS",
-          "value": 163710337000.0,
-          "shares": 1195063.0,
-          "weight": 19.13
-        },
-        {
-          "name": "APPLE INC",
-          "value": 62380221000.0,
-          "shares": 185302.0,
-          "weight": 7.29
-        },
-        {
-          "name": "ISHARES INC",
-          "value": 42304511000.0,
-          "shares": 495860.0,
-          "weight": 4.94
-        },
-        {
-          "name": "SCHWAB STRATEGIC TR",
-          "value": 31152027000.0,
-          "shares": 1077453.0,
-          "weight": 3.64
-        },
-        {
-          "name": "SPDR SERIES TRUST",
-          "value": 25223756000.0,
-          "shares": 277297.0,
-          "weight": 2.95
-        },
-        {
-          "name": "SELECT SECTOR SPDR TR",
-          "value": 23378176000.0,
-          "shares": 119801.0,
-          "weight": 2.73
-        },
-        {
-          "name": "NVIDIA CORPORATION",
-          "value": 9796578000.0,
-          "shares": 42728.0,
-          "weight": 1.14
-        },
-        {
-          "name": "MICROSOFT CORP",
-          "value": 8300481000.0,
-          "shares": 15513.0,
-          "weight": 0.97
-        },
-        {
-          "name": "VANGUARD WORLD FD",
-          "value": 7985402000.0,
-          "shares": 61683.0,
-          "weight": 0.93
-        }
-      ],
-      "moves": null,
-      "error": null
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "key": "1900409",
