@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T21:18:57.029656+00:00",
+  "generatedAt": "2026-11-20T21:00:41.670708+00:00",
   "funds": [
     {
       "key": "1350694",
@@ -28397,7 +28397,73 @@
       "key": "1651473",
       "name": "Alight Capital Management LP",
       "cik": "1651473",
-      "error": "HTTP Error 504: Gateway Time-out"
+      "period": "2026-09-30",
+      "filed": "2026-11-13",
+      "totalValue": 831222650000.0,
+      "holdings": [
+        {
+          "name": "INVESCO QQQ TR",
+          "value": 221931000000.0,
+          "shares": 300000.0,
+          "weight": 26.7
+        },
+        {
+          "name": "MICROSOFT CORP",
+          "value": 114838310000.0,
+          "shares": 223900.0,
+          "weight": 13.82
+        },
+        {
+          "name": "AMAZON COM INC",
+          "value": 49755255000.0,
+          "shares": 199700.0,
+          "weight": 5.99
+        },
+        {
+          "name": "NVIDIA CORPORATION",
+          "value": 43392200000.0,
+          "shares": 190000.0,
+          "weight": 5.22
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "value": 29369790000.0,
+          "shares": 40500.0,
+          "weight": 3.53
+        },
+        {
+          "name": "TAIWAN SEMICONDUCTOR MANUFAC",
+          "value": 20528550000.0,
+          "shares": 45000.0,
+          "weight": 2.47
+        },
+        {
+          "name": "INTEL CORP",
+          "value": 15028750000.0,
+          "shares": 125000.0,
+          "weight": 1.81
+        },
+        {
+          "name": "ARM HOLDINGS PLC",
+          "value": 14483000000.0,
+          "shares": 50000.0,
+          "weight": 1.74
+        },
+        {
+          "name": "APPLE INC",
+          "value": 14153350000.0,
+          "shares": 42500.0,
+          "weight": 1.7
+        },
+        {
+          "name": "VICOR CORP",
+          "value": 12279950000.0,
+          "shares": 42500.0,
+          "weight": 1.48
+        }
+      ],
+      "moves": null,
+      "error": null
     },
     {
       "key": "2089183",
@@ -31187,7 +31253,73 @@
       "key": "1713662",
       "name": "AlphaCore Capital LLC",
       "cik": "1713662",
-      "error": "HTTP Error 504: Gateway Time-out"
+      "period": "2026-09-30",
+      "filed": "2026-11-04",
+      "totalValue": 6238733501000.0,
+      "holdings": [
+        {
+          "name": "ISHARES TR",
+          "value": 925354894000.0,
+          "shares": 8536029.0,
+          "weight": 14.83
+        },
+        {
+          "name": "SCHWAB STRATEGIC TR",
+          "value": 514902508000.0,
+          "shares": 15883088.0,
+          "weight": 8.25
+        },
+        {
+          "name": "VANGUARD INDEX FDS",
+          "value": 430204473000.0,
+          "shares": 1319872.0,
+          "weight": 6.9
+        },
+        {
+          "name": "J P MORGAN EXCHANGE TRADED F",
+          "value": 214556427000.0,
+          "shares": 3396193.0,
+          "weight": 3.44
+        },
+        {
+          "name": "INVESCO EXCHANGE TRADED FD T",
+          "value": 192438812000.0,
+          "shares": 1868068.0,
+          "weight": 3.08
+        },
+        {
+          "name": "SELECT SECTOR SPDR TR",
+          "value": 172020639000.0,
+          "shares": 1423002.0,
+          "weight": 2.76
+        },
+        {
+          "name": "APPLE INC",
+          "value": 146403703000.0,
+          "shares": 439276.0,
+          "weight": 2.35
+        },
+        {
+          "name": "SPDR SERIES TRUST",
+          "value": 139860931000.0,
+          "shares": 1361996.0,
+          "weight": 2.24
+        },
+        {
+          "name": "META PLATFORMS INC",
+          "value": 125426605000.0,
+          "shares": 172959.0,
+          "weight": 2.01
+        },
+        {
+          "name": "SPDR INDEX SHS FDS",
+          "value": 110614296000.0,
+          "shares": 2199233.0,
+          "weight": 1.77
+        }
+      ],
+      "moves": null,
+      "error": null
     },
     {
       "key": "2148988",
